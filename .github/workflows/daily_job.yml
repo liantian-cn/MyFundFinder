@@ -26,3 +26,9 @@ jobs:
       run: python3 daily_update.py
       env:
         LIXINGER_TOKEN: ${{ secrets.LIXINGER_TOKEN }}
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
