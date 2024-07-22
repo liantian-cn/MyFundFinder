@@ -1,6 +1,8 @@
 name: Daily Job
 
-on: workflow_dispatch
+on:
+  schedule:
+  - cron: "0 14 * * 1-5"
 
 
 jobs:
