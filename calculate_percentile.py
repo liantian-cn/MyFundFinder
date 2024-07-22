@@ -16,10 +16,10 @@ def calculate_percentile(df):
     df['pe_percentile'] = df['pe_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     df['dyr_percentile'] = df['dyr.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     df['ps_percentile'] = df['ps_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
-    if 'fb' in df.columns:
-        df['fb_percentile_1300'] = df['fb'].rolling(window=1300, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
-    if 'sb' in df.columns:
-        df['sb_percentile_1300'] = df['sb'].rolling(window=1300, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    # if 'fb' in df.columns:
+    #     df['fb_percentile_1300'] = df['fb'].rolling(window=1300, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    # if 'sb' in df.columns:
+    #     df['sb_percentile_1300'] = df['sb'].rolling(window=1300, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 1年约260个工作日
     # df['pb_percentile'] = df['pb'].rolling(window=2600, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     # df['pe_percentile'] = df['pe_ttm'].rolling(window=2600, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])

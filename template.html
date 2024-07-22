@@ -30,8 +30,8 @@
             <th>滚动市销率(历史百分位)</th>
             <th>换手率</th>
             <th>市值/亿</th>
-            <th>融资(历史百分位)</th>
-            <th>融券(历史百分位)</th>
+<!--            <th>融资(历史百分位)</th>-->
+<!--            <th>融券(历史百分位)</th>-->
             <th>场内ETF</th>
         </tr>
         </thead>
@@ -68,8 +68,8 @@
                 <td title="{{ index.ps_percentile }}">{{ index.ps_percentile_display }}</td>    <!--          <th>滚动市销率(历史百分位)</th>-->
                 <td title="{{ index.to_r }}">{{ index.to_r_display }}</td>    <!--          <th>换手率</th>-->
                 <td title="{{ index.mc }}">{{ index.mc_display }}</td>    <!--          <th>市值</th>-->
-                <td title="{{ index.fb_percentile }}">{{ index.fb_display }}</td>    <!--          <th>市值</th>-->
-                <td title="{{ index.sb_percentile }}">{{ index.sb_display }}</td>    <!--          <th>市值</th>-->
+<!--                <td title="{{ index.fb_percentile }}">{{ index.fb_display }}</td> -->
+<!--                <td title="{{ index.sb_percentile }}">{{ index.sb_display }}</td>  -->
                 <td title="{% for etf in index.etf %}{{ etf }},{% endfor %}">   {{ index.etf|length }} 个</td>
             </tr>
         {% endfor %}

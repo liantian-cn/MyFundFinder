@@ -13,9 +13,7 @@
         "pb_percentile":1.0,
         "pe_percentile":1.0,
         "dyr_percentile":1.0,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1655136000000,
@@ -31,9 +29,7 @@
         "pb_percentile":0.5,
         "pe_percentile":0.5,
         "dyr_percentile":1.0,
-        "ps_percentile":0.5,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.5
+        "ps_percentile":0.5
     },
     {
         "date":1655222400000,
@@ -49,9 +45,7 @@
         "pb_percentile":0.6666666667,
         "pe_percentile":0.6666666667,
         "dyr_percentile":0.6666666667,
-        "ps_percentile":0.6666666667,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.3333333333
+        "ps_percentile":0.6666666667
     },
     {
         "date":1655308800000,
@@ -67,9 +61,7 @@
         "pb_percentile":0.75,
         "pe_percentile":0.75,
         "dyr_percentile":0.5,
-        "ps_percentile":0.75,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.75
+        "ps_percentile":0.75
     },
     {
         "date":1655395200000,
@@ -85,9 +77,7 @@
         "pb_percentile":0.6,
         "pe_percentile":0.6,
         "dyr_percentile":0.6,
-        "ps_percentile":0.6,
-        "fb_percentile_1300":0.6,
-        "sb_percentile_1300":0.6
+        "ps_percentile":0.6
     },
     {
         "date":1655654400000,
@@ -103,9 +93,7 @@
         "pb_percentile":1.0,
         "pe_percentile":1.0,
         "dyr_percentile":0.1666666667,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1655740800000,
@@ -121,9 +109,7 @@
         "pb_percentile":0.4285714286,
         "pe_percentile":0.5714285714,
         "dyr_percentile":0.5714285714,
-        "ps_percentile":0.5714285714,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.5714285714
+        "ps_percentile":0.5714285714
     },
     {
         "date":1655827200000,
@@ -139,9 +125,7 @@
         "pb_percentile":0.125,
         "pe_percentile":0.125,
         "dyr_percentile":1.0,
-        "ps_percentile":0.125,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.125
+        "ps_percentile":0.125
     },
     {
         "date":1655913600000,
@@ -157,9 +141,7 @@
         "pb_percentile":0.4444444444,
         "pe_percentile":0.4444444444,
         "dyr_percentile":0.6666666667,
-        "ps_percentile":0.4444444444,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.4444444444
     },
     {
         "date":1656000000000,
@@ -175,9 +157,7 @@
         "pb_percentile":0.8,
         "pe_percentile":0.9,
         "dyr_percentile":0.2,
-        "ps_percentile":0.9,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.9
     },
     {
         "date":1656259200000,
@@ -193,9 +173,7 @@
         "pb_percentile":1.0,
         "pe_percentile":1.0,
         "dyr_percentile":0.0909090909,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1656345600000,
@@ -211,9 +189,7 @@
         "pb_percentile":1.0,
         "pe_percentile":1.0,
         "dyr_percentile":0.0833333333,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1656432000000,
@@ -229,9 +205,7 @@
         "pb_percentile":0.9230769231,
         "pe_percentile":0.9230769231,
         "dyr_percentile":0.1538461538,
-        "ps_percentile":0.9230769231,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.9230769231
     },
     {
         "date":1656518400000,
@@ -247,9 +221,7 @@
         "pb_percentile":0.9285714286,
         "pe_percentile":0.9285714286,
         "dyr_percentile":0.1428571429,
-        "ps_percentile":0.9285714286,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.9285714286
     },
     {
         "date":1656604800000,
@@ -265,9 +237,7 @@
         "pb_percentile":0.8666666667,
         "pe_percentile":0.8666666667,
         "dyr_percentile":0.2,
-        "ps_percentile":0.8666666667,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.9333333333
+        "ps_percentile":0.8666666667
     },
     {
         "date":1656864000000,
@@ -283,9 +253,7 @@
         "pb_percentile":0.625,
         "pe_percentile":0.625,
         "dyr_percentile":0.4375,
-        "ps_percentile":0.625,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.875
+        "ps_percentile":0.625
     },
     {
         "date":1656950400000,
@@ -301,9 +269,7 @@
         "pb_percentile":0.7058823529,
         "pe_percentile":0.6470588235,
         "dyr_percentile":0.4117647059,
-        "ps_percentile":0.6470588235,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.7647058824
+        "ps_percentile":0.6470588235
     },
     {
         "date":1657036800000,
@@ -319,9 +285,7 @@
         "pb_percentile":0.8333333333,
         "pe_percentile":0.8333333333,
         "dyr_percentile":0.2222222222,
-        "ps_percentile":0.8333333333,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.8333333333
     },
     {
         "date":1657123200000,
@@ -337,9 +301,7 @@
         "pb_percentile":0.7894736842,
         "pe_percentile":0.7894736842,
         "dyr_percentile":0.2631578947,
-        "ps_percentile":0.7894736842,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.9473684211
+        "ps_percentile":0.7894736842
     },
     {
         "date":1657209600000,
@@ -355,9 +317,7 @@
         "pb_percentile":0.85,
         "pe_percentile":0.85,
         "dyr_percentile":0.2,
-        "ps_percentile":0.85,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.85
     },
     {
         "date":1657468800000,
@@ -373,9 +333,7 @@
         "pb_percentile":0.380952381,
         "pe_percentile":0.380952381,
         "dyr_percentile":0.6666666667,
-        "ps_percentile":0.380952381,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.8571428571
+        "ps_percentile":0.380952381
     },
     {
         "date":1657555200000,
@@ -391,9 +349,7 @@
         "pb_percentile":0.0909090909,
         "pe_percentile":0.0909090909,
         "dyr_percentile":0.9545454545,
-        "ps_percentile":0.0909090909,
-        "fb_percentile_1300":0.9090909091,
-        "sb_percentile_1300":0.7727272727
+        "ps_percentile":0.0909090909
     },
     {
         "date":1657641600000,
@@ -409,9 +365,7 @@
         "pb_percentile":0.0434782609,
         "pe_percentile":0.0434782609,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0434782609,
-        "fb_percentile_1300":0.8695652174,
-        "sb_percentile_1300":0.8695652174
+        "ps_percentile":0.0434782609
     },
     {
         "date":1657728000000,
@@ -427,9 +381,7 @@
         "pb_percentile":0.125,
         "pe_percentile":0.125,
         "dyr_percentile":0.9166666667,
-        "ps_percentile":0.125,
-        "fb_percentile_1300":0.7916666667,
-        "sb_percentile_1300":0.875
+        "ps_percentile":0.125
     },
     {
         "date":1657814400000,
@@ -445,9 +397,7 @@
         "pb_percentile":0.16,
         "pe_percentile":0.16,
         "dyr_percentile":0.88,
-        "ps_percentile":0.16,
-        "fb_percentile_1300":0.72,
-        "sb_percentile_1300":0.96
+        "ps_percentile":0.16
     },
     {
         "date":1658073600000,
@@ -463,9 +413,7 @@
         "pb_percentile":0.0769230769,
         "pe_percentile":0.0769230769,
         "dyr_percentile":0.9615384615,
-        "ps_percentile":0.0769230769,
-        "fb_percentile_1300":0.8076923077,
-        "sb_percentile_1300":0.9615384615
+        "ps_percentile":0.0769230769
     },
     {
         "date":1658160000000,
@@ -481,9 +429,7 @@
         "pb_percentile":0.0740740741,
         "pe_percentile":0.0740740741,
         "dyr_percentile":0.962962963,
-        "ps_percentile":0.0740740741,
-        "fb_percentile_1300":0.8148148148,
-        "sb_percentile_1300":0.962962963
+        "ps_percentile":0.0740740741
     },
     {
         "date":1658246400000,
@@ -499,9 +445,7 @@
         "pb_percentile":0.25,
         "pe_percentile":0.25,
         "dyr_percentile":0.7857142857,
-        "ps_percentile":0.25,
-        "fb_percentile_1300":0.75,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.25
     },
     {
         "date":1658332800000,
@@ -517,9 +461,7 @@
         "pb_percentile":0.4137931034,
         "pe_percentile":0.3793103448,
         "dyr_percentile":0.6551724138,
-        "ps_percentile":0.3793103448,
-        "fb_percentile_1300":0.6206896552,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.3793103448
     },
     {
         "date":1658419200000,
@@ -535,9 +477,7 @@
         "pb_percentile":0.3,
         "pe_percentile":0.3,
         "dyr_percentile":0.7333333333,
-        "ps_percentile":0.3,
-        "fb_percentile_1300":0.7,
-        "sb_percentile_1300":0.9666666667
+        "ps_percentile":0.3
     },
     {
         "date":1658678400000,
@@ -553,9 +493,7 @@
         "pb_percentile":0.2903225806,
         "pe_percentile":0.2580645161,
         "dyr_percentile":0.7741935484,
-        "ps_percentile":0.2580645161,
-        "fb_percentile_1300":0.5806451613,
-        "sb_percentile_1300":0.935483871
+        "ps_percentile":0.2580645161
     },
     {
         "date":1658764800000,
@@ -571,9 +509,7 @@
         "pb_percentile":0.3125,
         "pe_percentile":0.3125,
         "dyr_percentile":0.71875,
-        "ps_percentile":0.3125,
-        "fb_percentile_1300":0.5625,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.3125
     },
     {
         "date":1658851200000,
@@ -589,9 +525,7 @@
         "pb_percentile":0.1818181818,
         "pe_percentile":0.1515151515,
         "dyr_percentile":0.8787878788,
-        "ps_percentile":0.1515151515,
-        "fb_percentile_1300":0.5757575758,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.1515151515
     },
     {
         "date":1658937600000,
@@ -607,9 +541,7 @@
         "pb_percentile":0.4411764706,
         "pe_percentile":0.4411764706,
         "dyr_percentile":0.5882352941,
-        "ps_percentile":0.4411764706,
-        "fb_percentile_1300":0.5588235294,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.4411764706
     },
     {
         "date":1659024000000,
@@ -625,9 +557,7 @@
         "pb_percentile":0.0857142857,
         "pe_percentile":0.0857142857,
         "dyr_percentile":0.9428571429,
-        "ps_percentile":0.0857142857,
-        "fb_percentile_1300":0.4571428571,
-        "sb_percentile_1300":0.9714285714
+        "ps_percentile":0.0857142857
     },
     {
         "date":1659283200000,
@@ -643,9 +573,7 @@
         "pb_percentile":0.3611111111,
         "pe_percentile":0.3611111111,
         "dyr_percentile":0.6666666667,
-        "ps_percentile":0.3611111111,
-        "fb_percentile_1300":0.4444444444,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.3611111111
     },
     {
         "date":1659369600000,
@@ -661,9 +589,7 @@
         "pb_percentile":0.3243243243,
         "pe_percentile":0.3243243243,
         "dyr_percentile":0.7027027027,
-        "ps_percentile":0.3243243243,
-        "fb_percentile_1300":0.3783783784,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.3243243243
     },
     {
         "date":1659456000000,
@@ -679,9 +605,7 @@
         "pb_percentile":0.8157894737,
         "pe_percentile":0.7368421053,
         "dyr_percentile":0.2894736842,
-        "ps_percentile":0.7368421053,
-        "fb_percentile_1300":0.4473684211,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.7368421053
     },
     {
         "date":1659542400000,
@@ -697,9 +621,7 @@
         "pb_percentile":0.8974358974,
         "pe_percentile":0.8717948718,
         "dyr_percentile":0.1538461538,
-        "ps_percentile":0.8717948718,
-        "fb_percentile_1300":0.4358974359,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.8717948718
     },
     {
         "date":1659628800000,
@@ -715,9 +637,7 @@
         "pb_percentile":1.0,
         "pe_percentile":1.0,
         "dyr_percentile":0.025,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":0.775,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1659888000000,
@@ -733,9 +653,7 @@
         "pb_percentile":0.9756097561,
         "pe_percentile":0.9756097561,
         "dyr_percentile":0.0487804878,
-        "ps_percentile":0.9756097561,
-        "fb_percentile_1300":0.5853658537,
-        "sb_percentile_1300":0.9756097561
+        "ps_percentile":0.9756097561
     },
     {
         "date":1659974400000,
@@ -751,9 +669,7 @@
         "pb_percentile":1.0,
         "pe_percentile":1.0,
         "dyr_percentile":0.0238095238,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":0.6666666667,
-        "sb_percentile_1300":0.9761904762
+        "ps_percentile":1.0
     },
     {
         "date":1660060800000,
@@ -769,9 +685,7 @@
         "pb_percentile":0.9534883721,
         "pe_percentile":0.9302325581,
         "dyr_percentile":0.0697674419,
-        "ps_percentile":0.9534883721,
-        "fb_percentile_1300":0.8139534884,
-        "sb_percentile_1300":0.9534883721
+        "ps_percentile":0.9534883721
     },
     {
         "date":1660147200000,
@@ -787,9 +701,7 @@
         "pb_percentile":1.0,
         "pe_percentile":0.9545454545,
         "dyr_percentile":0.0227272727,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":0.5681818182,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1660233600000,
@@ -805,9 +717,7 @@
         "pb_percentile":0.8888888889,
         "pe_percentile":0.8888888889,
         "dyr_percentile":0.1333333333,
-        "ps_percentile":0.8888888889,
-        "fb_percentile_1300":0.4666666667,
-        "sb_percentile_1300":0.8888888889
+        "ps_percentile":0.8888888889
     },
     {
         "date":1660492800000,
@@ -823,9 +733,7 @@
         "pb_percentile":0.8695652174,
         "pe_percentile":0.8695652174,
         "dyr_percentile":0.152173913,
-        "ps_percentile":0.8695652174,
-        "fb_percentile_1300":0.5217391304,
-        "sb_percentile_1300":0.8695652174
+        "ps_percentile":0.8695652174
     },
     {
         "date":1660579200000,
@@ -841,9 +749,7 @@
         "pb_percentile":0.8510638298,
         "pe_percentile":0.8510638298,
         "dyr_percentile":0.170212766,
-        "ps_percentile":0.8510638298,
-        "fb_percentile_1300":0.5319148936,
-        "sb_percentile_1300":0.8510638298
+        "ps_percentile":0.8510638298
     },
     {
         "date":1660665600000,
@@ -859,9 +765,7 @@
         "pb_percentile":0.8541666667,
         "pe_percentile":0.8541666667,
         "dyr_percentile":0.1666666667,
-        "ps_percentile":0.8541666667,
-        "fb_percentile_1300":0.5,
-        "sb_percentile_1300":0.8333333333
+        "ps_percentile":0.8541666667
     },
     {
         "date":1660752000000,
@@ -877,9 +781,7 @@
         "pb_percentile":0.8979591837,
         "pe_percentile":0.8979591837,
         "dyr_percentile":0.1020408163,
-        "ps_percentile":0.8979591837,
-        "fb_percentile_1300":0.5714285714,
-        "sb_percentile_1300":1.0
+        "ps_percentile":0.8979591837
     },
     {
         "date":1660838400000,
@@ -895,9 +797,7 @@
         "pb_percentile":0.78,
         "pe_percentile":0.8,
         "dyr_percentile":0.22,
-        "ps_percentile":0.8,
-        "fb_percentile_1300":0.38,
-        "sb_percentile_1300":0.88
+        "ps_percentile":0.8
     },
     {
         "date":1661097600000,
@@ -913,9 +813,7 @@
         "pb_percentile":0.7843137255,
         "pe_percentile":0.7843137255,
         "dyr_percentile":0.2156862745,
-        "ps_percentile":0.8039215686,
-        "fb_percentile_1300":0.3921568627,
-        "sb_percentile_1300":0.8823529412
+        "ps_percentile":0.8039215686
     },
     {
         "date":1661184000000,
@@ -931,9 +829,7 @@
         "pb_percentile":0.6923076923,
         "pe_percentile":0.7115384615,
         "dyr_percentile":0.25,
-        "ps_percentile":0.7307692308,
-        "fb_percentile_1300":0.2884615385,
-        "sb_percentile_1300":0.8076923077
+        "ps_percentile":0.7307692308
     },
     {
         "date":1661270400000,
@@ -949,9 +845,7 @@
         "pb_percentile":0.320754717,
         "pe_percentile":0.358490566,
         "dyr_percentile":0.5660377358,
-        "ps_percentile":0.3773584906,
-        "fb_percentile_1300":0.2452830189,
-        "sb_percentile_1300":0.7547169811
+        "ps_percentile":0.3773584906
     },
     {
         "date":1661356800000,
@@ -967,9 +861,7 @@
         "pb_percentile":0.2592592593,
         "pe_percentile":0.3148148148,
         "dyr_percentile":0.6296296296,
-        "ps_percentile":0.3148148148,
-        "fb_percentile_1300":0.2592592593,
-        "sb_percentile_1300":0.7407407407
+        "ps_percentile":0.3148148148
     },
     {
         "date":1661443200000,
@@ -985,9 +877,7 @@
         "pb_percentile":0.0545454545,
         "pe_percentile":0.1818181818,
         "dyr_percentile":0.7272727273,
-        "ps_percentile":0.1818181818,
-        "fb_percentile_1300":0.2727272727,
-        "sb_percentile_1300":0.7090909091
+        "ps_percentile":0.1818181818
     },
     {
         "date":1661702400000,
@@ -1003,9 +893,7 @@
         "pb_percentile":0.0178571429,
         "pe_percentile":0.25,
         "dyr_percentile":0.6964285714,
-        "ps_percentile":0.0178571429,
-        "fb_percentile_1300":0.2321428571,
-        "sb_percentile_1300":0.7321428571
+        "ps_percentile":0.0178571429
     },
     {
         "date":1661788800000,
@@ -1021,9 +909,7 @@
         "pb_percentile":0.0350877193,
         "pe_percentile":0.1929824561,
         "dyr_percentile":0.649122807,
-        "ps_percentile":0.0175438596,
-        "fb_percentile_1300":0.2280701754,
-        "sb_percentile_1300":0.6842105263
+        "ps_percentile":0.0175438596
     },
     {
         "date":1661875200000,
@@ -1039,9 +925,7 @@
         "pb_percentile":0.0172413793,
         "pe_percentile":0.0172413793,
         "dyr_percentile":0.7586206897,
-        "ps_percentile":0.0172413793,
-        "fb_percentile_1300":0.224137931,
-        "sb_percentile_1300":0.7068965517
+        "ps_percentile":0.0172413793
     },
     {
         "date":1661961600000,
@@ -1057,9 +941,7 @@
         "pb_percentile":0.0169491525,
         "pe_percentile":0.0169491525,
         "dyr_percentile":0.9322033898,
-        "ps_percentile":0.0169491525,
-        "fb_percentile_1300":0.2203389831,
-        "sb_percentile_1300":0.6610169492
+        "ps_percentile":0.0169491525
     },
     {
         "date":1662048000000,
@@ -1075,9 +957,7 @@
         "pb_percentile":0.0333333333,
         "pe_percentile":0.0333333333,
         "dyr_percentile":0.75,
-        "ps_percentile":0.0333333333,
-        "fb_percentile_1300":0.2333333333,
-        "sb_percentile_1300":0.75
+        "ps_percentile":0.0333333333
     },
     {
         "date":1662307200000,
@@ -1093,9 +973,7 @@
         "pb_percentile":0.0327868852,
         "pe_percentile":0.0327868852,
         "dyr_percentile":0.7868852459,
-        "ps_percentile":0.0327868852,
-        "fb_percentile_1300":0.2459016393,
-        "sb_percentile_1300":0.6229508197
+        "ps_percentile":0.0327868852
     },
     {
         "date":1662393600000,
@@ -1111,9 +989,7 @@
         "pb_percentile":0.0806451613,
         "pe_percentile":0.1451612903,
         "dyr_percentile":0.6129032258,
-        "ps_percentile":0.0806451613,
-        "fb_percentile_1300":0.2741935484,
-        "sb_percentile_1300":0.6129032258
+        "ps_percentile":0.0806451613
     },
     {
         "date":1662480000000,
@@ -1129,9 +1005,7 @@
         "pb_percentile":0.126984127,
         "pe_percentile":0.4920634921,
         "dyr_percentile":0.3492063492,
-        "ps_percentile":0.3333333333,
-        "fb_percentile_1300":0.380952381,
-        "sb_percentile_1300":0.619047619
+        "ps_percentile":0.3333333333
     },
     {
         "date":1662566400000,
@@ -1147,9 +1021,7 @@
         "pb_percentile":0.125,
         "pe_percentile":0.4375,
         "dyr_percentile":0.375,
-        "ps_percentile":0.25,
-        "fb_percentile_1300":0.390625,
-        "sb_percentile_1300":0.59375
+        "ps_percentile":0.25
     },
     {
         "date":1662652800000,
@@ -1165,9 +1037,7 @@
         "pb_percentile":0.1230769231,
         "pe_percentile":0.3846153846,
         "dyr_percentile":0.4461538462,
-        "ps_percentile":0.1692307692,
-        "fb_percentile_1300":0.3846153846,
-        "sb_percentile_1300":0.5538461538
+        "ps_percentile":0.1692307692
     },
     {
         "date":1662998400000,
@@ -1183,9 +1053,7 @@
         "pb_percentile":0.1363636364,
         "pe_percentile":0.4090909091,
         "dyr_percentile":0.4242424242,
-        "ps_percentile":0.196969697,
-        "fb_percentile_1300":0.3636363636,
-        "sb_percentile_1300":0.5757575758
+        "ps_percentile":0.196969697
     },
     {
         "date":1663084800000,
@@ -1201,9 +1069,7 @@
         "pb_percentile":0.1492537313,
         "pe_percentile":0.447761194,
         "dyr_percentile":0.3731343284,
-        "ps_percentile":0.2388059701,
-        "fb_percentile_1300":0.4328358209,
-        "sb_percentile_1300":0.5970149254
+        "ps_percentile":0.2388059701
     },
     {
         "date":1663171200000,
@@ -1219,9 +1085,7 @@
         "pb_percentile":0.0294117647,
         "pe_percentile":0.0588235294,
         "dyr_percentile":0.75,
-        "ps_percentile":0.0588235294,
-        "fb_percentile_1300":0.4117647059,
-        "sb_percentile_1300":0.5735294118
+        "ps_percentile":0.0588235294
     },
     {
         "date":1663257600000,
@@ -1237,9 +1101,7 @@
         "pb_percentile":0.0144927536,
         "pe_percentile":0.0289855072,
         "dyr_percentile":0.8260869565,
-        "ps_percentile":0.0289855072,
-        "fb_percentile_1300":0.3333333333,
-        "sb_percentile_1300":0.5797101449
+        "ps_percentile":0.0289855072
     },
     {
         "date":1663516800000,
@@ -1255,9 +1117,7 @@
         "pb_percentile":0.0142857143,
         "pe_percentile":0.0142857143,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0142857143,
-        "fb_percentile_1300":0.2857142857,
-        "sb_percentile_1300":0.5142857143
+        "ps_percentile":0.0142857143
     },
     {
         "date":1663603200000,
@@ -1273,9 +1133,7 @@
         "pb_percentile":0.0281690141,
         "pe_percentile":0.0281690141,
         "dyr_percentile":0.985915493,
-        "ps_percentile":0.0281690141,
-        "fb_percentile_1300":0.4225352113,
-        "sb_percentile_1300":0.5211267606
+        "ps_percentile":0.0281690141
     },
     {
         "date":1663689600000,
@@ -1291,9 +1149,7 @@
         "pb_percentile":0.0138888889,
         "pe_percentile":0.0138888889,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0138888889,
-        "fb_percentile_1300":0.4583333333,
-        "sb_percentile_1300":0.4583333333
+        "ps_percentile":0.0138888889
     },
     {
         "date":1663776000000,
@@ -1309,9 +1165,7 @@
         "pb_percentile":0.0136986301,
         "pe_percentile":0.0136986301,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0136986301,
-        "fb_percentile_1300":0.3561643836,
-        "sb_percentile_1300":0.4657534247
+        "ps_percentile":0.0136986301
     },
     {
         "date":1663862400000,
@@ -1327,9 +1181,7 @@
         "pb_percentile":0.0135135135,
         "pe_percentile":0.0135135135,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0135135135,
-        "fb_percentile_1300":0.1756756757,
-        "sb_percentile_1300":0.4054054054
+        "ps_percentile":0.0135135135
     },
     {
         "date":1664121600000,
@@ -1345,9 +1197,7 @@
         "pb_percentile":0.0266666667,
         "pe_percentile":0.0266666667,
         "dyr_percentile":0.9866666667,
-        "ps_percentile":0.0266666667,
-        "fb_percentile_1300":0.1733333333,
-        "sb_percentile_1300":0.3866666667
+        "ps_percentile":0.0266666667
     },
     {
         "date":1664208000000,
@@ -1363,9 +1213,7 @@
         "pb_percentile":0.0394736842,
         "pe_percentile":0.0394736842,
         "dyr_percentile":0.9736842105,
-        "ps_percentile":0.0394736842,
-        "fb_percentile_1300":0.2368421053,
-        "sb_percentile_1300":0.4342105263
+        "ps_percentile":0.0394736842
     },
     {
         "date":1664294400000,
@@ -1381,9 +1229,7 @@
         "pb_percentile":0.012987013,
         "pe_percentile":0.012987013,
         "dyr_percentile":1.0,
-        "ps_percentile":0.012987013,
-        "fb_percentile_1300":0.2597402597,
-        "sb_percentile_1300":0.3636363636
+        "ps_percentile":0.012987013
     },
     {
         "date":1664380800000,
@@ -1399,9 +1245,7 @@
         "pb_percentile":0.0128205128,
         "pe_percentile":0.0256410256,
         "dyr_percentile":0.9871794872,
-        "ps_percentile":0.0256410256,
-        "fb_percentile_1300":0.2435897436,
-        "sb_percentile_1300":0.3717948718
+        "ps_percentile":0.0256410256
     },
     {
         "date":1664467200000,
@@ -1417,9 +1261,7 @@
         "pb_percentile":0.0126582278,
         "pe_percentile":0.0126582278,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0126582278,
-        "fb_percentile_1300":0.1772151899,
-        "sb_percentile_1300":0.3291139241
+        "ps_percentile":0.0126582278
     },
     {
         "date":1665331200000,
@@ -1435,9 +1277,7 @@
         "pb_percentile":0.0125,
         "pe_percentile":0.0125,
         "dyr_percentile":1.0,
-        "ps_percentile":0.0125,
-        "fb_percentile_1300":0.15,
-        "sb_percentile_1300":0.2
+        "ps_percentile":0.0125
     },
     {
         "date":1665417600000,
@@ -1453,9 +1293,7 @@
         "pb_percentile":0.012345679,
         "pe_percentile":0.012345679,
         "dyr_percentile":1.0,
-        "ps_percentile":0.012345679,
-        "fb_percentile_1300":0.1481481481,
-        "sb_percentile_1300":0.1975308642
+        "ps_percentile":0.012345679
     },
     {
         "date":1665504000000,
@@ -1471,9 +1309,7 @@
         "pb_percentile":0.0365853659,
         "pe_percentile":0.0365853659,
         "dyr_percentile":0.9756097561,
-        "ps_percentile":0.0365853659,
-        "fb_percentile_1300":0.1585365854,
-        "sb_percentile_1300":0.3170731707
+        "ps_percentile":0.0365853659
     },
     {
         "date":1665590400000,
@@ -1489,9 +1325,7 @@
         "pb_percentile":0.0361445783,
         "pe_percentile":0.0361445783,
         "dyr_percentile":0.9759036145,
-        "ps_percentile":0.0361445783,
-        "fb_percentile_1300":0.1807228916,
-        "sb_percentile_1300":0.313253012
+        "ps_percentile":0.0361445783
     },
     {
         "date":1665676800000,
@@ -1507,9 +1341,7 @@
         "pb_percentile":0.0595238095,
         "pe_percentile":0.0595238095,
         "dyr_percentile":0.9523809524,
-        "ps_percentile":0.0595238095,
-        "fb_percentile_1300":0.2142857143,
-        "sb_percentile_1300":0.369047619
+        "ps_percentile":0.0595238095
     },
     {
         "date":1665936000000,
@@ -1525,9 +1357,7 @@
         "pb_percentile":0.0705882353,
         "pe_percentile":0.0705882353,
         "dyr_percentile":0.9411764706,
-        "ps_percentile":0.0705882353,
-        "fb_percentile_1300":0.2352941176,
-        "sb_percentile_1300":0.4470588235
+        "ps_percentile":0.0705882353
     },
     {
         "date":1666022400000,
@@ -1543,9 +1373,7 @@
         "pb_percentile":0.0697674419,
         "pe_percentile":0.0697674419,
         "dyr_percentile":0.9418604651,
-        "ps_percentile":0.0697674419,
-        "fb_percentile_1300":0.2441860465,
-        "sb_percentile_1300":0.4302325581
+        "ps_percentile":0.0697674419
     },
     {
         "date":1666108800000,
@@ -1561,9 +1389,7 @@
         "pb_percentile":0.0689655172,
         "pe_percentile":0.0689655172,
         "dyr_percentile":0.9425287356,
-        "ps_percentile":0.0689655172,
-        "fb_percentile_1300":0.2183908046,
-        "sb_percentile_1300":0.4482758621
+        "ps_percentile":0.0689655172
     },
     {
         "date":1666195200000,
@@ -1579,9 +1405,7 @@
         "pb_percentile":0.1136363636,
         "pe_percentile":0.1136363636,
         "dyr_percentile":0.8977272727,
-        "ps_percentile":0.1136363636,
-        "fb_percentile_1300":0.3181818182,
-        "sb_percentile_1300":0.6477272727
+        "ps_percentile":0.1136363636
     },
     {
         "date":1666281600000,
@@ -1597,9 +1421,7 @@
         "pb_percentile":0.1123595506,
         "pe_percentile":0.1123595506,
         "dyr_percentile":0.8988764045,
-        "ps_percentile":0.1123595506,
-        "fb_percentile_1300":0.2696629213,
-        "sb_percentile_1300":0.5730337079
+        "ps_percentile":0.1123595506
     },
     {
         "date":1666540800000,
@@ -1615,9 +1437,7 @@
         "pb_percentile":0.1222222222,
         "pe_percentile":0.1222222222,
         "dyr_percentile":0.8888888889,
-        "ps_percentile":0.1222222222,
-        "fb_percentile_1300":0.2222222222,
-        "sb_percentile_1300":0.5666666667
+        "ps_percentile":0.1222222222
     },
     {
         "date":1666627200000,
@@ -1633,9 +1453,7 @@
         "pb_percentile":0.0989010989,
         "pe_percentile":0.1098901099,
         "dyr_percentile":0.9010989011,
-        "ps_percentile":0.1098901099,
-        "fb_percentile_1300":0.2527472527,
-        "sb_percentile_1300":0.5934065934
+        "ps_percentile":0.1098901099
     },
     {
         "date":1666713600000,
@@ -1651,9 +1469,7 @@
         "pb_percentile":0.1739130435,
         "pe_percentile":0.1956521739,
         "dyr_percentile":0.8152173913,
-        "ps_percentile":0.1956521739,
-        "fb_percentile_1300":0.1847826087,
-        "sb_percentile_1300":0.652173913
+        "ps_percentile":0.1956521739
     },
     {
         "date":1666800000000,
@@ -1669,9 +1485,7 @@
         "pb_percentile":0.2043010753,
         "pe_percentile":0.2043010753,
         "dyr_percentile":0.8064516129,
-        "ps_percentile":0.2043010753,
-        "fb_percentile_1300":0.1935483871,
-        "sb_percentile_1300":0.5913978495
+        "ps_percentile":0.2043010753
     },
     {
         "date":1666886400000,
@@ -1687,9 +1501,7 @@
         "pb_percentile":0.1489361702,
         "pe_percentile":0.1489361702,
         "dyr_percentile":0.8085106383,
-        "ps_percentile":0.1489361702,
-        "fb_percentile_1300":0.1276595745,
-        "sb_percentile_1300":0.4787234043
+        "ps_percentile":0.1489361702
     },
     {
         "date":1667145600000,
@@ -1705,9 +1517,7 @@
         "pb_percentile":0.1578947368,
         "pe_percentile":0.2526315789,
         "dyr_percentile":0.7789473684,
-        "ps_percentile":0.2,
-        "fb_percentile_1300":0.1368421053,
-        "sb_percentile_1300":0.5473684211
+        "ps_percentile":0.2
     },
     {
         "date":1667232000000,
@@ -1723,9 +1533,7 @@
         "pb_percentile":0.1666666667,
         "pe_percentile":0.2604166667,
         "dyr_percentile":0.75,
-        "ps_percentile":0.21875,
-        "fb_percentile_1300":0.1354166667,
-        "sb_percentile_1300":0.5520833333
+        "ps_percentile":0.21875
     },
     {
         "date":1667318400000,
@@ -1741,9 +1549,7 @@
         "pb_percentile":0.2268041237,
         "pe_percentile":0.2680412371,
         "dyr_percentile":0.7422680412,
-        "ps_percentile":0.2371134021,
-        "fb_percentile_1300":0.1546391753,
-        "sb_percentile_1300":0.5567010309
+        "ps_percentile":0.2371134021
     },
     {
         "date":1667404800000,
@@ -1759,9 +1565,7 @@
         "pb_percentile":0.2755102041,
         "pe_percentile":0.3163265306,
         "dyr_percentile":0.5816326531,
-        "ps_percentile":0.2755102041,
-        "fb_percentile_1300":0.1632653061,
-        "sb_percentile_1300":0.7142857143
+        "ps_percentile":0.2755102041
     },
     {
         "date":1667491200000,
@@ -1777,9 +1581,7 @@
         "pb_percentile":0.2828282828,
         "pe_percentile":0.3737373737,
         "dyr_percentile":0.5151515152,
-        "ps_percentile":0.303030303,
-        "fb_percentile_1300":0.1616161616,
-        "sb_percentile_1300":0.696969697
+        "ps_percentile":0.303030303
     },
     {
         "date":1667750400000,
@@ -1795,9 +1597,7 @@
         "pb_percentile":0.24,
         "pe_percentile":0.29,
         "dyr_percentile":0.69,
-        "ps_percentile":0.27,
-        "fb_percentile_1300":0.21,
-        "sb_percentile_1300":0.62
+        "ps_percentile":0.27
     },
     {
         "date":1667836800000,
@@ -1813,9 +1613,7 @@
         "pb_percentile":0.2376237624,
         "pe_percentile":0.2673267327,
         "dyr_percentile":0.7425742574,
-        "ps_percentile":0.2475247525,
-        "fb_percentile_1300":0.2178217822,
-        "sb_percentile_1300":0.5643564356
+        "ps_percentile":0.2475247525
     },
     {
         "date":1667923200000,
@@ -1831,9 +1629,7 @@
         "pb_percentile":0.1862745098,
         "pe_percentile":0.2549019608,
         "dyr_percentile":0.7549019608,
-        "ps_percentile":0.2156862745,
-        "fb_percentile_1300":0.1862745098,
-        "sb_percentile_1300":0.4509803922
+        "ps_percentile":0.2156862745
     },
     {
         "date":1668009600000,
@@ -1849,9 +1645,7 @@
         "pb_percentile":0.0970873786,
         "pe_percentile":0.1844660194,
         "dyr_percentile":0.8349514563,
-        "ps_percentile":0.1165048544,
-        "fb_percentile_1300":0.2038834951,
-        "sb_percentile_1300":0.4174757282
+        "ps_percentile":0.1165048544
     },
     {
         "date":1668096000000,
@@ -1867,9 +1661,7 @@
         "pb_percentile":0.0865384615,
         "pe_percentile":0.1442307692,
         "dyr_percentile":0.8076923077,
-        "ps_percentile":0.1057692308,
-        "fb_percentile_1300":0.1442307692,
-        "sb_percentile_1300":0.5961538462
+        "ps_percentile":0.1057692308
     },
     {
         "date":1668355200000,
@@ -1885,9 +1677,7 @@
         "pb_percentile":0.0952380952,
         "pe_percentile":0.180952381,
         "dyr_percentile":0.8,
-        "ps_percentile":0.1238095238,
-        "fb_percentile_1300":0.1428571429,
-        "sb_percentile_1300":0.5904761905
+        "ps_percentile":0.1238095238
     },
     {
         "date":1668441600000,
@@ -1903,9 +1693,7 @@
         "pb_percentile":0.2735849057,
         "pe_percentile":0.320754717,
         "dyr_percentile":0.4622641509,
-        "ps_percentile":0.3113207547,
-        "fb_percentile_1300":0.2641509434,
-        "sb_percentile_1300":0.7547169811
+        "ps_percentile":0.3113207547
     },
     {
         "date":1668528000000,
@@ -1921,9 +1709,7 @@
         "pb_percentile":0.1775700935,
         "pe_percentile":0.2803738318,
         "dyr_percentile":0.6542056075,
-        "ps_percentile":0.261682243,
-        "fb_percentile_1300":0.261682243,
-        "sb_percentile_1300":0.738317757
+        "ps_percentile":0.261682243
     },
     {
         "date":1668614400000,
@@ -1939,9 +1725,7 @@
         "pb_percentile":0.2777777778,
         "pe_percentile":0.3240740741,
         "dyr_percentile":0.4722222222,
-        "ps_percentile":0.3148148148,
-        "fb_percentile_1300":0.3796296296,
-        "sb_percentile_1300":0.787037037
+        "ps_percentile":0.3148148148
     },
     {
         "date":1668700800000,
@@ -1957,9 +1741,7 @@
         "pb_percentile":0.1467889908,
         "pe_percentile":0.2293577982,
         "dyr_percentile":0.7155963303,
-        "ps_percentile":0.2201834862,
-        "fb_percentile_1300":0.5321100917,
-        "sb_percentile_1300":0.752293578
+        "ps_percentile":0.2201834862
     },
     {
         "date":1668960000000,
@@ -1975,9 +1757,7 @@
         "pb_percentile":0.1454545455,
         "pe_percentile":0.2272727273,
         "dyr_percentile":0.7272727273,
-        "ps_percentile":0.2090909091,
-        "fb_percentile_1300":0.5909090909,
-        "sb_percentile_1300":0.7090909091
+        "ps_percentile":0.2090909091
     },
     {
         "date":1669046400000,
@@ -1993,9 +1773,7 @@
         "pb_percentile":0.1171171171,
         "pe_percentile":0.2072072072,
         "dyr_percentile":0.7477477477,
-        "ps_percentile":0.1531531532,
-        "fb_percentile_1300":0.6216216216,
-        "sb_percentile_1300":0.6756756757
+        "ps_percentile":0.1531531532
     },
     {
         "date":1669132800000,
@@ -2011,9 +1789,7 @@
         "pb_percentile":0.0982142857,
         "pe_percentile":0.1964285714,
         "dyr_percentile":0.7589285714,
-        "ps_percentile":0.1428571429,
-        "fb_percentile_1300":0.6160714286,
-        "sb_percentile_1300":0.5982142857
+        "ps_percentile":0.1428571429
     },
     {
         "date":1669219200000,
@@ -2029,9 +1805,7 @@
         "pb_percentile":0.0973451327,
         "pe_percentile":0.185840708,
         "dyr_percentile":0.7876106195,
-        "ps_percentile":0.1415929204,
-        "fb_percentile_1300":0.6283185841,
-        "sb_percentile_1300":0.5840707965
+        "ps_percentile":0.1415929204
     },
     {
         "date":1669305600000,
@@ -2047,9 +1821,7 @@
         "pb_percentile":0.0701754386,
         "pe_percentile":0.1140350877,
         "dyr_percentile":0.8333333333,
-        "ps_percentile":0.0964912281,
-        "fb_percentile_1300":0.5350877193,
-        "sb_percentile_1300":0.5438596491
+        "ps_percentile":0.0964912281
     },
     {
         "date":1669564800000,
@@ -2065,9 +1837,7 @@
         "pb_percentile":0.052173913,
         "pe_percentile":0.1043478261,
         "dyr_percentile":0.852173913,
-        "ps_percentile":0.0782608696,
-        "fb_percentile_1300":0.4173913043,
-        "sb_percentile_1300":0.4869565217
+        "ps_percentile":0.0782608696
     },
     {
         "date":1669651200000,
@@ -2083,9 +1853,7 @@
         "pb_percentile":0.0775862069,
         "pe_percentile":0.1206896552,
         "dyr_percentile":0.8275862069,
-        "ps_percentile":0.1034482759,
-        "fb_percentile_1300":0.3879310345,
-        "sb_percentile_1300":0.474137931
+        "ps_percentile":0.1034482759
     },
     {
         "date":1669737600000,
@@ -2101,9 +1869,7 @@
         "pb_percentile":0.0683760684,
         "pe_percentile":0.1196581197,
         "dyr_percentile":0.8376068376,
-        "ps_percentile":0.0854700855,
-        "fb_percentile_1300":0.3675213675,
-        "sb_percentile_1300":0.4017094017
+        "ps_percentile":0.0854700855
     },
     {
         "date":1669824000000,
@@ -2119,9 +1885,7 @@
         "pb_percentile":0.1186440678,
         "pe_percentile":0.186440678,
         "dyr_percentile":0.7881355932,
-        "ps_percentile":0.1440677966,
-        "fb_percentile_1300":0.5084745763,
-        "sb_percentile_1300":0.5
+        "ps_percentile":0.1440677966
     },
     {
         "date":1669910400000,
@@ -2137,9 +1901,7 @@
         "pb_percentile":0.0840336134,
         "pe_percentile":0.1260504202,
         "dyr_percentile":0.8319327731,
-        "ps_percentile":0.0924369748,
-        "fb_percentile_1300":0.4705882353,
-        "sb_percentile_1300":0.3865546218
+        "ps_percentile":0.0924369748
     },
     {
         "date":1670169600000,
@@ -2155,9 +1917,7 @@
         "pb_percentile":0.1083333333,
         "pe_percentile":0.1666666667,
         "dyr_percentile":0.7916666667,
-        "ps_percentile":0.1333333333,
-        "fb_percentile_1300":0.35,
-        "sb_percentile_1300":0.375
+        "ps_percentile":0.1333333333
     },
     {
         "date":1670256000000,
@@ -2173,9 +1933,7 @@
         "pb_percentile":0.1983471074,
         "pe_percentile":0.2809917355,
         "dyr_percentile":0.6694214876,
-        "ps_percentile":0.2561983471,
-        "fb_percentile_1300":0.694214876,
-        "sb_percentile_1300":0.4710743802
+        "ps_percentile":0.2561983471
     },
     {
         "date":1670342400000,
@@ -2191,9 +1949,7 @@
         "pb_percentile":0.1803278689,
         "pe_percentile":0.2786885246,
         "dyr_percentile":0.6803278689,
-        "ps_percentile":0.2213114754,
-        "fb_percentile_1300":0.6147540984,
-        "sb_percentile_1300":0.5081967213
+        "ps_percentile":0.2213114754
     },
     {
         "date":1670428800000,
@@ -2209,9 +1965,7 @@
         "pb_percentile":0.1463414634,
         "pe_percentile":0.2276422764,
         "dyr_percentile":0.7642276423,
-        "ps_percentile":0.1869918699,
-        "fb_percentile_1300":0.6260162602,
-        "sb_percentile_1300":0.4796747967
+        "ps_percentile":0.1869918699
     },
     {
         "date":1670515200000,
@@ -2227,9 +1981,7 @@
         "pb_percentile":0.4193548387,
         "pe_percentile":0.6370967742,
         "dyr_percentile":0.0725806452,
-        "ps_percentile":0.814516129,
-        "fb_percentile_1300":0.0887096774,
-        "sb_percentile_1300":0.6532258065
+        "ps_percentile":0.814516129
     },
     {
         "date":1670774400000,
@@ -2245,9 +1997,7 @@
         "pb_percentile":0.432,
         "pe_percentile":0.72,
         "dyr_percentile":0.04,
-        "ps_percentile":0.84,
-        "fb_percentile_1300":0.104,
-        "sb_percentile_1300":0.752
+        "ps_percentile":0.84
     },
     {
         "date":1670860800000,
@@ -2263,9 +2013,7 @@
         "pb_percentile":0.4126984127,
         "pe_percentile":0.6111111111,
         "dyr_percentile":0.0952380952,
-        "ps_percentile":0.8015873016,
-        "fb_percentile_1300":0.1031746032,
-        "sb_percentile_1300":0.746031746
+        "ps_percentile":0.8015873016
     },
     {
         "date":1670947200000,
@@ -2281,9 +2029,7 @@
         "pb_percentile":0.4251968504,
         "pe_percentile":0.6377952756,
         "dyr_percentile":0.0787401575,
-        "ps_percentile":0.8267716535,
-        "fb_percentile_1300":0.0866141732,
-        "sb_percentile_1300":0.7480314961
+        "ps_percentile":0.8267716535
     },
     {
         "date":1671033600000,
@@ -2299,9 +2045,7 @@
         "pb_percentile":0.4375,
         "pe_percentile":0.71875,
         "dyr_percentile":0.0546875,
-        "ps_percentile":0.8359375,
-        "fb_percentile_1300":0.0859375,
-        "sb_percentile_1300":0.8046875
+        "ps_percentile":0.8359375
     },
     {
         "date":1671120000000,
@@ -2317,9 +2061,7 @@
         "pb_percentile":0.3953488372,
         "pe_percentile":0.5813953488,
         "dyr_percentile":0.1162790698,
-        "ps_percentile":0.7674418605,
-        "fb_percentile_1300":0.0852713178,
-        "sb_percentile_1300":0.7674418605
+        "ps_percentile":0.7674418605
     },
     {
         "date":1671379200000,
@@ -2335,9 +2077,7 @@
         "pb_percentile":0.3307692308,
         "pe_percentile":0.4153846154,
         "dyr_percentile":0.1692307692,
-        "ps_percentile":0.6538461538,
-        "fb_percentile_1300":0.0769230769,
-        "sb_percentile_1300":0.7307692308
+        "ps_percentile":0.6538461538
     },
     {
         "date":1671465600000,
@@ -2353,9 +2093,7 @@
         "pb_percentile":0.3282442748,
         "pe_percentile":0.4122137405,
         "dyr_percentile":0.1755725191,
-        "ps_percentile":0.641221374,
-        "fb_percentile_1300":0.0763358779,
-        "sb_percentile_1300":0.8091603053
+        "ps_percentile":0.641221374
     },
     {
         "date":1671552000000,
@@ -2371,9 +2109,7 @@
         "pb_percentile":0.2348484848,
         "pe_percentile":0.3712121212,
         "dyr_percentile":0.2272727273,
-        "ps_percentile":0.5075757576,
-        "fb_percentile_1300":0.0606060606,
-        "sb_percentile_1300":0.7878787879
+        "ps_percentile":0.5075757576
     },
     {
         "date":1671638400000,
@@ -2389,9 +2125,7 @@
         "pb_percentile":0.1578947368,
         "pe_percentile":0.3233082707,
         "dyr_percentile":0.3233082707,
-        "ps_percentile":0.4586466165,
-        "fb_percentile_1300":0.0526315789,
-        "sb_percentile_1300":0.7293233083
+        "ps_percentile":0.4586466165
     },
     {
         "date":1671724800000,
@@ -2407,9 +2141,7 @@
         "pb_percentile":0.0895522388,
         "pe_percentile":0.2462686567,
         "dyr_percentile":0.4253731343,
-        "ps_percentile":0.4179104478,
-        "fb_percentile_1300":0.052238806,
-        "sb_percentile_1300":0.6567164179
+        "ps_percentile":0.4179104478
     },
     {
         "date":1671984000000,
@@ -2425,9 +2157,7 @@
         "pb_percentile":0.2222222222,
         "pe_percentile":0.3481481481,
         "dyr_percentile":0.2666666667,
-        "ps_percentile":0.4888888889,
-        "fb_percentile_1300":0.0444444444,
-        "sb_percentile_1300":0.7407407407
+        "ps_percentile":0.4888888889
     },
     {
         "date":1672070400000,
@@ -2443,9 +2173,7 @@
         "pb_percentile":0.2794117647,
         "pe_percentile":0.3970588235,
         "dyr_percentile":0.2132352941,
-        "ps_percentile":0.5367647059,
-        "fb_percentile_1300":0.0441176471,
-        "sb_percentile_1300":0.7647058824
+        "ps_percentile":0.5367647059
     },
     {
         "date":1672156800000,
@@ -2461,9 +2189,7 @@
         "pb_percentile":0.2335766423,
         "pe_percentile":0.3576642336,
         "dyr_percentile":0.2554744526,
-        "ps_percentile":0.4890510949,
-        "fb_percentile_1300":0.0437956204,
-        "sb_percentile_1300":0.7153284672
+        "ps_percentile":0.4890510949
     },
     {
         "date":1672243200000,
@@ -2479,9 +2205,7 @@
         "pb_percentile":0.2391304348,
         "pe_percentile":0.3623188406,
         "dyr_percentile":0.2463768116,
-        "ps_percentile":0.4927536232,
-        "fb_percentile_1300":0.0507246377,
-        "sb_percentile_1300":0.7463768116
+        "ps_percentile":0.4927536232
     },
     {
         "date":1672329600000,
@@ -2497,9 +2221,7 @@
         "pb_percentile":0.2014388489,
         "pe_percentile":0.3237410072,
         "dyr_percentile":0.309352518,
-        "ps_percentile":0.4604316547,
-        "fb_percentile_1300":0.0143884892,
-        "sb_percentile_1300":0.6834532374
+        "ps_percentile":0.4604316547
     },
     {
         "date":1672675200000,
@@ -2515,9 +2237,7 @@
         "pb_percentile":0.2642857143,
         "pe_percentile":0.3785714286,
         "dyr_percentile":0.2285714286,
-        "ps_percentile":0.5214285714,
-        "fb_percentile_1300":0.0428571429,
-        "sb_percentile_1300":0.6357142857
+        "ps_percentile":0.5214285714
     },
     {
         "date":1672761600000,
@@ -2533,9 +2253,7 @@
         "pb_percentile":0.2340425532,
         "pe_percentile":0.3617021277,
         "dyr_percentile":0.2553191489,
-        "ps_percentile":0.4893617021,
-        "fb_percentile_1300":0.0780141844,
-        "sb_percentile_1300":0.5957446809
+        "ps_percentile":0.4893617021
     },
     {
         "date":1672848000000,
@@ -2551,9 +2269,7 @@
         "pb_percentile":0.2676056338,
         "pe_percentile":0.3802816901,
         "dyr_percentile":0.2394366197,
-        "ps_percentile":0.514084507,
-        "fb_percentile_1300":0.0985915493,
-        "sb_percentile_1300":0.6690140845
+        "ps_percentile":0.514084507
     },
     {
         "date":1672934400000,
@@ -2569,9 +2285,7 @@
         "pb_percentile":0.2727272727,
         "pe_percentile":0.3846153846,
         "dyr_percentile":0.2307692308,
-        "ps_percentile":0.5174825175,
-        "fb_percentile_1300":0.1118881119,
-        "sb_percentile_1300":0.6993006993
+        "ps_percentile":0.5174825175
     },
     {
         "date":1673193600000,
@@ -2587,9 +2301,7 @@
         "pb_percentile":0.2986111111,
         "pe_percentile":0.4236111111,
         "dyr_percentile":0.2083333333,
-        "ps_percentile":0.5555555556,
-        "fb_percentile_1300":0.1180555556,
-        "sb_percentile_1300":0.8333333333
+        "ps_percentile":0.5555555556
     },
     {
         "date":1673280000000,
@@ -2605,9 +2317,7 @@
         "pb_percentile":0.3448275862,
         "pe_percentile":0.4482758621,
         "dyr_percentile":0.1793103448,
-        "ps_percentile":0.6413793103,
-        "fb_percentile_1300":0.124137931,
-        "sb_percentile_1300":0.8275862069
+        "ps_percentile":0.6413793103
     },
     {
         "date":1673366400000,
@@ -2623,9 +2333,7 @@
         "pb_percentile":0.2808219178,
         "pe_percentile":0.3904109589,
         "dyr_percentile":0.2328767123,
-        "ps_percentile":0.5273972603,
-        "fb_percentile_1300":0.1232876712,
-        "sb_percentile_1300":0.8356164384
+        "ps_percentile":0.5273972603
     },
     {
         "date":1673452800000,
@@ -2641,9 +2349,7 @@
         "pb_percentile":0.2448979592,
         "pe_percentile":0.3673469388,
         "dyr_percentile":0.2653061224,
-        "ps_percentile":0.4897959184,
-        "fb_percentile_1300":0.1224489796,
-        "sb_percentile_1300":0.7891156463
+        "ps_percentile":0.4897959184
     },
     {
         "date":1673539200000,
@@ -2659,9 +2365,7 @@
         "pb_percentile":0.2567567568,
         "pe_percentile":0.3716216216,
         "dyr_percentile":0.2635135135,
-        "ps_percentile":0.4932432432,
-        "fb_percentile_1300":0.1013513514,
-        "sb_percentile_1300":0.7567567568
+        "ps_percentile":0.4932432432
     },
     {
         "date":1673798400000,
@@ -2677,9 +2381,7 @@
         "pb_percentile":0.4429530201,
         "pe_percentile":0.5436241611,
         "dyr_percentile":0.1275167785,
-        "ps_percentile":0.7248322148,
-        "fb_percentile_1300":0.0872483221,
-        "sb_percentile_1300":0.8389261745
+        "ps_percentile":0.7248322148
     },
     {
         "date":1673884800000,
@@ -2695,9 +2397,7 @@
         "pb_percentile":0.4933333333,
         "pe_percentile":0.68,
         "dyr_percentile":0.08,
-        "ps_percentile":0.8333333333,
-        "fb_percentile_1300":0.0133333333,
-        "sb_percentile_1300":0.8466666667
+        "ps_percentile":0.8333333333
     },
     {
         "date":1673971200000,
@@ -2713,9 +2413,7 @@
         "pb_percentile":0.4701986755,
         "pe_percentile":0.642384106,
         "dyr_percentile":0.1059602649,
-        "ps_percentile":0.7947019868,
-        "fb_percentile_1300":0.0132450331,
-        "sb_percentile_1300":0.8344370861
+        "ps_percentile":0.7947019868
     },
     {
         "date":1674057600000,
@@ -2731,9 +2429,7 @@
         "pb_percentile":0.5197368421,
         "pe_percentile":0.7631578947,
         "dyr_percentile":0.0328947368,
-        "ps_percentile":0.8618421053,
-        "fb_percentile_1300":0.0131578947,
-        "sb_percentile_1300":0.8486842105
+        "ps_percentile":0.8618421053
     },
     {
         "date":1674144000000,
@@ -2749,9 +2445,7 @@
         "pb_percentile":0.5490196078,
         "pe_percentile":0.7777777778,
         "dyr_percentile":0.0261437908,
-        "ps_percentile":0.8758169935,
-        "fb_percentile_1300":0.0065359477,
-        "sb_percentile_1300":0.8496732026
+        "ps_percentile":0.8758169935
     },
     {
         "date":1675008000000,
@@ -2767,9 +2461,7 @@
         "pb_percentile":0.512987013,
         "pe_percentile":0.7727272727,
         "dyr_percentile":0.038961039,
-        "ps_percentile":0.8701298701,
-        "fb_percentile_1300":0.0714285714,
-        "sb_percentile_1300":0.6753246753
+        "ps_percentile":0.8701298701
     },
     {
         "date":1675094400000,
@@ -2785,9 +2477,7 @@
         "pb_percentile":0.4322580645,
         "pe_percentile":0.5548387097,
         "dyr_percentile":0.1419354839,
-        "ps_percentile":0.7483870968,
-        "fb_percentile_1300":0.1741935484,
-        "sb_percentile_1300":0.2322580645
+        "ps_percentile":0.7483870968
     },
     {
         "date":1675180800000,
@@ -2803,9 +2493,7 @@
         "pb_percentile":0.5128205128,
         "pe_percentile":0.7179487179,
         "dyr_percentile":0.0769230769,
-        "ps_percentile":0.8333333333,
-        "fb_percentile_1300":0.2051282051,
-        "sb_percentile_1300":0.2371794872
+        "ps_percentile":0.8333333333
     },
     {
         "date":1675267200000,
@@ -2821,9 +2509,7 @@
         "pb_percentile":0.5605095541,
         "pe_percentile":0.821656051,
         "dyr_percentile":0.0127388535,
-        "ps_percentile":0.898089172,
-        "fb_percentile_1300":0.2292993631,
-        "sb_percentile_1300":0.3121019108
+        "ps_percentile":0.898089172
     },
     {
         "date":1675353600000,
@@ -2839,9 +2525,7 @@
         "pb_percentile":0.5569620253,
         "pe_percentile":0.8037974684,
         "dyr_percentile":0.0189873418,
-        "ps_percentile":0.8924050633,
-        "fb_percentile_1300":0.2278481013,
-        "sb_percentile_1300":0.2911392405
+        "ps_percentile":0.8924050633
     },
     {
         "date":1675612800000,
@@ -2857,9 +2541,7 @@
         "pb_percentile":0.5157232704,
         "pe_percentile":0.7295597484,
         "dyr_percentile":0.0880503145,
-        "ps_percentile":0.8238993711,
-        "fb_percentile_1300":0.2389937107,
-        "sb_percentile_1300":0.2704402516
+        "ps_percentile":0.8238993711
     },
     {
         "date":1675699200000,
@@ -2875,9 +2557,7 @@
         "pb_percentile":0.5,
         "pe_percentile":0.68125,
         "dyr_percentile":0.1,
-        "ps_percentile":0.8125,
-        "fb_percentile_1300":0.2625,
-        "sb_percentile_1300":0.2375
+        "ps_percentile":0.8125
     },
     {
         "date":1675785600000,
@@ -2893,9 +2573,7 @@
         "pb_percentile":0.4472049689,
         "pe_percentile":0.5962732919,
         "dyr_percentile":0.1677018634,
-        "ps_percentile":0.7391304348,
-        "fb_percentile_1300":0.2670807453,
-        "sb_percentile_1300":0.2111801242
+        "ps_percentile":0.7391304348
     },
     {
         "date":1675872000000,
@@ -2911,9 +2589,7 @@
         "pb_percentile":0.5740740741,
         "pe_percentile":0.8456790123,
         "dyr_percentile":0.012345679,
-        "ps_percentile":0.9197530864,
-        "fb_percentile_1300":0.2839506173,
-        "sb_percentile_1300":0.4382716049
+        "ps_percentile":0.9197530864
     },
     {
         "date":1675958400000,
@@ -2929,9 +2605,7 @@
         "pb_percentile":0.5582822086,
         "pe_percentile":0.7852760736,
         "dyr_percentile":0.036809816,
-        "ps_percentile":0.8773006135,
-        "fb_percentile_1300":0.2760736196,
-        "sb_percentile_1300":0.3435582822
+        "ps_percentile":0.8773006135
     },
     {
         "date":1676217600000,
@@ -2947,9 +2621,7 @@
         "pb_percentile":0.5609756098,
         "pe_percentile":0.7987804878,
         "dyr_percentile":0.0304878049,
-        "ps_percentile":0.8841463415,
-        "fb_percentile_1300":0.3109756098,
-        "sb_percentile_1300":0.487804878
+        "ps_percentile":0.8841463415
     },
     {
         "date":1676304000000,
@@ -2965,9 +2637,7 @@
         "pb_percentile":0.5575757576,
         "pe_percentile":0.7878787879,
         "dyr_percentile":0.0363636364,
-        "ps_percentile":0.8727272727,
-        "fb_percentile_1300":0.3212121212,
-        "sb_percentile_1300":0.5393939394
+        "ps_percentile":0.8727272727
     },
     {
         "date":1676390400000,
@@ -2983,9 +2653,7 @@
         "pb_percentile":0.5843373494,
         "pe_percentile":0.8493975904,
         "dyr_percentile":0.0120481928,
-        "ps_percentile":0.921686747,
-        "fb_percentile_1300":0.2831325301,
-        "sb_percentile_1300":0.7168674699
+        "ps_percentile":0.921686747
     },
     {
         "date":1676476800000,
@@ -3001,9 +2669,7 @@
         "pb_percentile":0.4850299401,
         "pe_percentile":0.6526946108,
         "dyr_percentile":0.1317365269,
-        "ps_percentile":0.7844311377,
-        "fb_percentile_1300":0.2574850299,
-        "sb_percentile_1300":0.622754491
+        "ps_percentile":0.7844311377
     },
     {
         "date":1676563200000,
@@ -3019,9 +2685,7 @@
         "pb_percentile":0.375,
         "pe_percentile":0.4464285714,
         "dyr_percentile":0.2380952381,
-        "ps_percentile":0.625,
-        "fb_percentile_1300":0.3035714286,
-        "sb_percentile_1300":0.5535714286
+        "ps_percentile":0.625
     },
     {
         "date":1676822400000,
@@ -3037,9 +2701,7 @@
         "pb_percentile":0.4023668639,
         "pe_percentile":0.4970414201,
         "dyr_percentile":0.2071005917,
-        "ps_percentile":0.6686390533,
-        "fb_percentile_1300":0.3372781065,
-        "sb_percentile_1300":0.573964497
+        "ps_percentile":0.6686390533
     },
     {
         "date":1676908800000,
@@ -3055,9 +2717,7 @@
         "pb_percentile":0.3941176471,
         "pe_percentile":0.4764705882,
         "dyr_percentile":0.2294117647,
-        "ps_percentile":0.6411764706,
-        "fb_percentile_1300":0.3411764706,
-        "sb_percentile_1300":0.3
+        "ps_percentile":0.6411764706
     },
     {
         "date":1676995200000,
@@ -3073,9 +2733,7 @@
         "pb_percentile":0.3918128655,
         "pe_percentile":0.4619883041,
         "dyr_percentile":0.2339181287,
-        "ps_percentile":0.6374269006,
-        "fb_percentile_1300":0.3450292398,
-        "sb_percentile_1300":0.298245614
+        "ps_percentile":0.6374269006
     },
     {
         "date":1677081600000,
@@ -3091,9 +2749,7 @@
         "pb_percentile":0.3837209302,
         "pe_percentile":0.4534883721,
         "dyr_percentile":0.2441860465,
-        "ps_percentile":0.6337209302,
-        "fb_percentile_1300":0.3488372093,
-        "sb_percentile_1300":0.3023255814
+        "ps_percentile":0.6337209302
     },
     {
         "date":1677168000000,
@@ -3109,9 +2765,7 @@
         "pb_percentile":0.3583815029,
         "pe_percentile":0.4219653179,
         "dyr_percentile":0.2601156069,
-        "ps_percentile":0.6069364162,
-        "fb_percentile_1300":0.3526011561,
-        "sb_percentile_1300":0.2601156069
+        "ps_percentile":0.6069364162
     },
     {
         "date":1677427200000,
@@ -3127,9 +2781,7 @@
         "pb_percentile":0.2873563218,
         "pe_percentile":0.3793103448,
         "dyr_percentile":0.3103448276,
-        "ps_percentile":0.4942528736,
-        "fb_percentile_1300":0.3563218391,
-        "sb_percentile_1300":0.1954022989
+        "ps_percentile":0.4942528736
     },
     {
         "date":1677513600000,
@@ -3145,9 +2797,7 @@
         "pb_percentile":0.3085714286,
         "pe_percentile":0.4,
         "dyr_percentile":0.2857142857,
-        "ps_percentile":0.56,
-        "fb_percentile_1300":0.36,
-        "sb_percentile_1300":0.1942857143
+        "ps_percentile":0.56
     },
     {
         "date":1677600000000,
@@ -3163,9 +2813,7 @@
         "pb_percentile":0.2954545455,
         "pe_percentile":0.4147727273,
         "dyr_percentile":0.2840909091,
-        "ps_percentile":0.5852272727,
-        "fb_percentile_1300":0.3693181818,
-        "sb_percentile_1300":0.1647727273
+        "ps_percentile":0.5852272727
     },
     {
         "date":1677686400000,
@@ -3181,9 +2829,7 @@
         "pb_percentile":0.2542372881,
         "pe_percentile":0.384180791,
         "dyr_percentile":0.3163841808,
-        "ps_percentile":0.5310734463,
-        "fb_percentile_1300":0.418079096,
-        "sb_percentile_1300":0.1581920904
+        "ps_percentile":0.5310734463
     },
     {
         "date":1677772800000,
@@ -3199,9 +2845,7 @@
         "pb_percentile":0.4269662921,
         "pe_percentile":0.5280898876,
         "dyr_percentile":0.1966292135,
-        "ps_percentile":0.6853932584,
-        "fb_percentile_1300":0.4157303371,
-        "sb_percentile_1300":0.2078651685
+        "ps_percentile":0.6853932584
     },
     {
         "date":1678032000000,
@@ -3217,9 +2861,7 @@
         "pb_percentile":0.4636871508,
         "pe_percentile":0.6312849162,
         "dyr_percentile":0.156424581,
-        "ps_percentile":0.7653631285,
-        "fb_percentile_1300":0.4357541899,
-        "sb_percentile_1300":0.2067039106
+        "ps_percentile":0.7653631285
     },
     {
         "date":1678118400000,
@@ -3235,9 +2877,7 @@
         "pb_percentile":0.3444444444,
         "pe_percentile":0.4388888889,
         "dyr_percentile":0.2611111111,
-        "ps_percentile":0.6111111111,
-        "fb_percentile_1300":0.3944444444,
-        "sb_percentile_1300":0.1444444444
+        "ps_percentile":0.6111111111
     },
     {
         "date":1678204800000,
@@ -3253,9 +2893,7 @@
         "pb_percentile":0.3922651934,
         "pe_percentile":0.5082872928,
         "dyr_percentile":0.2209944751,
-        "ps_percentile":0.6574585635,
-        "fb_percentile_1300":0.4806629834,
-        "sb_percentile_1300":0.1491712707
+        "ps_percentile":0.6574585635
     },
     {
         "date":1678291200000,
@@ -3271,9 +2909,7 @@
         "pb_percentile":0.456043956,
         "pe_percentile":0.6043956044,
         "dyr_percentile":0.1868131868,
-        "ps_percentile":0.7307692308,
-        "fb_percentile_1300":0.489010989,
-        "sb_percentile_1300":0.1813186813
+        "ps_percentile":0.7307692308
     },
     {
         "date":1678377600000,
@@ -3289,9 +2925,7 @@
         "pb_percentile":0.4426229508,
         "pe_percentile":0.5628415301,
         "dyr_percentile":0.1967213115,
-        "ps_percentile":0.7103825137,
-        "fb_percentile_1300":0.4153005464,
-        "sb_percentile_1300":0.218579235
+        "ps_percentile":0.7103825137
     },
     {
         "date":1678636800000,
@@ -3307,9 +2941,7 @@
         "pb_percentile":0.4510869565,
         "pe_percentile":0.5869565217,
         "dyr_percentile":0.1956521739,
-        "ps_percentile":0.722826087,
-        "fb_percentile_1300":0.4945652174,
-        "sb_percentile_1300":0.2119565217
+        "ps_percentile":0.722826087
     },
     {
         "date":1678723200000,
@@ -3325,9 +2957,7 @@
         "pb_percentile":0.6216216216,
         "pe_percentile":0.8810810811,
         "dyr_percentile":0.0054054054,
-        "ps_percentile":0.9351351351,
-        "fb_percentile_1300":0.8108108108,
-        "sb_percentile_1300":0.4162162162
+        "ps_percentile":0.9351351351
     },
     {
         "date":1678809600000,
@@ -3343,9 +2973,7 @@
         "pb_percentile":0.6129032258,
         "pe_percentile":0.876344086,
         "dyr_percentile":0.0107526882,
-        "ps_percentile":0.9247311828,
-        "fb_percentile_1300":0.8655913978,
-        "sb_percentile_1300":0.4032258065
+        "ps_percentile":0.9247311828
     },
     {
         "date":1678896000000,
@@ -3361,9 +2989,7 @@
         "pb_percentile":0.5828877005,
         "pe_percentile":0.807486631,
         "dyr_percentile":0.0427807487,
-        "ps_percentile":0.8823529412,
-        "fb_percentile_1300":0.8502673797,
-        "sb_percentile_1300":0.3796791444
+        "ps_percentile":0.8823529412
     },
     {
         "date":1678982400000,
@@ -3379,9 +3005,7 @@
         "pb_percentile":0.6436170213,
         "pe_percentile":0.8882978723,
         "dyr_percentile":0.0053191489,
-        "ps_percentile":0.9468085106,
-        "fb_percentile_1300":0.9627659574,
-        "sb_percentile_1300":0.5957446809
+        "ps_percentile":0.9468085106
     },
     {
         "date":1679241600000,
@@ -3397,9 +3021,7 @@
         "pb_percentile":0.6666666667,
         "pe_percentile":0.9153439153,
         "dyr_percentile":0.0052910053,
-        "ps_percentile":0.9523809524,
-        "fb_percentile_1300":0.9841269841,
-        "sb_percentile_1300":0.7142857143
+        "ps_percentile":0.9523809524
     },
     {
         "date":1679328000000,
@@ -3415,9 +3037,7 @@
         "pb_percentile":0.6578947368,
         "pe_percentile":0.9052631579,
         "dyr_percentile":0.0105263158,
-        "ps_percentile":0.9421052632,
-        "fb_percentile_1300":0.9894736842,
-        "sb_percentile_1300":0.6578947368
+        "ps_percentile":0.9421052632
     },
     {
         "date":1679414400000,
@@ -3433,9 +3053,7 @@
         "pb_percentile":0.6439790576,
         "pe_percentile":0.8952879581,
         "dyr_percentile":0.0157068063,
-        "ps_percentile":0.9371727749,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.6387434555
+        "ps_percentile":0.9371727749
     },
     {
         "date":1679500800000,
@@ -3451,9 +3069,7 @@
         "pb_percentile":0.6979166667,
         "pe_percentile":0.9479166667,
         "dyr_percentile":0.0052083333,
-        "ps_percentile":0.9895833333,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.9166666667
+        "ps_percentile":0.9895833333
     },
     {
         "date":1679587200000,
@@ -3469,9 +3085,7 @@
         "pb_percentile":0.6787564767,
         "pe_percentile":0.9274611399,
         "dyr_percentile":0.0103626943,
-        "ps_percentile":0.9637305699,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.9274611399
+        "ps_percentile":0.9637305699
     },
     {
         "date":1679846400000,
@@ -3487,9 +3101,7 @@
         "pb_percentile":0.6340206186,
         "pe_percentile":0.8762886598,
         "dyr_percentile":0.0309278351,
-        "ps_percentile":0.9226804124,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.8711340206
+        "ps_percentile":0.9226804124
     },
     {
         "date":1679932800000,
@@ -3505,9 +3117,7 @@
         "pb_percentile":0.558974359,
         "pe_percentile":0.7897435897,
         "dyr_percentile":0.0564102564,
-        "ps_percentile":0.841025641,
-        "fb_percentile_1300":0.9948717949,
-        "sb_percentile_1300":0.8153846154
+        "ps_percentile":0.841025641
     },
     {
         "date":1680019200000,
@@ -3523,9 +3133,7 @@
         "pb_percentile":0.6683673469,
         "pe_percentile":0.943877551,
         "dyr_percentile":0.0153061224,
-        "ps_percentile":0.9336734694,
-        "fb_percentile_1300":0.9948979592,
-        "sb_percentile_1300":0.9030612245
+        "ps_percentile":0.9336734694
     },
     {
         "date":1680105600000,
@@ -3541,9 +3149,7 @@
         "pb_percentile":0.6751269036,
         "pe_percentile":0.9543147208,
         "dyr_percentile":0.0050761421,
-        "ps_percentile":0.9492385787,
-        "fb_percentile_1300":0.9847715736,
-        "sb_percentile_1300":0.923857868
+        "ps_percentile":0.9492385787
     },
     {
         "date":1680192000000,
@@ -3559,9 +3165,7 @@
         "pb_percentile":0.6919191919,
         "pe_percentile":0.9949494949,
         "dyr_percentile":0.0050505051,
-        "ps_percentile":0.9646464646,
-        "fb_percentile_1300":0.9898989899,
-        "sb_percentile_1300":0.9292929293
+        "ps_percentile":0.9646464646
     },
     {
         "date":1680451200000,
@@ -3577,9 +3181,7 @@
         "pb_percentile":0.8442211055,
         "pe_percentile":1.0,
         "dyr_percentile":0.0050251256,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.9849246231
+        "ps_percentile":1.0
     },
     {
         "date":1680537600000,
@@ -3595,9 +3197,7 @@
         "pb_percentile":0.895,
         "pe_percentile":1.0,
         "dyr_percentile":0.005,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1680710400000,
@@ -3613,9 +3213,7 @@
         "pb_percentile":0.9552238806,
         "pe_percentile":1.0,
         "dyr_percentile":0.0049751244,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1680796800000,
@@ -3631,9 +3229,7 @@
         "pb_percentile":0.9702970297,
         "pe_percentile":1.0,
         "dyr_percentile":0.004950495,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":0.995049505,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1681056000000,
@@ -3649,9 +3245,7 @@
         "pb_percentile":0.9408866995,
         "pe_percentile":1.0,
         "dyr_percentile":0.0049261084,
-        "ps_percentile":0.9901477833,
-        "fb_percentile_1300":0.9901477833,
-        "sb_percentile_1300":0.9901477833
+        "ps_percentile":0.9901477833
     },
     {
         "date":1681142400000,
@@ -3667,9 +3261,7 @@
         "pb_percentile":0.931372549,
         "pe_percentile":0.9950980392,
         "dyr_percentile":0.0098039216,
-        "ps_percentile":0.9852941176,
-        "fb_percentile_1300":0.9852941176,
-        "sb_percentile_1300":0.9852941176
+        "ps_percentile":0.9852941176
     },
     {
         "date":1681228800000,
@@ -3685,9 +3277,7 @@
         "pb_percentile":0.9414634146,
         "pe_percentile":0.9951219512,
         "dyr_percentile":0.0048780488,
-        "ps_percentile":0.9902439024,
-        "fb_percentile_1300":0.9902439024,
-        "sb_percentile_1300":0.9902439024
+        "ps_percentile":0.9902439024
     },
     {
         "date":1681315200000,
@@ -3703,9 +3293,7 @@
         "pb_percentile":0.8737864078,
         "pe_percentile":0.9805825243,
         "dyr_percentile":0.0242718447,
-        "ps_percentile":0.9757281553,
-        "fb_percentile_1300":0.9757281553,
-        "sb_percentile_1300":0.9757281553
+        "ps_percentile":0.9757281553
     },
     {
         "date":1681401600000,
@@ -3721,9 +3309,7 @@
         "pb_percentile":0.9758454106,
         "pe_percentile":1.0,
         "dyr_percentile":0.0048309179,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":0.9806763285,
-        "sb_percentile_1300":1.0
+        "ps_percentile":1.0
     },
     {
         "date":1681660800000,
@@ -3739,9 +3325,7 @@
         "pb_percentile":0.9663461538,
         "pe_percentile":0.9951923077,
         "dyr_percentile":0.0096153846,
-        "ps_percentile":0.9951923077,
-        "fb_percentile_1300":0.9951923077,
-        "sb_percentile_1300":0.9951923077
+        "ps_percentile":0.9951923077
     },
     {
         "date":1681747200000,
@@ -3757,9 +3341,7 @@
         "pb_percentile":0.9234449761,
         "pe_percentile":0.980861244,
         "dyr_percentile":0.023923445,
-        "ps_percentile":0.976076555,
-        "fb_percentile_1300":0.980861244,
-        "sb_percentile_1300":0.976076555
+        "ps_percentile":0.976076555
     },
     {
         "date":1681833600000,
@@ -3775,9 +3357,7 @@
         "pb_percentile":0.9380952381,
         "pe_percentile":0.9904761905,
         "dyr_percentile":0.0142857143,
-        "ps_percentile":0.9857142857,
-        "fb_percentile_1300":0.9857142857,
-        "sb_percentile_1300":0.9761904762
+        "ps_percentile":0.9857142857
     },
     {
         "date":1681920000000,
@@ -3793,9 +3373,7 @@
         "pb_percentile":0.990521327,
         "pe_percentile":1.0,
         "dyr_percentile":0.0047393365,
-        "ps_percentile":1.0,
-        "fb_percentile_1300":1.0,
-        "sb_percentile_1300":0.9952606635
+        "ps_percentile":1.0
     },
     {
         "date":1682006400000,
@@ -3811,9 +3389,7 @@
         "pb_percentile":0.8820754717,
         "pe_percentile":0.9669811321,
         "dyr_percentile":0.0424528302,
-        "ps_percentile":0.9528301887,
-        "fb_percentile_1300":0.9716981132,
-        "sb_percentile_1300":0.9481132075
+        "ps_percentile":0.9528301887
     },
     {
         "date":1682265600000,
@@ -3829,9 +3405,7 @@
         "pb_percentile":0.8215962441,
         "pe_percentile":0.9624413146,
         "dyr_percentile":0.0610328638,
-        "ps_percentile":0.9389671362,
-        "fb_percentile_1300":0.9483568075,
-        "sb_percentile_1300":0.9248826291
+        "ps_percentile":0.9389671362
     },
     {
         "date":1682352000000,
@@ -3847,9 +3421,7 @@
         "pb_percentile":0.7476635514,
         "pe_percentile":0.9485981308,
         "dyr_percentile":0.0654205607,
-        "ps_percentile":0.9299065421,
-        "fb_percentile_1300":0.9392523364,
-        "sb_percentile_1300":0.8925233645
+        "ps_percentile":0.9299065421
     },
     {
         "date":1682438400000,
@@ -3865,9 +3437,7 @@
         "pb_percentile":0.6651162791,
         "pe_percentile":0.9348837209,
         "dyr_percentile":0.0744186047,
-        "ps_percentile":0.9255813953,
-        "fb_percentile_1300":0.9348837209,
-        "sb_percentile_1300":0.8651162791
+        "ps_percentile":0.9255813953
     },
     {
         "date":1682524800000,
@@ -3883,9 +3453,7 @@
         "pb_percentile":0.6759259259,
         "pe_percentile":0.9351851852,
         "dyr_percentile":0.0740740741,
-        "ps_percentile":0.9259259259,
-        "fb_percentile_1300":0.9305555556,
-        "sb_percentile_1300":0.8611111111
+        "ps_percentile":0.9259259259
     },
     {
         "date":1682611200000,
@@ -3901,9 +3469,7 @@
         "pb_percentile":0.7096774194,
         "pe_percentile":0.9953917051,
         "dyr_percentile":0.0184331797,
-        "ps_percentile":0.935483871,
-        "fb_percentile_1300":0.9216589862,
-        "sb_percentile_1300":0.8202764977
+        "ps_percentile":0.935483871
     },
     {
         "date":1683129600000,
@@ -3919,9 +3485,7 @@
         "pb_percentile":0.6100917431,
         "pe_percentile":0.9678899083,
         "dyr_percentile":0.0688073394,
-        "ps_percentile":0.9082568807,
-        "fb_percentile_1300":0.9174311927,
-        "sb_percentile_1300":0.7614678899
+        "ps_percentile":0.9082568807
     },
     {
         "date":1683216000000,
@@ -3937,9 +3501,7 @@
         "pb_percentile":0.5936073059,
         "pe_percentile":0.9543378995,
         "dyr_percentile":0.0776255708,
-        "ps_percentile":0.8904109589,
-        "fb_percentile_1300":0.9086757991,
-        "sb_percentile_1300":0.7442922374
+        "ps_percentile":0.8904109589
     },
     {
         "date":1683475200000,
@@ -3955,9 +3517,7 @@
         "pb_percentile":0.5909090909,
         "pe_percentile":0.95,
         "dyr_percentile":0.0818181818,
-        "ps_percentile":0.8863636364,
-        "fb_percentile_1300":0.9181818182,
-        "sb_percentile_1300":0.7636363636
+        "ps_percentile":0.8863636364
     },
     {
         "date":1683561600000,
@@ -3973,9 +3533,7 @@
         "pb_percentile":0.4660633484,
         "pe_percentile":0.9185520362,
         "dyr_percentile":0.1085972851,
-        "ps_percentile":0.8009049774,
-        "fb_percentile_1300":0.9049773756,
-        "sb_percentile_1300":0.7149321267
+        "ps_percentile":0.8009049774
     },
     {
         "date":1683648000000,
@@ -3991,9 +3549,7 @@
         "pb_percentile":0.4234234234,
         "pe_percentile":0.9054054054,
         "dyr_percentile":0.1171171171,
-        "ps_percentile":0.7567567568,
-        "fb_percentile_1300":0.8963963964,
-        "sb_percentile_1300":0.6756756757
+        "ps_percentile":0.7567567568
     },
     {
         "date":1683734400000,
@@ -4009,9 +3565,7 @@
         "pb_percentile":0.4349775785,
         "pe_percentile":0.9103139013,
         "dyr_percentile":0.1165919283,
-        "ps_percentile":0.7668161435,
-        "fb_percentile_1300":0.8968609865,
-        "sb_percentile_1300":0.6098654709
+        "ps_percentile":0.7668161435
     },
     {
         "date":1683820800000,
@@ -4027,9 +3581,7 @@
         "pb_percentile":0.3794642857,
         "pe_percentile":0.9285714286,
         "dyr_percentile":0.125,
-        "ps_percentile":0.7410714286,
-        "fb_percentile_1300":0.8883928571,
-        "sb_percentile_1300":0.7410714286
+        "ps_percentile":0.7410714286
     },
     {
         "date":1684080000000,
@@ -4045,9 +3597,7 @@
         "pb_percentile":0.4444444444,
         "pe_percentile":0.9377777778,
         "dyr_percentile":0.1155555556,
-        "ps_percentile":0.7955555556,
-        "fb_percentile_1300":0.8844444444,
-        "sb_percentile_1300":0.72
+        "ps_percentile":0.7955555556
     },
     {
         "date":1684166400000,
@@ -4063,9 +3613,7 @@
         "pb_percentile":0.4646017699,
         "pe_percentile":0.9380530973,
         "dyr_percentile":0.110619469,
-        "ps_percentile":0.814159292,
-        "fb_percentile_1300":0.889380531,
-        "sb_percentile_1300":0.7743362832
+        "ps_percentile":0.814159292
     },
     {
         "date":1684252800000,
@@ -4081,9 +3629,7 @@
         "pb_percentile":0.5154185022,
         "pe_percentile":0.9559471366,
         "dyr_percentile":0.1057268722,
-        "ps_percentile":0.8281938326,
-        "fb_percentile_1300":0.8766519824,
-        "sb_percentile_1300":0.7533039648
+        "ps_percentile":0.8281938326
     },
     {
         "date":1684339200000,
@@ -4099,9 +3645,7 @@
         "pb_percentile":0.5350877193,
         "pe_percentile":0.9649122807,
         "dyr_percentile":0.100877193,
-        "ps_percentile":0.8421052632,
-        "fb_percentile_1300":0.8728070175,
-        "sb_percentile_1300":0.7675438596
+        "ps_percentile":0.8421052632
     },
     {
         "date":1684425600000,
@@ -4117,9 +3661,7 @@
         "pb_percentile":0.5676855895,
         "pe_percentile":0.9781659389,
         "dyr_percentile":0.0917030568,
-        "ps_percentile":0.8733624454,
-        "fb_percentile_1300":0.8689956332,
-        "sb_percentile_1300":0.8165938865
+        "ps_percentile":0.8733624454
     },
     {
         "date":1684684800000,
@@ -4135,9 +3677,7 @@
         "pb_percentile":0.5434782609,
         "pe_percentile":0.9739130435,
         "dyr_percentile":0.1,
-        "ps_percentile":0.8565217391,
-        "fb_percentile_1300":0.8652173913,
-        "sb_percentile_1300":0.8086956522
+        "ps_percentile":0.8565217391
     },
     {
         "date":1684771200000,
@@ -4153,9 +3693,7 @@
         "pb_percentile":0.4458874459,
         "pe_percentile":0.9177489177,
         "dyr_percentile":0.1341991342,
-        "ps_percentile":0.7835497835,
-        "fb_percentile_1300":0.8614718615,
-        "sb_percentile_1300":0.7445887446
+        "ps_percentile":0.7835497835
     },
     {
         "date":1684857600000,
@@ -4171,9 +3709,7 @@
         "pb_percentile":0.4353448276,
         "pe_percentile":0.9094827586,
         "dyr_percentile":0.1465517241,
-        "ps_percentile":0.7629310345,
-        "fb_percentile_1300":0.8620689655,
-        "sb_percentile_1300":0.7715517241
+        "ps_percentile":0.7629310345
     },
     {
         "date":1684944000000,
@@ -4189,9 +3725,7 @@
         "pb_percentile":0.4763948498,
         "pe_percentile":0.9227467811,
         "dyr_percentile":0.1244635193,
-        "ps_percentile":0.8025751073,
-        "fb_percentile_1300":0.8326180258,
-        "sb_percentile_1300":0.8025751073
+        "ps_percentile":0.8025751073
     },
     {
         "date":1685030400000,
@@ -4207,9 +3741,7 @@
         "pb_percentile":0.5427350427,
         "pe_percentile":0.9572649573,
         "dyr_percentile":0.1068376068,
-        "ps_percentile":0.8376068376,
-        "fb_percentile_1300":0.8290598291,
-        "sb_percentile_1300":0.8632478632
+        "ps_percentile":0.8376068376
     },
     {
         "date":1685289600000,
@@ -4225,9 +3757,7 @@
         "pb_percentile":0.5617021277,
         "pe_percentile":0.970212766,
         "dyr_percentile":0.1021276596,
-        "ps_percentile":0.8553191489,
-        "fb_percentile_1300":0.829787234,
-        "sb_percentile_1300":0.8765957447
+        "ps_percentile":0.8553191489
     },
     {
         "date":1685376000000,
@@ -4243,9 +3773,7 @@
         "pb_percentile":0.5677966102,
         "pe_percentile":0.9745762712,
         "dyr_percentile":0.0974576271,
-        "ps_percentile":0.8601694915,
-        "fb_percentile_1300":0.8177966102,
-        "sb_percentile_1300":0.8771186441
+        "ps_percentile":0.8601694915
     },
     {
         "date":1685462400000,
@@ -4261,9 +3789,7 @@
         "pb_percentile":0.5907172996,
         "pe_percentile":0.9789029536,
         "dyr_percentile":0.0843881857,
-        "ps_percentile":0.8818565401,
-        "fb_percentile_1300":0.8143459916,
-        "sb_percentile_1300":0.8776371308
+        "ps_percentile":0.8818565401
     },
     {
         "date":1685548800000,
@@ -4279,9 +3805,7 @@
         "pb_percentile":0.5798319328,
         "pe_percentile":0.9705882353,
         "dyr_percentile":0.0966386555,
-        "ps_percentile":0.8697478992,
-        "fb_percentile_1300":0.8109243697,
-        "sb_percentile_1300":0.8529411765
+        "ps_percentile":0.8697478992
     },
     {
         "date":1685635200000,
@@ -4297,9 +3821,7 @@
         "pb_percentile":0.5648535565,
         "pe_percentile":0.9665271967,
         "dyr_percentile":0.1046025105,
-        "ps_percentile":0.8535564854,
-        "fb_percentile_1300":0.8075313808,
-        "sb_percentile_1300":0.8117154812
+        "ps_percentile":0.8535564854
     },
     {
         "date":1685894400000,
@@ -4315,9 +3837,7 @@
         "pb_percentile":0.5916666667,
         "pe_percentile":0.975,
         "dyr_percentile":0.0916666667,
-        "ps_percentile":0.875,
-        "fb_percentile_1300":0.8083333333,
-        "sb_percentile_1300":0.875
+        "ps_percentile":0.875
     },
     {
         "date":1685980800000,
@@ -4333,9 +3853,7 @@
         "pb_percentile":0.4854771784,
         "pe_percentile":0.8921161826,
         "dyr_percentile":0.153526971,
-        "ps_percentile":0.77593361,
-        "fb_percentile_1300":0.7966804979,
-        "sb_percentile_1300":0.7385892116
+        "ps_percentile":0.77593361
     },
     {
         "date":1686067200000,
@@ -4351,9 +3869,7 @@
         "pb_percentile":0.4876033058,
         "pe_percentile":0.8884297521,
         "dyr_percentile":0.1570247934,
-        "ps_percentile":0.7727272727,
-        "fb_percentile_1300":0.7975206612,
-        "sb_percentile_1300":0.6611570248
+        "ps_percentile":0.7727272727
     },
     {
         "date":1686153600000,
@@ -4369,9 +3885,7 @@
         "pb_percentile":0.3744855967,
         "pe_percentile":0.8641975309,
         "dyr_percentile":0.1893004115,
-        "ps_percentile":0.6995884774,
-        "fb_percentile_1300":0.7901234568,
-        "sb_percentile_1300":0.5390946502
+        "ps_percentile":0.6995884774
     },
     {
         "date":1686240000000,
@@ -4387,9 +3901,7 @@
         "pb_percentile":0.4426229508,
         "pe_percentile":0.881147541,
         "dyr_percentile":0.1680327869,
-        "ps_percentile":0.7581967213,
-        "fb_percentile_1300":0.7991803279,
-        "sb_percentile_1300":0.5614754098
+        "ps_percentile":0.7581967213
     },
     {
         "date":1686499200000,
@@ -4405,9 +3917,7 @@
         "pb_percentile":0.3224489796,
         "pe_percentile":0.8408163265,
         "dyr_percentile":0.1428571429,
-        "ps_percentile":0.6163265306,
-        "fb_percentile_1300":0.1224489796,
-        "sb_percentile_1300":0.0530612245
+        "ps_percentile":0.6163265306
     },
     {
         "date":1686585600000,
@@ -4423,9 +3933,7 @@
         "pb_percentile":0.4471544715,
         "pe_percentile":0.8821138211,
         "dyr_percentile":0.0772357724,
-        "ps_percentile":0.7682926829,
-        "fb_percentile_1300":0.1178861789,
-        "sb_percentile_1300":0.0731707317
+        "ps_percentile":0.7682926829
     },
     {
         "date":1686672000000,
@@ -4441,9 +3949,7 @@
         "pb_percentile":0.5060728745,
         "pe_percentile":0.9068825911,
         "dyr_percentile":0.0769230769,
-        "ps_percentile":0.7894736842,
-        "fb_percentile_1300":0.0850202429,
-        "sb_percentile_1300":0.0809716599
+        "ps_percentile":0.7894736842
     },
     {
         "date":1686758400000,
@@ -4459,9 +3965,7 @@
         "pb_percentile":0.4596774194,
         "pe_percentile":0.8790322581,
         "dyr_percentile":0.0806451613,
-        "ps_percentile":0.7661290323,
-        "fb_percentile_1300":0.060483871,
-        "sb_percentile_1300":0.0766129032
+        "ps_percentile":0.7661290323
     },
     {
         "date":1686844800000,
@@ -4477,9 +3981,7 @@
         "pb_percentile":0.546184739,
         "pe_percentile":0.9236947791,
         "dyr_percentile":0.0642570281,
-        "ps_percentile":0.8072289157,
-        "fb_percentile_1300":0.0240963855,
-        "sb_percentile_1300":0.0843373494
+        "ps_percentile":0.8072289157
     },
     {
         "date":1687104000000,
@@ -4495,9 +3997,7 @@
         "pb_percentile":0.524,
         "pe_percentile":0.916,
         "dyr_percentile":0.072,
-        "ps_percentile":0.792,
-        "fb_percentile_1300":0.04,
-        "sb_percentile_1300":0.088
+        "ps_percentile":0.792
     },
     {
         "date":1687190400000,
@@ -4513,9 +4013,7 @@
         "pb_percentile":0.422310757,
         "pe_percentile":0.8486055777,
         "dyr_percentile":0.1115537849,
-        "ps_percentile":0.7051792829,
-        "fb_percentile_1300":0.0278884462,
-        "sb_percentile_1300":0.0677290837
+        "ps_percentile":0.7051792829
     },
     {
         "date":1687276800000,
@@ -4531,9 +4029,7 @@
         "pb_percentile":0.246031746,
         "pe_percentile":0.7976190476,
         "dyr_percentile":0.2142857143,
-        "ps_percentile":0.5238095238,
-        "fb_percentile_1300":0.0119047619,
-        "sb_percentile_1300":0.0476190476
+        "ps_percentile":0.5238095238
     },
     {
         "date":1687708800000,
@@ -4549,9 +4045,7 @@
         "pb_percentile":0.2608695652,
         "pe_percentile":0.8023715415,
         "dyr_percentile":0.209486166,
-        "ps_percentile":0.5335968379,
-        "fb_percentile_1300":0.0079051383,
-        "sb_percentile_1300":0.0039525692
+        "ps_percentile":0.5335968379
     },
     {
         "date":1687795200000,
@@ -4567,9 +4061,7 @@
         "pb_percentile":0.2598425197,
         "pe_percentile":0.7952755906,
         "dyr_percentile":0.2165354331,
-        "ps_percentile":0.531496063,
-        "fb_percentile_1300":0.0196850394,
-        "sb_percentile_1300":0.0039370079
+        "ps_percentile":0.531496063
     },
     {
         "date":1687881600000,
@@ -4585,9 +4077,7 @@
         "pb_percentile":0.3019607843,
         "pe_percentile":0.8156862745,
         "dyr_percentile":0.1882352941,
-        "ps_percentile":0.5921568627,
-        "fb_percentile_1300":0.0156862745,
-        "sb_percentile_1300":0.0117647059
+        "ps_percentile":0.5921568627
     },
     {
         "date":1687968000000,
@@ -4603,9 +4093,7 @@
         "pb_percentile":0.28125,
         "pe_percentile":0.8125,
         "dyr_percentile":0.19140625,
-        "ps_percentile":0.57421875,
-        "fb_percentile_1300":0.0078125,
-        "sb_percentile_1300":0.01171875
+        "ps_percentile":0.57421875
     },
     {
         "date":1688054400000,
@@ -4621,9 +4109,7 @@
         "pb_percentile":0.3346303502,
         "pe_percentile":0.8249027237,
         "dyr_percentile":0.1595330739,
-        "ps_percentile":0.6108949416,
-        "fb_percentile_1300":0.0038910506,
-        "sb_percentile_1300":0.0272373541
+        "ps_percentile":0.6108949416
     },
     {
         "date":1688313600000,
@@ -4639,9 +4125,7 @@
         "pb_percentile":0.3294573643,
         "pe_percentile":0.8178294574,
         "dyr_percentile":0.1666666667,
-        "ps_percentile":0.6007751938,
-        "fb_percentile_1300":0.023255814,
-        "sb_percentile_1300":0.0310077519
+        "ps_percentile":0.6007751938
     },
     {
         "date":1688400000000,
@@ -4657,9 +4141,7 @@
         "pb_percentile":0.3745173745,
         "pe_percentile":0.8108108108,
         "dyr_percentile":0.1428571429,
-        "ps_percentile":0.6525096525,
-        "fb_percentile_1300":0.0386100386,
-        "sb_percentile_1300":0.0154440154
+        "ps_percentile":0.6525096525
     },
     {
         "date":1688486400000,
@@ -4675,9 +4157,7 @@
         "pb_percentile":0.3038461538,
         "pe_percentile":0.8076923077,
         "dyr_percentile":0.1961538462,
-        "ps_percentile":0.5884615385,
-        "fb_percentile_1300":0.0423076923,
-        "sb_percentile_1300":0.0038461538
+        "ps_percentile":0.5884615385
     },
     {
         "date":1688572800000,
@@ -4693,9 +4173,7 @@
         "pb_percentile":0.275862069,
         "pe_percentile":0.7892720307,
         "dyr_percentile":0.2222222222,
-        "ps_percentile":0.5440613027,
-        "fb_percentile_1300":0.0498084291,
-        "sb_percentile_1300":0.0038314176
+        "ps_percentile":0.5440613027
     },
     {
         "date":1688659200000,
@@ -4711,9 +4189,7 @@
         "pb_percentile":0.1984732824,
         "pe_percentile":0.7671755725,
         "dyr_percentile":0.2519083969,
-        "ps_percentile":0.4618320611,
-        "fb_percentile_1300":0.0496183206,
-        "sb_percentile_1300":0.0038167939
+        "ps_percentile":0.4618320611
     },
     {
         "date":1688918400000,
@@ -4729,9 +4205,7 @@
         "pb_percentile":0.2015209125,
         "pe_percentile":0.7680608365,
         "dyr_percentile":0.2509505703,
-        "ps_percentile":0.4714828897,
-        "fb_percentile_1300":0.0570342205,
-        "sb_percentile_1300":0.0038022814
+        "ps_percentile":0.4714828897
     },
     {
         "date":1689004800000,
@@ -4747,9 +4221,7 @@
         "pb_percentile":0.2916666667,
         "pe_percentile":0.803030303,
         "dyr_percentile":0.2007575758,
-        "ps_percentile":0.5757575758,
-        "fb_percentile_1300":0.1098484848,
-        "sb_percentile_1300":0.0075757576
+        "ps_percentile":0.5757575758
     },
     {
         "date":1689091200000,
@@ -4765,9 +4237,7 @@
         "pb_percentile":0.1433962264,
         "pe_percentile":0.758490566,
         "dyr_percentile":0.2603773585,
-        "ps_percentile":0.4188679245,
-        "fb_percentile_1300":0.0905660377,
-        "sb_percentile_1300":0.0075471698
+        "ps_percentile":0.4188679245
     },
     {
         "date":1689177600000,
@@ -4783,9 +4253,7 @@
         "pb_percentile":0.2368421053,
         "pe_percentile":0.7669172932,
         "dyr_percentile":0.2443609023,
-        "ps_percentile":0.492481203,
-        "fb_percentile_1300":0.1240601504,
-        "sb_percentile_1300":0.0187969925
+        "ps_percentile":0.492481203
     },
     {
         "date":1689264000000,
@@ -4801,9 +4269,7 @@
         "pb_percentile":0.2434456929,
         "pe_percentile":0.7677902622,
         "dyr_percentile":0.2434456929,
-        "ps_percentile":0.5018726592,
-        "fb_percentile_1300":0.1198501873,
-        "sb_percentile_1300":0.0224719101
+        "ps_percentile":0.5018726592
     },
     {
         "date":1689523200000,
@@ -4819,9 +4285,7 @@
         "pb_percentile":0.1492537313,
         "pe_percentile":0.7537313433,
         "dyr_percentile":0.2649253731,
-        "ps_percentile":0.4179104478,
-        "fb_percentile_1300":0.1567164179,
-        "sb_percentile_1300":0.0149253731
+        "ps_percentile":0.4179104478
     },
     {
         "date":1689609600000,
@@ -4837,9 +4301,7 @@
         "pb_percentile":0.1710037175,
         "pe_percentile":0.7546468401,
         "dyr_percentile":0.2639405204,
-        "ps_percentile":0.43866171,
-        "fb_percentile_1300":0.1524163569,
-        "sb_percentile_1300":0.0223048327
+        "ps_percentile":0.43866171
     },
     {
         "date":1689696000000,
@@ -4855,9 +4317,7 @@
         "pb_percentile":0.1,
         "pe_percentile":0.7407407407,
         "dyr_percentile":0.2777777778,
-        "ps_percentile":0.362962963,
-        "fb_percentile_1300":0.1703703704,
-        "sb_percentile_1300":0.0148148148
+        "ps_percentile":0.362962963
     },
     {
         "date":1689782400000,
@@ -4873,9 +4333,7 @@
         "pb_percentile":0.0774907749,
         "pe_percentile":0.7380073801,
         "dyr_percentile":0.2804428044,
-        "ps_percentile":0.3099630996,
-        "fb_percentile_1300":0.1439114391,
-        "sb_percentile_1300":0.0110701107
+        "ps_percentile":0.3099630996
     },
     {
         "date":1689868800000,
@@ -4891,9 +4349,7 @@
         "pb_percentile":0.0661764706,
         "pe_percentile":0.7316176471,
         "dyr_percentile":0.2904411765,
-        "ps_percentile":0.2647058824,
-        "fb_percentile_1300":0.125,
-        "sb_percentile_1300":0.0036764706
+        "ps_percentile":0.2647058824
     },
     {
         "date":1690128000000,
@@ -4909,9 +4365,7 @@
         "pb_percentile":0.0476190476,
         "pe_percentile":0.7289377289,
         "dyr_percentile":0.2967032967,
-        "ps_percentile":0.2490842491,
-        "fb_percentile_1300":0.1355311355,
-        "sb_percentile_1300":0.0036630037
+        "ps_percentile":0.2490842491
     },
     {
         "date":1690214400000,
@@ -4927,9 +4381,7 @@
         "pb_percentile":0.0912408759,
         "pe_percentile":0.7408759124,
         "dyr_percentile":0.2773722628,
-        "ps_percentile":0.3430656934,
-        "fb_percentile_1300":0.1386861314,
-        "sb_percentile_1300":0.0072992701
+        "ps_percentile":0.3430656934
     },
     {
         "date":1690300800000,
@@ -4945,9 +4397,7 @@
         "pb_percentile":0.1090909091,
         "pe_percentile":0.7418181818,
         "dyr_percentile":0.2763636364,
-        "ps_percentile":0.3672727273,
-        "fb_percentile_1300":0.1454545455,
-        "sb_percentile_1300":0.0181818182
+        "ps_percentile":0.3672727273
     },
     {
         "date":1690387200000,
@@ -4963,9 +4413,7 @@
         "pb_percentile":0.0615942029,
         "pe_percentile":0.7246376812,
         "dyr_percentile":0.3007246377,
-        "ps_percentile":0.2572463768,
-        "fb_percentile_1300":0.1050724638,
-        "sb_percentile_1300":0.0072463768
+        "ps_percentile":0.2572463768
     },
     {
         "date":1690473600000,
@@ -4981,9 +4429,7 @@
         "pb_percentile":0.0866425993,
         "pe_percentile":0.7328519856,
         "dyr_percentile":0.285198556,
-        "ps_percentile":0.3104693141,
-        "fb_percentile_1300":0.0577617329,
-        "sb_percentile_1300":0.0144404332
+        "ps_percentile":0.3104693141
     },
     {
         "date":1690732800000,
@@ -4999,9 +4445,7 @@
         "pb_percentile":0.1618705036,
         "pe_percentile":0.7517985612,
         "dyr_percentile":0.2661870504,
-        "ps_percentile":0.4244604317,
-        "fb_percentile_1300":0.0575539568,
-        "sb_percentile_1300":0.0575539568
+        "ps_percentile":0.4244604317
     },
     {
         "date":1690819200000,
@@ -5017,9 +4461,7 @@
         "pb_percentile":0.1433691756,
         "pe_percentile":0.7455197133,
         "dyr_percentile":0.2688172043,
-        "ps_percentile":0.4050179211,
-        "fb_percentile_1300":0.082437276,
-        "sb_percentile_1300":0.064516129
+        "ps_percentile":0.4050179211
     },
     {
         "date":1690905600000,
@@ -5035,9 +4477,7 @@
         "pb_percentile":0.1642857143,
         "pe_percentile":0.7535714286,
         "dyr_percentile":0.2642857143,
-        "ps_percentile":0.4285714286,
-        "fb_percentile_1300":0.0428571429,
-        "sb_percentile_1300":0.0821428571
+        "ps_percentile":0.4285714286
     },
     {
         "date":1690992000000,
@@ -5053,9 +4493,7 @@
         "pb_percentile":0.1814946619,
         "pe_percentile":0.7615658363,
         "dyr_percentile":0.256227758,
-        "ps_percentile":0.4412811388,
-        "fb_percentile_1300":0.0427046263,
-        "sb_percentile_1300":0.0854092527
+        "ps_percentile":0.4412811388
     },
     {
         "date":1691078400000,
@@ -5071,9 +4509,7 @@
         "pb_percentile":0.134751773,
         "pe_percentile":0.7375886525,
         "dyr_percentile":0.2765957447,
-        "ps_percentile":0.390070922,
-        "fb_percentile_1300":0.0212765957,
-        "sb_percentile_1300":0.085106383
+        "ps_percentile":0.390070922
     },
     {
         "date":1691337600000,
@@ -5089,9 +4525,7 @@
         "pb_percentile":0.0954063604,
         "pe_percentile":0.7208480565,
         "dyr_percentile":0.2932862191,
-        "ps_percentile":0.3215547703,
-        "fb_percentile_1300":0.0141342756,
-        "sb_percentile_1300":0.074204947
+        "ps_percentile":0.3215547703
     },
     {
         "date":1691424000000,
@@ -5107,9 +4541,7 @@
         "pb_percentile":0.088028169,
         "pe_percentile":0.7147887324,
         "dyr_percentile":0.2957746479,
-        "ps_percentile":0.3098591549,
-        "fb_percentile_1300":0.0176056338,
-        "sb_percentile_1300":0.0633802817
+        "ps_percentile":0.3098591549
     },
     {
         "date":1691510400000,
@@ -5125,9 +4557,7 @@
         "pb_percentile":0.0596491228,
         "pe_percentile":0.701754386,
         "dyr_percentile":0.3157894737,
-        "ps_percentile":0.2456140351,
-        "fb_percentile_1300":0.0105263158,
-        "sb_percentile_1300":0.0456140351
+        "ps_percentile":0.2456140351
     },
     {
         "date":1691596800000,
@@ -5143,9 +4573,7 @@
         "pb_percentile":0.0734265734,
         "pe_percentile":0.7062937063,
         "dyr_percentile":0.3111888112,
-        "ps_percentile":0.2587412587,
-        "fb_percentile_1300":0.006993007,
-        "sb_percentile_1300":0.0524475524
+        "ps_percentile":0.2587412587
     },
     {
         "date":1691683200000,
@@ -5161,9 +4589,7 @@
         "pb_percentile":0.0174216028,
         "pe_percentile":0.6933797909,
         "dyr_percentile":0.3449477352,
-        "ps_percentile":0.2020905923,
-        "fb_percentile_1300":0.0034843206,
-        "sb_percentile_1300":0.031358885
+        "ps_percentile":0.2020905923
     },
     {
         "date":1691942400000,
@@ -5179,9 +4605,7 @@
         "pb_percentile":0.0173611111,
         "pe_percentile":0.6909722222,
         "dyr_percentile":0.3472222222,
-        "ps_percentile":0.1979166667,
-        "fb_percentile_1300":0.0034722222,
-        "sb_percentile_1300":0.0069444444
+        "ps_percentile":0.1979166667
     },
     {
         "date":1692028800000,
@@ -5197,9 +4621,7 @@
         "pb_percentile":0.0103806228,
         "pe_percentile":0.7093425606,
         "dyr_percentile":0.3944636678,
-        "ps_percentile":0.1903114187,
-        "fb_percentile_1300":0.0034602076,
-        "sb_percentile_1300":0.0034602076
+        "ps_percentile":0.1903114187
     },
     {
         "date":1692115200000,
@@ -5215,9 +4637,7 @@
         "pb_percentile":0.0068965517,
         "pe_percentile":0.6931034483,
         "dyr_percentile":0.4517241379,
-        "ps_percentile":0.1655172414,
-        "fb_percentile_1300":0.0034482759,
-        "sb_percentile_1300":0.0034482759
+        "ps_percentile":0.1655172414
     },
     {
         "date":1692201600000,
@@ -5233,9 +4653,7 @@
         "pb_percentile":0.0103092784,
         "pe_percentile":0.6941580756,
         "dyr_percentile":0.4329896907,
-        "ps_percentile":0.1786941581,
-        "fb_percentile_1300":0.0068728522,
-        "sb_percentile_1300":0.0137457045
+        "ps_percentile":0.1786941581
     },
     {
         "date":1692288000000,
@@ -5251,9 +4669,7 @@
         "pb_percentile":0.0102739726,
         "pe_percentile":0.6883561644,
         "dyr_percentile":0.4520547945,
-        "ps_percentile":0.1678082192,
-        "fb_percentile_1300":0.0034246575,
-        "sb_percentile_1300":0.0342465753
+        "ps_percentile":0.1678082192
     },
     {
         "date":1692547200000,
@@ -5269,9 +4685,7 @@
         "pb_percentile":0.0068259386,
         "pe_percentile":0.6825938567,
         "dyr_percentile":0.4948805461,
-        "ps_percentile":0.156996587,
-        "fb_percentile_1300":0.0034129693,
-        "sb_percentile_1300":0.0204778157
+        "ps_percentile":0.156996587
     },
     {
         "date":1692633600000,
@@ -5287,9 +4701,7 @@
         "pb_percentile":0.0102040816,
         "pe_percentile":0.6836734694,
         "dyr_percentile":0.4387755102,
-        "ps_percentile":0.1666666667,
-        "fb_percentile_1300":0.0034013605,
-        "sb_percentile_1300":0.0340136054
+        "ps_percentile":0.1666666667
     },
     {
         "date":1692720000000,
@@ -5305,9 +4717,7 @@
         "pb_percentile":0.0033898305,
         "pe_percentile":0.6542372881,
         "dyr_percentile":0.5288135593,
-        "ps_percentile":0.1118644068,
-        "fb_percentile_1300":0.0033898305,
-        "sb_percentile_1300":0.0101694915
+        "ps_percentile":0.1118644068
     },
     {
         "date":1692806400000,
@@ -5323,9 +4733,7 @@
         "pb_percentile":0.0101351351,
         "pe_percentile":0.6756756757,
         "dyr_percentile":0.472972973,
-        "ps_percentile":0.1452702703,
-        "fb_percentile_1300":0.0033783784,
-        "sb_percentile_1300":0.0472972973
+        "ps_percentile":0.1452702703
     },
     {
         "date":1692892800000,
@@ -5341,9 +4749,7 @@
         "pb_percentile":0.0067340067,
         "pe_percentile":0.6464646465,
         "dyr_percentile":0.6228956229,
-        "ps_percentile":0.1212121212,
-        "fb_percentile_1300":0.0033670034,
-        "sb_percentile_1300":0.0336700337
+        "ps_percentile":0.1212121212
     },
     {
         "date":1693152000000,
@@ -5359,9 +4765,7 @@
         "pb_percentile":0.0033557047,
         "pe_percentile":0.7751677852,
         "dyr_percentile":0.6174496644,
-        "ps_percentile":0.1543624161,
-        "fb_percentile_1300":0.0067114094,
-        "sb_percentile_1300":0.067114094
+        "ps_percentile":0.1543624161
     },
     {
         "date":1693238400000,
@@ -5377,9 +4781,7 @@
         "pb_percentile":0.016722408,
         "pe_percentile":0.8528428094,
         "dyr_percentile":0.4882943144,
-        "ps_percentile":0.2173913043,
-        "fb_percentile_1300":0.0066889632,
-        "sb_percentile_1300":0.1237458194
+        "ps_percentile":0.2173913043
     },
     {
         "date":1693324800000,
@@ -5395,9 +4797,7 @@
         "pb_percentile":0.0433333333,
         "pe_percentile":0.8666666667,
         "dyr_percentile":0.4033333333,
-        "ps_percentile":0.25,
-        "fb_percentile_1300":0.01,
-        "sb_percentile_1300":0.1866666667
+        "ps_percentile":0.25
     },
     {
         "date":1693411200000,
@@ -5413,9 +4813,7 @@
         "pb_percentile":0.0564784053,
         "pe_percentile":0.9335548173,
         "dyr_percentile":0.342192691,
-        "ps_percentile":0.3089700997,
-        "fb_percentile_1300":0.0132890365,
-        "sb_percentile_1300":0.196013289
+        "ps_percentile":0.3089700997
     },
     {
         "date":1693497600000,
@@ -5431,9 +4829,7 @@
         "pb_percentile":0.0529801325,
         "pe_percentile":0.9205298013,
         "dyr_percentile":0.357615894,
-        "ps_percentile":0.2748344371,
-        "fb_percentile_1300":0.0033112583,
-        "sb_percentile_1300":0.2052980132
+        "ps_percentile":0.2748344371
     },
     {
         "date":1693756800000,
@@ -5449,9 +4845,7 @@
         "pb_percentile":0.0726072607,
         "pe_percentile":0.9768976898,
         "dyr_percentile":0.3234323432,
-        "ps_percentile":0.4125412541,
-        "fb_percentile_1300":0.0330033003,
-        "sb_percentile_1300":0.2079207921
+        "ps_percentile":0.4125412541
     },
     {
         "date":1693843200000,
@@ -5467,9 +4861,7 @@
         "pb_percentile":0.0657894737,
         "pe_percentile":0.9638157895,
         "dyr_percentile":0.3322368421,
-        "ps_percentile":0.3618421053,
-        "fb_percentile_1300":0.0394736842,
-        "sb_percentile_1300":0.2105263158
+        "ps_percentile":0.3618421053
     },
     {
         "date":1693929600000,
@@ -5485,9 +4877,7 @@
         "pb_percentile":0.1016393443,
         "pe_percentile":0.9967213115,
         "dyr_percentile":0.2918032787,
-        "ps_percentile":0.5278688525,
-        "fb_percentile_1300":0.0491803279,
-        "sb_percentile_1300":0.2590163934
+        "ps_percentile":0.5278688525
     },
     {
         "date":1694016000000,
@@ -5503,9 +4893,7 @@
         "pb_percentile":0.0392156863,
         "pe_percentile":0.8660130719,
         "dyr_percentile":0.4052287582,
-        "ps_percentile":0.2483660131,
-        "fb_percentile_1300":0.0522875817,
-        "sb_percentile_1300":0.2156862745
+        "ps_percentile":0.2483660131
     },
     {
         "date":1694102400000,
@@ -5521,9 +4909,7 @@
         "pb_percentile":0.0521172638,
         "pe_percentile":0.8827361564,
         "dyr_percentile":0.3843648208,
-        "ps_percentile":0.2540716612,
-        "fb_percentile_1300":0.0423452769,
-        "sb_percentile_1300":0.2442996743
+        "ps_percentile":0.2540716612
     },
     {
         "date":1694361600000,
@@ -5539,9 +4925,7 @@
         "pb_percentile":0.0519480519,
         "pe_percentile":0.8733766234,
         "dyr_percentile":0.3896103896,
-        "ps_percentile":0.2532467532,
-        "fb_percentile_1300":0.1168831169,
-        "sb_percentile_1300":0.211038961
+        "ps_percentile":0.2532467532
     },
     {
         "date":1694448000000,
@@ -5557,9 +4941,7 @@
         "pb_percentile":0.0388349515,
         "pe_percentile":0.8478964401,
         "dyr_percentile":0.4336569579,
-        "ps_percentile":0.2427184466,
-        "fb_percentile_1300":0.142394822,
-        "sb_percentile_1300":0.1941747573
+        "ps_percentile":0.2427184466
     },
     {
         "date":1694534400000,
@@ -5575,9 +4957,7 @@
         "pb_percentile":0.0290322581,
         "pe_percentile":0.8322580645,
         "dyr_percentile":0.464516129,
-        "ps_percentile":0.2225806452,
-        "fb_percentile_1300":0.2032258065,
-        "sb_percentile_1300":0.1935483871
+        "ps_percentile":0.2225806452
     },
     {
         "date":1694620800000,
@@ -5593,9 +4973,7 @@
         "pb_percentile":0.0128617363,
         "pe_percentile":0.8006430868,
         "dyr_percentile":0.5209003215,
-        "ps_percentile":0.2057877814,
-        "fb_percentile_1300":0.2057877814,
-        "sb_percentile_1300":0.1832797428
+        "ps_percentile":0.2057877814
     },
     {
         "date":1694707200000,
@@ -5611,9 +4989,7 @@
         "pb_percentile":0.0288461538,
         "pe_percentile":0.8237179487,
         "dyr_percentile":0.483974359,
-        "ps_percentile":0.2179487179,
-        "fb_percentile_1300":0.2147435897,
-        "sb_percentile_1300":0.1891025641
+        "ps_percentile":0.2179487179
     },
     {
         "date":1694966400000,
@@ -5629,9 +5005,7 @@
         "pb_percentile":0.0095846645,
         "pe_percentile":0.7731629393,
         "dyr_percentile":0.5623003195,
-        "ps_percentile":0.1884984026,
-        "fb_percentile_1300":0.2523961661,
-        "sb_percentile_1300":0.1821086262
+        "ps_percentile":0.1884984026
     },
     {
         "date":1695052800000,
@@ -5647,9 +5021,7 @@
         "pb_percentile":0.0063694268,
         "pe_percentile":0.7515923567,
         "dyr_percentile":0.5700636943,
-        "ps_percentile":0.1815286624,
-        "fb_percentile_1300":0.2388535032,
-        "sb_percentile_1300":0.178343949
+        "ps_percentile":0.1815286624
     },
     {
         "date":1695139200000,
@@ -5665,9 +5037,7 @@
         "pb_percentile":0.0063492063,
         "pe_percentile":0.7396825397,
         "dyr_percentile":0.6063492063,
-        "ps_percentile":0.1523809524,
-        "fb_percentile_1300":0.2349206349,
-        "sb_percentile_1300":0.146031746
+        "ps_percentile":0.1523809524
     },
     {
         "date":1695225600000,
@@ -5683,9 +5053,7 @@
         "pb_percentile":0.0063291139,
         "pe_percentile":0.7246835443,
         "dyr_percentile":0.6234177215,
-        "ps_percentile":0.1455696203,
-        "fb_percentile_1300":0.25,
-        "sb_percentile_1300":0.1424050633
+        "ps_percentile":0.1455696203
     },
     {
         "date":1695312000000,
@@ -5701,9 +5069,7 @@
         "pb_percentile":0.0252365931,
         "pe_percentile":0.7823343849,
         "dyr_percentile":0.5394321767,
-        "ps_percentile":0.2018927445,
-        "fb_percentile_1300":0.2839116719,
-        "sb_percentile_1300":0.1892744479
+        "ps_percentile":0.2018927445
     },
     {
         "date":1695571200000,
@@ -5719,9 +5085,7 @@
         "pb_percentile":0.0188679245,
         "pe_percentile":0.7578616352,
         "dyr_percentile":0.5628930818,
-        "ps_percentile":0.1949685535,
-        "fb_percentile_1300":0.2955974843,
-        "sb_percentile_1300":0.1698113208
+        "ps_percentile":0.1949685535
     },
     {
         "date":1695657600000,
@@ -5737,9 +5101,7 @@
         "pb_percentile":0.012539185,
         "pe_percentile":0.736677116,
         "dyr_percentile":0.5987460815,
-        "ps_percentile":0.1630094044,
-        "fb_percentile_1300":0.2915360502,
-        "sb_percentile_1300":0.1536050157
+        "ps_percentile":0.1630094044
     },
     {
         "date":1695744000000,
@@ -5755,9 +5117,7 @@
         "pb_percentile":0.015625,
         "pe_percentile":0.740625,
         "dyr_percentile":0.596875,
-        "ps_percentile":0.178125,
-        "fb_percentile_1300":0.278125,
-        "sb_percentile_1300":0.121875
+        "ps_percentile":0.178125
     },
     {
         "date":1695830400000,
@@ -5773,9 +5133,7 @@
         "pb_percentile":0.0373831776,
         "pe_percentile":0.800623053,
         "dyr_percentile":0.5171339564,
-        "ps_percentile":0.2211838006,
-        "fb_percentile_1300":0.1651090343,
-        "sb_percentile_1300":0.1619937695
+        "ps_percentile":0.2211838006
     },
     {
         "date":1696780800000,
@@ -5791,9 +5149,7 @@
         "pb_percentile":0.0434782609,
         "pe_percentile":0.8105590062,
         "dyr_percentile":0.5062111801,
-        "ps_percentile":0.2329192547,
-        "fb_percentile_1300":0.1863354037,
-        "sb_percentile_1300":0.1273291925
+        "ps_percentile":0.2329192547
     },
     {
         "date":1696867200000,
@@ -5809,9 +5165,7 @@
         "pb_percentile":0.0557275542,
         "pe_percentile":0.8204334365,
         "dyr_percentile":0.4953560372,
-        "ps_percentile":0.2383900929,
-        "fb_percentile_1300":0.1764705882,
-        "sb_percentile_1300":0.1795665635
+        "ps_percentile":0.2383900929
     },
     {
         "date":1696953600000,
@@ -5827,9 +5181,7 @@
         "pb_percentile":0.0833333333,
         "pe_percentile":0.8580246914,
         "dyr_percentile":0.4104938272,
-        "ps_percentile":0.2777777778,
-        "fb_percentile_1300":0.2685185185,
-        "sb_percentile_1300":0.2160493827
+        "ps_percentile":0.2777777778
     },
     {
         "date":1697040000000,
@@ -5845,9 +5197,7 @@
         "pb_percentile":0.1076923077,
         "pe_percentile":0.8984615385,
         "dyr_percentile":0.3476923077,
-        "ps_percentile":0.3015384615,
-        "fb_percentile_1300":0.3076923077,
-        "sb_percentile_1300":0.2738461538
+        "ps_percentile":0.3015384615
     },
     {
         "date":1697126400000,
@@ -5863,9 +5213,7 @@
         "pb_percentile":0.1073619632,
         "pe_percentile":0.8957055215,
         "dyr_percentile":0.3496932515,
-        "ps_percentile":0.2975460123,
-        "fb_percentile_1300":0.2423312883,
-        "sb_percentile_1300":0.3098159509
+        "ps_percentile":0.2975460123
     },
     {
         "date":1697385600000,
@@ -5881,9 +5229,7 @@
         "pb_percentile":0.0519877676,
         "pe_percentile":0.8103975535,
         "dyr_percentile":0.501529052,
-        "ps_percentile":0.2354740061,
-        "fb_percentile_1300":0.1957186544,
-        "sb_percentile_1300":0.2874617737
+        "ps_percentile":0.2354740061
     },
     {
         "date":1697472000000,
@@ -5899,9 +5245,7 @@
         "pb_percentile":0.0792682927,
         "pe_percentile":0.8445121951,
         "dyr_percentile":0.4298780488,
-        "ps_percentile":0.2652439024,
-        "fb_percentile_1300":0.1981707317,
-        "sb_percentile_1300":0.2987804878
+        "ps_percentile":0.2652439024
     },
     {
         "date":1697558400000,
@@ -5917,9 +5261,7 @@
         "pb_percentile":0.0638297872,
         "pe_percentile":0.8176291793,
         "dyr_percentile":0.4802431611,
-        "ps_percentile":0.2431610942,
-        "fb_percentile_1300":0.1155015198,
-        "sb_percentile_1300":0.2279635258
+        "ps_percentile":0.2431610942
     },
     {
         "date":1697644800000,
@@ -5935,9 +5277,7 @@
         "pb_percentile":0.0787878788,
         "pe_percentile":0.8363636364,
         "dyr_percentile":0.4393939394,
-        "ps_percentile":0.2848484848,
-        "fb_percentile_1300":0.2454545455,
-        "sb_percentile_1300":0.2090909091
+        "ps_percentile":0.2848484848
     },
     {
         "date":1697731200000,
@@ -5953,9 +5293,7 @@
         "pb_percentile":0.0634441088,
         "pe_percentile":0.8096676737,
         "dyr_percentile":0.4833836858,
-        "ps_percentile":0.2628398792,
-        "fb_percentile_1300":0.163141994,
-        "sb_percentile_1300":0.1993957704
+        "ps_percentile":0.2628398792
     },
     {
         "date":1697990400000,
@@ -5971,9 +5309,7 @@
         "pb_percentile":0.0361445783,
         "pe_percentile":0.7680722892,
         "dyr_percentile":0.5391566265,
-        "ps_percentile":0.2289156627,
-        "fb_percentile_1300":0.0903614458,
-        "sb_percentile_1300":0.171686747
+        "ps_percentile":0.2289156627
     },
     {
         "date":1698076800000,
@@ -5989,9 +5325,7 @@
         "pb_percentile":0.0720720721,
         "pe_percentile":0.8198198198,
         "dyr_percentile":0.4594594595,
-        "ps_percentile":0.2732732733,
-        "fb_percentile_1300":0.0870870871,
-        "sb_percentile_1300":0.2072072072
+        "ps_percentile":0.2732732733
     },
     {
         "date":1698163200000,
@@ -6007,9 +5341,7 @@
         "pb_percentile":0.0568862275,
         "pe_percentile":0.8652694611,
         "dyr_percentile":0.497005988,
-        "ps_percentile":0.2664670659,
-        "fb_percentile_1300":0.0868263473,
-        "sb_percentile_1300":0.1107784431
+        "ps_percentile":0.2664670659
     },
     {
         "date":1698249600000,
@@ -6025,9 +5357,7 @@
         "pb_percentile":0.0417910448,
         "pe_percentile":0.7880597015,
         "dyr_percentile":0.4895522388,
-        "ps_percentile":0.2268656716,
-        "fb_percentile_1300":0.0776119403,
-        "sb_percentile_1300":0.0895522388
+        "ps_percentile":0.2268656716
     },
     {
         "date":1698336000000,
@@ -6043,9 +5373,7 @@
         "pb_percentile":0.1160714286,
         "pe_percentile":0.9196428571,
         "dyr_percentile":0.3363095238,
-        "ps_percentile":0.3035714286,
-        "fb_percentile_1300":0.0982142857,
-        "sb_percentile_1300":0.1071428571
+        "ps_percentile":0.3035714286
     },
     {
         "date":1698595200000,
@@ -6061,9 +5389,7 @@
         "pb_percentile":0.1543026706,
         "pe_percentile":0.9970326409,
         "dyr_percentile":0.293768546,
-        "ps_percentile":0.3768545994,
-        "fb_percentile_1300":0.2403560831,
-        "sb_percentile_1300":0.1275964392
+        "ps_percentile":0.3768545994
     },
     {
         "date":1698681600000,
@@ -6079,9 +5405,7 @@
         "pb_percentile":0.1449704142,
         "pe_percentile":0.9940828402,
         "dyr_percentile":0.2958579882,
-        "ps_percentile":0.3076923077,
-        "fb_percentile_1300":0.2840236686,
-        "sb_percentile_1300":0.1153846154
+        "ps_percentile":0.3076923077
     },
     {
         "date":1698768000000,
@@ -6097,9 +5421,7 @@
         "pb_percentile":0.1386430678,
         "pe_percentile":0.98820059,
         "dyr_percentile":0.3067846608,
-        "ps_percentile":0.3008849558,
-        "fb_percentile_1300":0.3303834808,
-        "sb_percentile_1300":0.0648967552
+        "ps_percentile":0.3008849558
     },
     {
         "date":1698854400000,
@@ -6115,9 +5437,7 @@
         "pb_percentile":0.1,
         "pe_percentile":0.9676470588,
         "dyr_percentile":0.3441176471,
-        "ps_percentile":0.2441176471,
-        "fb_percentile_1300":0.3323529412,
-        "sb_percentile_1300":0.0617647059
+        "ps_percentile":0.2441176471
     },
     {
         "date":1698940800000,
@@ -6133,9 +5453,7 @@
         "pb_percentile":0.1495601173,
         "pe_percentile":0.991202346,
         "dyr_percentile":0.2991202346,
-        "ps_percentile":0.3108504399,
-        "fb_percentile_1300":0.3607038123,
-        "sb_percentile_1300":0.1231671554
+        "ps_percentile":0.3108504399
     },
     {
         "date":1699200000000,
@@ -6151,9 +5469,7 @@
         "pb_percentile":0.1637426901,
         "pe_percentile":0.9970760234,
         "dyr_percentile":0.2865497076,
-        "ps_percentile":0.3625730994,
-        "fb_percentile_1300":0.4005847953,
-        "sb_percentile_1300":0.1081871345
+        "ps_percentile":0.3625730994
     },
     {
         "date":1699286400000,
@@ -6169,9 +5485,7 @@
         "pb_percentile":0.1749271137,
         "pe_percentile":0.9970845481,
         "dyr_percentile":0.2798833819,
-        "ps_percentile":0.387755102,
-        "fb_percentile_1300":0.4052478134,
-        "sb_percentile_1300":0.0233236152
+        "ps_percentile":0.387755102
     },
     {
         "date":1699372800000,
@@ -6187,9 +5501,7 @@
         "pb_percentile":0.1802325581,
         "pe_percentile":1.0,
         "dyr_percentile":0.2558139535,
-        "ps_percentile":0.4738372093,
-        "fb_percentile_1300":0.4215116279,
-        "sb_percentile_1300":0.0203488372
+        "ps_percentile":0.4738372093
     },
     {
         "date":1699459200000,
@@ -6205,9 +5517,7 @@
         "pb_percentile":0.1623188406,
         "pe_percentile":0.9884057971,
         "dyr_percentile":0.2927536232,
-        "ps_percentile":0.3594202899,
-        "fb_percentile_1300":0.4173913043,
-        "sb_percentile_1300":0.0028985507
+        "ps_percentile":0.3594202899
     },
     {
         "date":1699545600000,
@@ -6223,9 +5533,7 @@
         "pb_percentile":0.1445086705,
         "pe_percentile":1.0,
         "dyr_percentile":0.3092485549,
-        "ps_percentile":0.3352601156,
-        "fb_percentile_1300":0.4046242775,
-        "sb_percentile_1300":0.0057803468
+        "ps_percentile":0.3352601156
     },
     {
         "date":1699804800000,
@@ -6241,9 +5549,7 @@
         "pb_percentile":0.1527377522,
         "pe_percentile":1.0,
         "dyr_percentile":0.2997118156,
-        "ps_percentile":0.3429394813,
-        "fb_percentile_1300":0.4265129683,
-        "sb_percentile_1300":0.0086455331
+        "ps_percentile":0.3429394813
     },
     {
         "date":1699891200000,
@@ -6259,9 +5565,7 @@
         "pb_percentile":0.1609195402,
         "pe_percentile":1.0,
         "dyr_percentile":0.2959770115,
-        "ps_percentile":0.382183908,
-        "fb_percentile_1300":0.4511494253,
-        "sb_percentile_1300":0.0114942529
+        "ps_percentile":0.382183908
     },
     {
         "date":1699977600000,
@@ -6277,9 +5581,7 @@
         "pb_percentile":0.1489971347,
         "pe_percentile":0.994269341,
         "dyr_percentile":0.3123209169,
-        "ps_percentile":0.335243553,
-        "fb_percentile_1300":0.4584527221,
-        "sb_percentile_1300":0.0114613181
+        "ps_percentile":0.335243553
     },
     {
         "date":1700064000000,
@@ -6295,9 +5597,7 @@
         "pb_percentile":0.1,
         "pe_percentile":0.9885714286,
         "dyr_percentile":0.3542857143,
-        "ps_percentile":0.26,
-        "fb_percentile_1300":0.4542857143,
-        "sb_percentile_1300":0.0028571429
+        "ps_percentile":0.26
     },
     {
         "date":1700150400000,
@@ -6313,9 +5613,7 @@
         "pb_percentile":0.1225071225,
         "pe_percentile":0.9886039886,
         "dyr_percentile":0.3361823362,
-        "ps_percentile":0.2991452991,
-        "fb_percentile_1300":0.4558404558,
-        "sb_percentile_1300":0.0085470085
+        "ps_percentile":0.2991452991
     },
     {
         "date":1700409600000,
@@ -6331,9 +5629,7 @@
         "pb_percentile":0.1278409091,
         "pe_percentile":0.9886363636,
         "dyr_percentile":0.3352272727,
-        "ps_percentile":0.3011363636,
-        "fb_percentile_1300":0.4857954545,
-        "sb_percentile_1300":0.0142045455
+        "ps_percentile":0.3011363636
     },
     {
         "date":1700496000000,
@@ -6349,9 +5645,7 @@
         "pb_percentile":0.0934844193,
         "pe_percentile":0.9801699717,
         "dyr_percentile":0.3909348442,
-        "ps_percentile":0.2464589235,
-        "fb_percentile_1300":0.492917847,
-        "sb_percentile_1300":0.0056657224
+        "ps_percentile":0.2464589235
     },
     {
         "date":1700582400000,
@@ -6367,9 +5661,7 @@
         "pb_percentile":0.0395480226,
         "pe_percentile":0.9774011299,
         "dyr_percentile":0.4632768362,
-        "ps_percentile":0.1949152542,
-        "fb_percentile_1300":0.5056497175,
-        "sb_percentile_1300":0.0028248588
+        "ps_percentile":0.1949152542
     },
     {
         "date":1700668800000,
@@ -6385,9 +5677,7 @@
         "pb_percentile":0.076056338,
         "pe_percentile":0.9774647887,
         "dyr_percentile":0.4309859155,
-        "ps_percentile":0.2309859155,
-        "fb_percentile_1300":0.5098591549,
-        "sb_percentile_1300":0.0112676056
+        "ps_percentile":0.2309859155
     },
     {
         "date":1700755200000,
@@ -6403,9 +5693,7 @@
         "pb_percentile":0.0505617978,
         "pe_percentile":0.9747191011,
         "dyr_percentile":0.4606741573,
-        "ps_percentile":0.2050561798,
-        "fb_percentile_1300":0.4859550562,
-        "sb_percentile_1300":0.0056179775
+        "ps_percentile":0.2050561798
     },
     {
         "date":1701014400000,
@@ -6421,9 +5709,7 @@
         "pb_percentile":0.1036414566,
         "pe_percentile":0.9803921569,
         "dyr_percentile":0.380952381,
-        "ps_percentile":0.2549019608,
-        "fb_percentile_1300":0.4733893557,
-        "sb_percentile_1300":0.0140056022
+        "ps_percentile":0.2549019608
     },
     {
         "date":1701100800000,
@@ -6439,9 +5725,7 @@
         "pb_percentile":0.1005586592,
         "pe_percentile":0.9748603352,
         "dyr_percentile":0.3966480447,
-        "ps_percentile":0.248603352,
-        "fb_percentile_1300":0.4664804469,
-        "sb_percentile_1300":0.0279329609
+        "ps_percentile":0.248603352
     },
     {
         "date":1701187200000,
@@ -6457,9 +5741,7 @@
         "pb_percentile":0.0891364903,
         "pe_percentile":0.9721448468,
         "dyr_percentile":0.4094707521,
-        "ps_percentile":0.2339832869,
-        "fb_percentile_1300":0.4651810585,
-        "sb_percentile_1300":0.0417827298
+        "ps_percentile":0.2339832869
     },
     {
         "date":1701273600000,
@@ -6475,9 +5757,7 @@
         "pb_percentile":0.0805555556,
         "pe_percentile":0.9694444444,
         "dyr_percentile":0.4305555556,
-        "ps_percentile":0.2333333333,
-        "fb_percentile_1300":0.4611111111,
-        "sb_percentile_1300":0.0444444444
+        "ps_percentile":0.2333333333
     },
     {
         "date":1701360000000,
@@ -6493,9 +5773,7 @@
         "pb_percentile":0.0886426593,
         "pe_percentile":0.9695290859,
         "dyr_percentile":0.4182825485,
-        "ps_percentile":0.2354570637,
-        "fb_percentile_1300":0.4570637119,
-        "sb_percentile_1300":0.0415512465
+        "ps_percentile":0.2354570637
     },
     {
         "date":1701619200000,
@@ -6511,9 +5789,7 @@
         "pb_percentile":0.0386740331,
         "pe_percentile":0.955801105,
         "dyr_percentile":0.4917127072,
-        "ps_percentile":0.1878453039,
-        "fb_percentile_1300":0.4585635359,
-        "sb_percentile_1300":0.0027624309
+        "ps_percentile":0.1878453039
     },
     {
         "date":1701705600000,
@@ -6529,9 +5805,7 @@
         "pb_percentile":0.0137741047,
         "pe_percentile":0.9504132231,
         "dyr_percentile":0.5950413223,
-        "ps_percentile":0.1349862259,
-        "fb_percentile_1300":0.4380165289,
-        "sb_percentile_1300":0.0027548209
+        "ps_percentile":0.1349862259
     },
     {
         "date":1701792000000,
@@ -6547,9 +5821,7 @@
         "pb_percentile":0.010989011,
         "pe_percentile":0.9450549451,
         "dyr_percentile":0.6126373626,
-        "ps_percentile":0.1291208791,
-        "fb_percentile_1300":0.4340659341,
-        "sb_percentile_1300":0.0027472527
+        "ps_percentile":0.1291208791
     },
     {
         "date":1701878400000,
@@ -6565,9 +5837,7 @@
         "pb_percentile":0.0054794521,
         "pe_percentile":0.9342465753,
         "dyr_percentile":0.6356164384,
-        "ps_percentile":0.1150684932,
-        "fb_percentile_1300":0.4547945205,
-        "sb_percentile_1300":0.002739726
+        "ps_percentile":0.1150684932
     },
     {
         "date":1701964800000,
@@ -6583,9 +5853,7 @@
         "pb_percentile":0.0191256831,
         "pe_percentile":0.9453551913,
         "dyr_percentile":0.5956284153,
-        "ps_percentile":0.1393442623,
-        "fb_percentile_1300":0.4617486339,
-        "sb_percentile_1300":0.0027322404
+        "ps_percentile":0.1393442623
     },
     {
         "date":1702224000000,
@@ -6601,9 +5869,7 @@
         "pb_percentile":0.310626703,
         "pe_percentile":1.0,
         "dyr_percentile":0.0027247956,
-        "ps_percentile":0.9536784741,
-        "fb_percentile_1300":0.0027247956,
-        "sb_percentile_1300":0.2016348774
+        "ps_percentile":0.9536784741
     },
     {
         "date":1702310400000,
@@ -6619,9 +5885,7 @@
         "pb_percentile":0.3206521739,
         "pe_percentile":1.0,
         "dyr_percentile":0.0027173913,
-        "ps_percentile":0.9538043478,
-        "fb_percentile_1300":0.0027173913,
-        "sb_percentile_1300":0.2092391304
+        "ps_percentile":0.9538043478
     },
     {
         "date":1702396800000,
@@ -6637,9 +5901,7 @@
         "pb_percentile":0.2791327913,
         "pe_percentile":0.9945799458,
         "dyr_percentile":0.0081300813,
-        "ps_percentile":0.945799458,
-        "fb_percentile_1300":0.0027100271,
-        "sb_percentile_1300":0.1978319783
+        "ps_percentile":0.945799458
     },
     {
         "date":1702483200000,
@@ -6655,9 +5917,7 @@
         "pb_percentile":0.2432432432,
         "pe_percentile":0.9918918919,
         "dyr_percentile":0.0108108108,
-        "ps_percentile":0.9297297297,
-        "fb_percentile_1300":0.0027027027,
-        "sb_percentile_1300":0.1837837838
+        "ps_percentile":0.9297297297
     },
     {
         "date":1702569600000,
@@ -6673,9 +5933,7 @@
         "pb_percentile":0.2318059299,
         "pe_percentile":0.9892183288,
         "dyr_percentile":0.0134770889,
-        "ps_percentile":0.9083557951,
-        "fb_percentile_1300":0.0026954178,
-        "sb_percentile_1300":0.1913746631
+        "ps_percentile":0.9083557951
     },
     {
         "date":1702828800000,
@@ -6691,9 +5949,7 @@
         "pb_percentile":0.2258064516,
         "pe_percentile":0.9865591398,
         "dyr_percentile":0.0161290323,
-        "ps_percentile":0.8844086022,
-        "fb_percentile_1300":0.002688172,
-        "sb_percentile_1300":0.1827956989
+        "ps_percentile":0.8844086022
     },
     {
         "date":1702915200000,
@@ -6709,9 +5965,7 @@
         "pb_percentile":0.2520107239,
         "pe_percentile":0.9919571046,
         "dyr_percentile":0.0107238606,
-        "ps_percentile":0.9329758713,
-        "fb_percentile_1300":0.0053619303,
-        "sb_percentile_1300":0.0643431635
+        "ps_percentile":0.9329758713
     },
     {
         "date":1703001600000,
@@ -6727,9 +5981,7 @@
         "pb_percentile":0.2352941176,
         "pe_percentile":0.986631016,
         "dyr_percentile":0.0160427807,
-        "ps_percentile":0.9064171123,
-        "fb_percentile_1300":0.0053475936,
-        "sb_percentile_1300":0.0614973262
+        "ps_percentile":0.9064171123
     },
     {
         "date":1703088000000,
@@ -6745,9 +5997,7 @@
         "pb_percentile":0.2693333333,
         "pe_percentile":0.992,
         "dyr_percentile":0.0106666667,
-        "ps_percentile":0.936,
-        "fb_percentile_1300":0.0026666667,
-        "sb_percentile_1300":0.0666666667
+        "ps_percentile":0.936
     },
     {
         "date":1703174400000,
@@ -6763,9 +6013,7 @@
         "pb_percentile":0.2313829787,
         "pe_percentile":0.9787234043,
         "dyr_percentile":0.0239361702,
-        "ps_percentile":0.8962765957,
-        "fb_percentile_1300":0.0026595745,
-        "sb_percentile_1300":0.0638297872
+        "ps_percentile":0.8962765957
     },
     {
         "date":1703433600000,
@@ -6781,9 +6029,7 @@
         "pb_percentile":0.198938992,
         "pe_percentile":0.9734748011,
         "dyr_percentile":0.0318302387,
-        "ps_percentile":0.8408488064,
-        "fb_percentile_1300":0.0026525199,
-        "sb_percentile_1300":0.0610079576
+        "ps_percentile":0.8408488064
     },
     {
         "date":1703520000000,
@@ -6799,9 +6045,7 @@
         "pb_percentile":0.1481481481,
         "pe_percentile":0.9708994709,
         "dyr_percentile":0.0423280423,
-        "ps_percentile":0.7645502646,
-        "fb_percentile_1300":0.0026455026,
-        "sb_percentile_1300":0.0502645503
+        "ps_percentile":0.7645502646
     },
     {
         "date":1703606400000,
@@ -6817,9 +6061,7 @@
         "pb_percentile":0.1952506596,
         "pe_percentile":0.9709762533,
         "dyr_percentile":0.0422163588,
-        "ps_percentile":0.8232189974,
-        "fb_percentile_1300":0.0026385224,
-        "sb_percentile_1300":0.0580474934
+        "ps_percentile":0.8232189974
     },
     {
         "date":1703692800000,
@@ -6835,9 +6077,7 @@
         "pb_percentile":0.2289473684,
         "pe_percentile":0.9736842105,
         "dyr_percentile":0.0289473684,
-        "ps_percentile":0.8657894737,
-        "fb_percentile_1300":0.0078947368,
-        "sb_percentile_1300":0.0421052632
+        "ps_percentile":0.8657894737
     },
     {
         "date":1703779200000,
@@ -6853,9 +6093,7 @@
         "pb_percentile":0.2283464567,
         "pe_percentile":0.9711286089,
         "dyr_percentile":0.031496063,
-        "ps_percentile":0.8635170604,
-        "fb_percentile_1300":0.0157480315,
-        "sb_percentile_1300":0.0157480315
+        "ps_percentile":0.8635170604
     },
     {
         "date":1704124800000,
@@ -6871,9 +6109,7 @@
         "pb_percentile":0.1989528796,
         "pe_percentile":0.9659685864,
         "dyr_percentile":0.0418848168,
-        "ps_percentile":0.8246073298,
-        "fb_percentile_1300":0.0209424084,
-        "sb_percentile_1300":0.0157068063
+        "ps_percentile":0.8246073298
     },
     {
         "date":1704211200000,
@@ -6889,9 +6125,7 @@
         "pb_percentile":0.1723237598,
         "pe_percentile":0.9608355091,
         "dyr_percentile":0.0522193211,
-        "ps_percentile":0.7754569191,
-        "fb_percentile_1300":0.0208877285,
-        "sb_percentile_1300":0.0130548303
+        "ps_percentile":0.7754569191
     },
     {
         "date":1704297600000,
@@ -6907,9 +6141,7 @@
         "pb_percentile":0.1458333333,
         "pe_percentile":0.9583333333,
         "dyr_percentile":0.0546875,
-        "ps_percentile":0.7578125,
-        "fb_percentile_1300":0.0208333333,
-        "sb_percentile_1300":0.0130208333
+        "ps_percentile":0.7578125
     },
     {
         "date":1704384000000,
@@ -6925,9 +6157,7 @@
         "pb_percentile":0.0805194805,
         "pe_percentile":0.9532467532,
         "dyr_percentile":0.0727272727,
-        "ps_percentile":0.6753246753,
-        "fb_percentile_1300":0.012987013,
-        "sb_percentile_1300":0.0077922078
+        "ps_percentile":0.6753246753
     },
     {
         "date":1704643200000,
@@ -6943,9 +6173,7 @@
         "pb_percentile":0.0155440415,
         "pe_percentile":0.9507772021,
         "dyr_percentile":0.0880829016,
-        "ps_percentile":0.5233160622,
-        "fb_percentile_1300":0.0077720207,
-        "sb_percentile_1300":0.0077720207
+        "ps_percentile":0.5233160622
     },
     {
         "date":1704729600000,
@@ -6961,9 +6189,7 @@
         "pb_percentile":0.007751938,
         "pe_percentile":0.9483204134,
         "dyr_percentile":0.0904392765,
-        "ps_percentile":0.496124031,
-        "fb_percentile_1300":0.007751938,
-        "sb_percentile_1300":0.007751938
+        "ps_percentile":0.496124031
     },
     {
         "date":1704816000000,
@@ -6979,9 +6205,7 @@
         "pb_percentile":0.0025773196,
         "pe_percentile":0.9458762887,
         "dyr_percentile":0.1056701031,
-        "ps_percentile":0.4072164948,
-        "fb_percentile_1300":0.0077319588,
-        "sb_percentile_1300":0.0077319588
+        "ps_percentile":0.4072164948
     },
     {
         "date":1704902400000,
@@ -6997,9 +6221,7 @@
         "pb_percentile":0.0077120823,
         "pe_percentile":0.9460154242,
         "dyr_percentile":0.0925449871,
-        "ps_percentile":0.4858611825,
-        "fb_percentile_1300":0.0179948586,
-        "sb_percentile_1300":0.0102827763
+        "ps_percentile":0.4858611825
     },
     {
         "date":1704988800000,
@@ -7015,9 +6237,7 @@
         "pb_percentile":0.0025641026,
         "pe_percentile":0.941025641,
         "dyr_percentile":0.1256410256,
-        "ps_percentile":0.3384615385,
-        "fb_percentile_1300":0.0051282051,
-        "sb_percentile_1300":0.0025641026
+        "ps_percentile":0.3384615385
     },
     {
         "date":1705248000000,
@@ -7033,9 +6253,7 @@
         "pb_percentile":0.0025575448,
         "pe_percentile":0.9386189258,
         "dyr_percentile":0.1278772379,
-        "ps_percentile":0.3350383632,
-        "fb_percentile_1300":0.0127877238,
-        "sb_percentile_1300":0.0025575448
+        "ps_percentile":0.3350383632
     },
     {
         "date":1705334400000,
@@ -7051,9 +6269,7 @@
         "pb_percentile":0.0076530612,
         "pe_percentile":0.9413265306,
         "dyr_percentile":0.1147959184,
-        "ps_percentile":0.3724489796,
-        "fb_percentile_1300":0.0025510204,
-        "sb_percentile_1300":0.0025510204
+        "ps_percentile":0.3724489796
     },
     {
         "date":1705420800000,
@@ -7069,9 +6285,7 @@
         "pb_percentile":0.0025445293,
         "pe_percentile":0.9338422392,
         "dyr_percentile":0.1730279898,
-        "ps_percentile":0.2595419847,
-        "fb_percentile_1300":0.0025445293,
-        "sb_percentile_1300":0.0025445293
+        "ps_percentile":0.2595419847
     },
     {
         "date":1705507200000,
@@ -7087,9 +6301,7 @@
         "pb_percentile":0.0101522843,
         "pe_percentile":0.9390862944,
         "dyr_percentile":0.1218274112,
-        "ps_percentile":0.3654822335,
-        "fb_percentile_1300":0.0050761421,
-        "sb_percentile_1300":0.0076142132
+        "ps_percentile":0.3654822335
     },
     {
         "date":1705593600000,
@@ -7105,9 +6317,7 @@
         "pb_percentile":0.0101265823,
         "pe_percentile":0.9367088608,
         "dyr_percentile":0.1291139241,
-        "ps_percentile":0.3417721519,
-        "fb_percentile_1300":0.0101265823,
-        "sb_percentile_1300":0.0101265823
+        "ps_percentile":0.3417721519
     },
     {
         "date":1705852800000,
@@ -7123,9 +6333,7 @@
         "pb_percentile":0.0025252525,
         "pe_percentile":0.9267676768,
         "dyr_percentile":0.1994949495,
-        "ps_percentile":0.2247474747,
-        "fb_percentile_1300":0.0025252525,
-        "sb_percentile_1300":0.0025252525
+        "ps_percentile":0.2247474747
     },
     {
         "date":1705939200000,
@@ -7141,9 +6349,7 @@
         "pb_percentile":0.0050377834,
         "pe_percentile":0.9269521411,
         "dyr_percentile":0.1838790932,
-        "ps_percentile":0.2493702771,
-        "fb_percentile_1300":0.0050377834,
-        "sb_percentile_1300":0.0075566751
+        "ps_percentile":0.2493702771
     },
     {
         "date":1706025600000,
@@ -7159,9 +6365,7 @@
         "pb_percentile":0.0100502513,
         "pe_percentile":0.9296482412,
         "dyr_percentile":0.1733668342,
-        "ps_percentile":0.2638190955,
-        "fb_percentile_1300":0.0075376884,
-        "sb_percentile_1300":0.0075376884
+        "ps_percentile":0.2638190955
     },
     {
         "date":1706112000000,
@@ -7177,9 +6381,7 @@
         "pb_percentile":0.0250626566,
         "pe_percentile":0.9423558897,
         "dyr_percentile":0.1127819549,
-        "ps_percentile":0.4135338346,
-        "fb_percentile_1300":0.0200501253,
-        "sb_percentile_1300":0.0125313283
+        "ps_percentile":0.4135338346
     },
     {
         "date":1706198400000,
@@ -7195,9 +6397,7 @@
         "pb_percentile":0.0075,
         "pe_percentile":0.9225,
         "dyr_percentile":0.1825,
-        "ps_percentile":0.25,
-        "fb_percentile_1300":0.02,
-        "sb_percentile_1300":0.0025
+        "ps_percentile":0.25
     },
     {
         "date":1706457600000,
@@ -7213,9 +6413,7 @@
         "pb_percentile":0.0024937656,
         "pe_percentile":0.9152119701,
         "dyr_percentile":0.2543640898,
-        "ps_percentile":0.1720698254,
-        "fb_percentile_1300":0.0099750623,
-        "sb_percentile_1300":0.0024937656
+        "ps_percentile":0.1720698254
     },
     {
         "date":1706544000000,
@@ -7231,9 +6429,7 @@
         "pb_percentile":0.0024875622,
         "pe_percentile":0.9129353234,
         "dyr_percentile":0.3407960199,
-        "ps_percentile":0.0646766169,
-        "fb_percentile_1300":0.0049751244,
-        "sb_percentile_1300":0.0024875622
+        "ps_percentile":0.0646766169
     },
     {
         "date":1706630400000,
@@ -7249,9 +6445,7 @@
         "pb_percentile":0.0024813896,
         "pe_percentile":0.9106699752,
         "dyr_percentile":0.3622828784,
-        "ps_percentile":0.0446650124,
-        "fb_percentile_1300":0.0024813896,
-        "sb_percentile_1300":0.0024813896
+        "ps_percentile":0.0446650124
     },
     {
         "date":1706716800000,
@@ -7267,9 +6461,7 @@
         "pb_percentile":0.004950495,
         "pe_percentile":0.9108910891,
         "dyr_percentile":0.349009901,
-        "ps_percentile":0.0618811881,
-        "fb_percentile_1300":0.0024752475,
-        "sb_percentile_1300":0.0074257426
+        "ps_percentile":0.0618811881
     },
     {
         "date":1706803200000,
@@ -7285,9 +6477,7 @@
         "pb_percentile":0.0024691358,
         "pe_percentile":0.9061728395,
         "dyr_percentile":0.4395061728,
-        "ps_percentile":0.0197530864,
-        "fb_percentile_1300":0.0024691358,
-        "sb_percentile_1300":0.0024691358
+        "ps_percentile":0.0197530864
     },
     {
         "date":1707062400000,
@@ -7303,9 +6493,7 @@
         "pb_percentile":0.0024630542,
         "pe_percentile":0.9039408867,
         "dyr_percentile":0.4507389163,
-        "ps_percentile":0.0197044335,
-        "fb_percentile_1300":0.0024630542,
-        "sb_percentile_1300":0.0024630542
+        "ps_percentile":0.0197044335
     },
     {
         "date":1707148800000,
@@ -7321,9 +6509,7 @@
         "pb_percentile":0.0147420147,
         "pe_percentile":0.914004914,
         "dyr_percentile":0.2825552826,
-        "ps_percentile":0.1277641278,
-        "fb_percentile_1300":0.0024570025,
-        "sb_percentile_1300":0.0049140049
+        "ps_percentile":0.1277641278
     },
     {
         "date":1707235200000,
@@ -7339,9 +6525,7 @@
         "pb_percentile":0.0171568627,
         "pe_percentile":0.9142156863,
         "dyr_percentile":0.2745098039,
-        "ps_percentile":0.1397058824,
-        "fb_percentile_1300":0.0024509804,
-        "sb_percentile_1300":0.0024509804
+        "ps_percentile":0.1397058824
     },
     {
         "date":1707321600000,
@@ -7357,9 +6541,7 @@
         "pb_percentile":0.02200489,
         "pe_percentile":0.9168704156,
         "dyr_percentile":0.2322738386,
-        "ps_percentile":0.2102689487,
-        "fb_percentile_1300":0.0024449878,
-        "sb_percentile_1300":0.0024449878
+        "ps_percentile":0.2102689487
     },
     {
         "date":1708272000000,
@@ -7375,9 +6557,7 @@
         "pb_percentile":0.0365853659,
         "pe_percentile":0.9292682927,
         "dyr_percentile":0.1585365854,
-        "ps_percentile":0.3170731707,
-        "fb_percentile_1300":0.0073170732,
-        "sb_percentile_1300":0.0024390244
+        "ps_percentile":0.3170731707
     },
     {
         "date":1708358400000,
@@ -7393,9 +6573,7 @@
         "pb_percentile":0.0267639903,
         "pe_percentile":0.9172749392,
         "dyr_percentile":0.1922141119,
-        "ps_percentile":0.2554744526,
-        "fb_percentile_1300":0.0121654501,
-        "sb_percentile_1300":0.00243309
+        "ps_percentile":0.2554744526
     },
     {
         "date":1708444800000,
@@ -7411,9 +6589,7 @@
         "pb_percentile":0.0339805825,
         "pe_percentile":0.9223300971,
         "dyr_percentile":0.1796116505,
-        "ps_percentile":0.2791262136,
-        "fb_percentile_1300":0.0121359223,
-        "sb_percentile_1300":0.0024271845
+        "ps_percentile":0.2791262136
     },
     {
         "date":1708531200000,
@@ -7429,9 +6605,7 @@
         "pb_percentile":0.0435835351,
         "pe_percentile":0.9297820823,
         "dyr_percentile":0.1452784504,
-        "ps_percentile":0.3389830508,
-        "fb_percentile_1300":0.01937046,
-        "sb_percentile_1300":0.0024213075
+        "ps_percentile":0.3389830508
     },
     {
         "date":1708617600000,
@@ -7447,9 +6621,7 @@
         "pb_percentile":0.0458937198,
         "pe_percentile":0.9299516908,
         "dyr_percentile":0.1376811594,
-        "ps_percentile":0.347826087,
-        "fb_percentile_1300":0.0217391304,
-        "sb_percentile_1300":0.0024154589
+        "ps_percentile":0.347826087
     },
     {
         "date":1708876800000,
@@ -7465,9 +6637,7 @@
         "pb_percentile":0.0554216867,
         "pe_percentile":0.9373493976,
         "dyr_percentile":0.1228915663,
-        "ps_percentile":0.3734939759,
-        "fb_percentile_1300":0.0240963855,
-        "sb_percentile_1300":0.0024096386
+        "ps_percentile":0.3734939759
     },
     {
         "date":1708963200000,
@@ -7483,9 +6653,7 @@
         "pb_percentile":0.1081730769,
         "pe_percentile":0.9543269231,
         "dyr_percentile":0.0721153846,
-        "ps_percentile":0.6274038462,
-        "fb_percentile_1300":0.0264423077,
-        "sb_percentile_1300":0.0072115385
+        "ps_percentile":0.6274038462
     },
     {
         "date":1709049600000,
@@ -7501,9 +6669,7 @@
         "pb_percentile":0.0575539568,
         "pe_percentile":0.9352517986,
         "dyr_percentile":0.1223021583,
-        "ps_percentile":0.381294964,
-        "fb_percentile_1300":0.0263788969,
-        "sb_percentile_1300":0.0023980815
+        "ps_percentile":0.381294964
     },
     {
         "date":1709136000000,
@@ -7519,9 +6685,7 @@
         "pb_percentile":0.1698564593,
         "pe_percentile":0.956937799,
         "dyr_percentile":0.0861244019,
-        "ps_percentile":0.7129186603,
-        "fb_percentile_1300":0.033492823,
-        "sb_percentile_1300":0.009569378
+        "ps_percentile":0.7129186603
     },
     {
         "date":1709222400000,
@@ -7537,9 +6701,7 @@
         "pb_percentile":0.1957040573,
         "pe_percentile":0.9570405728,
         "dyr_percentile":0.0811455847,
-        "ps_percentile":0.7422434368,
-        "fb_percentile_1300":0.0357995227,
-        "sb_percentile_1300":0.0119331742
+        "ps_percentile":0.7422434368
     },
     {
         "date":1709481600000,
@@ -7555,9 +6717,7 @@
         "pb_percentile":0.1952380952,
         "pe_percentile":0.9547619048,
         "dyr_percentile":0.0833333333,
-        "ps_percentile":0.7380952381,
-        "fb_percentile_1300":0.0404761905,
-        "sb_percentile_1300":0.0142857143
+        "ps_percentile":0.7380952381
     },
     {
         "date":1709568000000,
@@ -7573,9 +6733,7 @@
         "pb_percentile":0.1852731591,
         "pe_percentile":0.9524940618,
         "dyr_percentile":0.0855106888,
-        "ps_percentile":0.7197149644,
-        "fb_percentile_1300":0.0427553444,
-        "sb_percentile_1300":0.0118764846
+        "ps_percentile":0.7197149644
     },
     {
         "date":1709654400000,
@@ -7591,9 +6749,7 @@
         "pb_percentile":0.1327014218,
         "pe_percentile":0.9454976303,
         "dyr_percentile":0.0995260664,
-        "ps_percentile":0.682464455,
-        "fb_percentile_1300":0.0450236967,
-        "sb_percentile_1300":0.0071090047
+        "ps_percentile":0.682464455
     },
     {
         "date":1709740800000,
@@ -7609,9 +6765,7 @@
         "pb_percentile":0.1040189125,
         "pe_percentile":0.9408983452,
         "dyr_percentile":0.1229314421,
-        "ps_percentile":0.6075650118,
-        "fb_percentile_1300":0.0401891253,
-        "sb_percentile_1300":0.0023640662
+        "ps_percentile":0.6075650118
     },
     {
         "date":1709827200000,
@@ -7627,9 +6781,7 @@
         "pb_percentile":0.1556603774,
         "pe_percentile":0.9481132075,
         "dyr_percentile":0.0943396226,
-        "ps_percentile":0.6981132075,
-        "fb_percentile_1300":0.0495283019,
-        "sb_percentile_1300":0.0047169811
+        "ps_percentile":0.6981132075
     },
     {
         "date":1710086400000,
@@ -7645,9 +6797,7 @@
         "pb_percentile":0.2023529412,
         "pe_percentile":0.9529411765,
         "dyr_percentile":0.0847058824,
-        "ps_percentile":0.7388235294,
-        "fb_percentile_1300":0.0541176471,
-        "sb_percentile_1300":0.0094117647
+        "ps_percentile":0.7388235294
     },
     {
         "date":1710172800000,
@@ -7663,9 +6813,7 @@
         "pb_percentile":0.1924882629,
         "pe_percentile":0.9507042254,
         "dyr_percentile":0.0868544601,
-        "ps_percentile":0.7276995305,
-        "fb_percentile_1300":0.0563380282,
-        "sb_percentile_1300":0.0093896714
+        "ps_percentile":0.7276995305
     },
     {
         "date":1710259200000,
@@ -7681,9 +6829,7 @@
         "pb_percentile":0.168618267,
         "pe_percentile":0.943793911,
         "dyr_percentile":0.0983606557,
-        "ps_percentile":0.6978922717,
-        "fb_percentile_1300":0.0585480094,
-        "sb_percentile_1300":0.0093676815
+        "ps_percentile":0.6978922717
     },
     {
         "date":1710345600000,
@@ -7699,9 +6845,7 @@
         "pb_percentile":0.1168224299,
         "pe_percentile":0.9345794393,
         "dyr_percentile":0.1191588785,
-        "ps_percentile":0.6355140187,
-        "fb_percentile_1300":0.0560747664,
-        "sb_percentile_1300":0.0023364486
+        "ps_percentile":0.6355140187
     },
     {
         "date":1710432000000,
@@ -7717,9 +6861,7 @@
         "pb_percentile":0.1188811189,
         "pe_percentile":0.9347319347,
         "dyr_percentile":0.1328671329,
-        "ps_percentile":0.6386946387,
-        "fb_percentile_1300":0.0559440559,
-        "sb_percentile_1300":0.0046620047
+        "ps_percentile":0.6386946387
     },
     {
         "date":1710691200000,
@@ -7735,9 +6877,7 @@
         "pb_percentile":0.2279069767,
         "pe_percentile":0.9581395349,
         "dyr_percentile":0.0906976744,
-        "ps_percentile":0.7674418605,
-        "fb_percentile_1300":0.0604651163,
-        "sb_percentile_1300":0.0209302326
+        "ps_percentile":0.7674418605
     },
     {
         "date":1710777600000,
@@ -7753,9 +6893,7 @@
         "pb_percentile":0.1740139211,
         "pe_percentile":0.9327146172,
         "dyr_percentile":0.283062645,
-        "ps_percentile":0.6960556845,
-        "fb_percentile_1300":0.0533642691,
-        "sb_percentile_1300":0.0023201856
+        "ps_percentile":0.6960556845
     },
     {
         "date":1710864000000,
@@ -7771,9 +6909,7 @@
         "pb_percentile":0.1921296296,
         "pe_percentile":0.9351851852,
         "dyr_percentile":0.2777777778,
-        "ps_percentile":0.7106481481,
-        "fb_percentile_1300":0.0578703704,
-        "sb_percentile_1300":0.0069444444
+        "ps_percentile":0.7106481481
     },
     {
         "date":1710950400000,
@@ -7789,9 +6925,7 @@
         "pb_percentile":0.2055427252,
         "pe_percentile":0.935334873,
         "dyr_percentile":0.2678983834,
-        "ps_percentile":0.7159353349,
-        "fb_percentile_1300":0.0715935335,
-        "sb_percentile_1300":0.025404157
+        "ps_percentile":0.7159353349
     },
     {
         "date":1711036800000,
@@ -7807,9 +6941,7 @@
         "pb_percentile":0.1820276498,
         "pe_percentile":0.9285714286,
         "dyr_percentile":0.2811059908,
-        "ps_percentile":0.698156682,
-        "fb_percentile_1300":0.0737327189,
-        "sb_percentile_1300":0.0368663594
+        "ps_percentile":0.698156682
     },
     {
         "date":1711296000000,
@@ -7825,9 +6957,7 @@
         "pb_percentile":0.1172413793,
         "pe_percentile":0.9149425287,
         "dyr_percentile":0.3057471264,
-        "ps_percentile":0.6206896552,
-        "fb_percentile_1300":0.0804597701,
-        "sb_percentile_1300":0.0390804598
+        "ps_percentile":0.6206896552
     },
     {
         "date":1711382400000,
@@ -7843,9 +6973,7 @@
         "pb_percentile":0.0940366972,
         "pe_percentile":0.9105504587,
         "dyr_percentile":0.369266055,
-        "ps_percentile":0.5458715596,
-        "fb_percentile_1300":0.0711009174,
-        "sb_percentile_1300":0.0321100917
+        "ps_percentile":0.5458715596
     },
     {
         "date":1711468800000,
@@ -7861,9 +6989,7 @@
         "pb_percentile":0.061784897,
         "pe_percentile":0.8832951945,
         "dyr_percentile":0.4302059497,
-        "ps_percentile":0.3935926773,
-        "fb_percentile_1300":0.0663615561,
-        "sb_percentile_1300":0.0068649886
+        "ps_percentile":0.3935926773
     },
     {
         "date":1711555200000,
@@ -7879,9 +7005,7 @@
         "pb_percentile":0.0684931507,
         "pe_percentile":0.899543379,
         "dyr_percentile":0.4109589041,
-        "ps_percentile":0.4543378995,
-        "fb_percentile_1300":0.0730593607,
-        "sb_percentile_1300":0.0091324201
+        "ps_percentile":0.4543378995
     },
     {
         "date":1711641600000,
@@ -7897,9 +7021,7 @@
         "pb_percentile":0.0706150342,
         "pe_percentile":0.9658314351,
         "dyr_percentile":0.4009111617,
-        "ps_percentile":0.4510250569,
-        "fb_percentile_1300":0.0660592255,
-        "sb_percentile_1300":0.0022779043
+        "ps_percentile":0.4510250569
     },
     {
         "date":1711900800000,
@@ -7915,9 +7037,7 @@
         "pb_percentile":0.1022727273,
         "pe_percentile":0.9727272727,
         "dyr_percentile":0.3590909091,
-        "ps_percentile":0.5295454545,
-        "fb_percentile_1300":0.0863636364,
-        "sb_percentile_1300":0.0022727273
+        "ps_percentile":0.5295454545
     },
     {
         "date":1711987200000,
@@ -7933,9 +7053,7 @@
         "pb_percentile":0.0702947846,
         "pe_percentile":0.9637188209,
         "dyr_percentile":0.3922902494,
-        "ps_percentile":0.4353741497,
-        "fb_percentile_1300":0.0884353741,
-        "sb_percentile_1300":0.0022675737
+        "ps_percentile":0.4353741497
     },
     {
         "date":1712073600000,
@@ -7951,9 +7069,7 @@
         "pb_percentile":0.0678733032,
         "pe_percentile":0.9570135747,
         "dyr_percentile":0.4162895928,
-        "ps_percentile":0.4004524887,
-        "fb_percentile_1300":0.0837104072,
-        "sb_percentile_1300":0.0022624434
+        "ps_percentile":0.4004524887
     },
     {
         "date":1712505600000,
@@ -7969,9 +7085,7 @@
         "pb_percentile":0.0406320542,
         "pe_percentile":0.934537246,
         "dyr_percentile":0.4898419865,
-        "ps_percentile":0.2889390519,
-        "fb_percentile_1300":0.085778781,
-        "sb_percentile_1300":0.0022573363
+        "ps_percentile":0.2889390519
     },
     {
         "date":1712592000000,
@@ -7987,9 +7101,7 @@
         "pb_percentile":0.0585585586,
         "pe_percentile":0.9459459459,
         "dyr_percentile":0.4481981982,
-        "ps_percentile":0.3265765766,
-        "fb_percentile_1300":0.0878378378,
-        "sb_percentile_1300":0.009009009
+        "ps_percentile":0.3265765766
     },
     {
         "date":1712678400000,
@@ -8005,9 +7117,7 @@
         "pb_percentile":0.0314606742,
         "pe_percentile":0.9101123596,
         "dyr_percentile":0.5325842697,
-        "ps_percentile":0.2247191011,
-        "fb_percentile_1300":0.0808988764,
-        "sb_percentile_1300":0.002247191
+        "ps_percentile":0.2247191011
     },
     {
         "date":1712764800000,
@@ -8023,9 +7133,7 @@
         "pb_percentile":0.0224215247,
         "pe_percentile":0.9013452915,
         "dyr_percentile":0.567264574,
-        "ps_percentile":0.1905829596,
-        "fb_percentile_1300":0.0919282511,
-        "sb_percentile_1300":0.0022421525
+        "ps_percentile":0.1905829596
     },
     {
         "date":1712851200000,
@@ -8041,9 +7149,7 @@
         "pb_percentile":0.0223713647,
         "pe_percentile":0.8948545861,
         "dyr_percentile":0.7583892617,
-        "ps_percentile":0.1700223714,
-        "fb_percentile_1300":0.0738255034,
-        "sb_percentile_1300":0.0022371365
+        "ps_percentile":0.1700223714
     },
     {
         "date":1713110400000,
@@ -8059,9 +7165,7 @@
         "pb_percentile":0.0446428571,
         "pe_percentile":0.9129464286,
         "dyr_percentile":0.8125,
-        "ps_percentile":0.2857142857,
-        "fb_percentile_1300":0.0625,
-        "sb_percentile_1300":0.0022321429
+        "ps_percentile":0.2857142857
     },
     {
         "date":1713196800000,
@@ -8077,9 +7181,7 @@
         "pb_percentile":0.0244988864,
         "pe_percentile":0.8953229399,
         "dyr_percentile":0.8619153675,
-        "ps_percentile":0.2004454343,
-        "fb_percentile_1300":0.0534521158,
-        "sb_percentile_1300":0.0022271715
+        "ps_percentile":0.2004454343
     },
     {
         "date":1713283200000,
@@ -8095,9 +7197,7 @@
         "pb_percentile":0.0533333333,
         "pe_percentile":0.9266666667,
         "dyr_percentile":0.7977777778,
-        "ps_percentile":0.3111111111,
-        "fb_percentile_1300":0.0866666667,
-        "sb_percentile_1300":0.0044444444
+        "ps_percentile":0.3111111111
     },
     {
         "date":1713369600000,
@@ -8113,9 +7213,7 @@
         "pb_percentile":0.0465631929,
         "pe_percentile":0.9090909091,
         "dyr_percentile":0.8181818182,
-        "ps_percentile":0.2749445676,
-        "fb_percentile_1300":0.0820399113,
-        "sb_percentile_1300":0.0110864745
+        "ps_percentile":0.2749445676
     },
     {
         "date":1713456000000,
@@ -8131,9 +7229,7 @@
         "pb_percentile":0.0199115044,
         "pe_percentile":0.8871681416,
         "dyr_percentile":0.889380531,
-        "ps_percentile":0.1703539823,
-        "fb_percentile_1300":0.0774336283,
-        "sb_percentile_1300":0.0044247788
+        "ps_percentile":0.1703539823
     },
     {
         "date":1713715200000,
@@ -8149,9 +7245,7 @@
         "pb_percentile":0.0198675497,
         "pe_percentile":0.885209713,
         "dyr_percentile":0.8896247241,
-        "ps_percentile":0.1655629139,
-        "fb_percentile_1300":0.0618101545,
-        "sb_percentile_1300":0.004415011
+        "ps_percentile":0.1655629139
     },
     {
         "date":1713801600000,
@@ -8167,9 +7261,7 @@
         "pb_percentile":0.0176211454,
         "pe_percentile":0.8920704846,
         "dyr_percentile":0.7004405286,
-        "ps_percentile":0.1629955947,
-        "fb_percentile_1300":0.050660793,
-        "sb_percentile_1300":0.0066079295
+        "ps_percentile":0.1629955947
     },
     {
         "date":1713888000000,
@@ -8185,9 +7277,7 @@
         "pb_percentile":0.032967033,
         "pe_percentile":0.9098901099,
         "dyr_percentile":0.6637362637,
-        "ps_percentile":0.2065934066,
-        "fb_percentile_1300":0.0527472527,
-        "sb_percentile_1300":0.0197802198
+        "ps_percentile":0.2065934066
     },
     {
         "date":1713974400000,
@@ -8203,9 +7293,7 @@
         "pb_percentile":0.0416666667,
         "pe_percentile":0.9122807018,
         "dyr_percentile":0.5877192982,
-        "ps_percentile":0.2061403509,
-        "fb_percentile_1300":0.0526315789,
-        "sb_percentile_1300":0.0175438596
+        "ps_percentile":0.2061403509
     },
     {
         "date":1714060800000,
@@ -8221,9 +7309,7 @@
         "pb_percentile":0.0743982495,
         "pe_percentile":0.9496717724,
         "dyr_percentile":0.3172866521,
-        "ps_percentile":0.2866520788,
-        "fb_percentile_1300":0.0437636761,
-        "sb_percentile_1300":0.0262582057
+        "ps_percentile":0.2866520788
     },
     {
         "date":1714320000000,
@@ -8239,9 +7325,7 @@
         "pb_percentile":0.1200873362,
         "pe_percentile":0.9192139738,
         "dyr_percentile":0.288209607,
-        "ps_percentile":0.3515283843,
-        "fb_percentile_1300":0.0589519651,
-        "sb_percentile_1300":0.0283842795
+        "ps_percentile":0.3515283843
     },
     {
         "date":1714406400000,
@@ -8257,9 +7341,7 @@
         "pb_percentile":0.0806100218,
         "pe_percentile":0.834422658,
         "dyr_percentile":0.5816993464,
-        "ps_percentile":0.165577342,
-        "fb_percentile_1300":0.0435729847,
-        "sb_percentile_1300":0.0239651416
+        "ps_percentile":0.165577342
     },
     {
         "date":1714924800000,
@@ -8275,9 +7357,7 @@
         "pb_percentile":0.0956521739,
         "pe_percentile":0.8369565217,
         "dyr_percentile":0.5369565217,
-        "ps_percentile":0.1869565217,
-        "fb_percentile_1300":0.0586956522,
-        "sb_percentile_1300":0.0304347826
+        "ps_percentile":0.1869565217
     },
     {
         "date":1715011200000,
@@ -8293,9 +7373,7 @@
         "pb_percentile":0.0867678959,
         "pe_percentile":0.8329718004,
         "dyr_percentile":0.5704989154,
-        "ps_percentile":0.169197397,
-        "fb_percentile_1300":0.0650759219,
-        "sb_percentile_1300":0.0303687636
+        "ps_percentile":0.169197397
     },
     {
         "date":1715097600000,
@@ -8311,9 +7389,7 @@
         "pb_percentile":0.0606060606,
         "pe_percentile":0.816017316,
         "dyr_percentile":0.6277056277,
-        "ps_percentile":0.1428571429,
-        "fb_percentile_1300":0.0670995671,
-        "sb_percentile_1300":0.025974026
+        "ps_percentile":0.1428571429
     },
     {
         "date":1715184000000,
@@ -8329,9 +7405,7 @@
         "pb_percentile":0.0993520518,
         "pe_percentile":0.8358531317,
         "dyr_percentile":0.535637149,
-        "ps_percentile":0.1900647948,
-        "fb_percentile_1300":0.0820734341,
-        "sb_percentile_1300":0.0367170626
+        "ps_percentile":0.1900647948
     },
     {
         "date":1715270400000,
@@ -8347,9 +7421,7 @@
         "pb_percentile":0.0560344828,
         "pe_percentile":0.8663793103,
         "dyr_percentile":0.6551724138,
-        "ps_percentile":0.0926724138,
-        "fb_percentile_1300":0.1293103448,
-        "sb_percentile_1300":0.025862069
+        "ps_percentile":0.0926724138
     },
     {
         "date":1715529600000,
@@ -8365,9 +7437,7 @@
         "pb_percentile":0.0365591398,
         "pe_percentile":0.8623655914,
         "dyr_percentile":0.6967741935,
-        "ps_percentile":0.0666666667,
-        "fb_percentile_1300":0.1397849462,
-        "sb_percentile_1300":0.0021505376
+        "ps_percentile":0.0666666667
     },
     {
         "date":1715616000000,
@@ -8383,9 +7453,7 @@
         "pb_percentile":0.0321888412,
         "pe_percentile":0.8583690987,
         "dyr_percentile":0.6974248927,
-        "ps_percentile":0.0643776824,
-        "fb_percentile_1300":0.1459227468,
-        "sb_percentile_1300":0.0042918455
+        "ps_percentile":0.0643776824
     },
     {
         "date":1715702400000,
@@ -8401,9 +7469,7 @@
         "pb_percentile":0.017130621,
         "pe_percentile":0.8329764454,
         "dyr_percentile":0.73875803,
-        "ps_percentile":0.034261242,
-        "fb_percentile_1300":0.147751606,
-        "sb_percentile_1300":0.0042826552
+        "ps_percentile":0.034261242
     },
     {
         "date":1715788800000,
@@ -8419,9 +7485,7 @@
         "pb_percentile":0.0277777778,
         "pe_percentile":0.8376068376,
         "dyr_percentile":0.7286324786,
-        "ps_percentile":0.0448717949,
-        "fb_percentile_1300":0.1495726496,
-        "sb_percentile_1300":0.0085470085
+        "ps_percentile":0.0448717949
     },
     {
         "date":1715875200000,
@@ -8437,9 +7501,7 @@
         "pb_percentile":0.0383795309,
         "pe_percentile":0.8614072495,
         "dyr_percentile":0.6929637527,
-        "ps_percentile":0.0724946695,
-        "fb_percentile_1300":0.1108742004,
-        "sb_percentile_1300":0.0149253731
+        "ps_percentile":0.0724946695
     },
     {
         "date":1716134400000,
@@ -8455,9 +7517,7 @@
         "pb_percentile":0.0446808511,
         "pe_percentile":0.8617021277,
         "dyr_percentile":0.6872340426,
-        "ps_percentile":0.0744680851,
-        "fb_percentile_1300":0.1,
-        "sb_percentile_1300":0.0191489362
+        "ps_percentile":0.0744680851
     },
     {
         "date":1716220800000,
@@ -8473,9 +7533,7 @@
         "pb_percentile":0.033970276,
         "pe_percentile":0.8513800425,
         "dyr_percentile":0.7048832272,
-        "ps_percentile":0.0658174098,
-        "fb_percentile_1300":0.0828025478,
-        "sb_percentile_1300":0.0233545648
+        "ps_percentile":0.0658174098
     },
     {
         "date":1716307200000,
@@ -8491,9 +7549,7 @@
         "pb_percentile":0.0338983051,
         "pe_percentile":0.8495762712,
         "dyr_percentile":0.7055084746,
-        "ps_percentile":0.0656779661,
-        "fb_percentile_1300":0.0868644068,
-        "sb_percentile_1300":0.0381355932
+        "ps_percentile":0.0656779661
     },
     {
         "date":1716393600000,
@@ -8509,9 +7565,7 @@
         "pb_percentile":0.0169133192,
         "pe_percentile":0.8160676533,
         "dyr_percentile":0.7589852008,
-        "ps_percentile":0.0253699789,
-        "fb_percentile_1300":0.0507399577,
-        "sb_percentile_1300":0.0338266385
+        "ps_percentile":0.0253699789
     },
     {
         "date":1716480000000,
@@ -8527,9 +7581,7 @@
         "pb_percentile":0.0126582278,
         "pe_percentile":0.7932489451,
         "dyr_percentile":0.8206751055,
-        "ps_percentile":0.0126582278,
-        "fb_percentile_1300":0.0316455696,
-        "sb_percentile_1300":0.0042194093
+        "ps_percentile":0.0126582278
     },
     {
         "date":1716739200000,
@@ -8545,9 +7597,7 @@
         "pb_percentile":0.0442105263,
         "pe_percentile":0.8526315789,
         "dyr_percentile":0.6905263158,
-        "ps_percentile":0.0736842105,
-        "fb_percentile_1300":0.0357894737,
-        "sb_percentile_1300":0.0126315789
+        "ps_percentile":0.0736842105
     },
     {
         "date":1716825600000,
@@ -8563,9 +7613,7 @@
         "pb_percentile":0.0420168067,
         "pe_percentile":0.8508403361,
         "dyr_percentile":0.6974789916,
-        "ps_percentile":0.0735294118,
-        "fb_percentile_1300":0.0588235294,
-        "sb_percentile_1300":0.012605042
+        "ps_percentile":0.0735294118
     },
     {
         "date":1716912000000,
@@ -8581,9 +7629,7 @@
         "pb_percentile":0.0335429769,
         "pe_percentile":0.8301886792,
         "dyr_percentile":0.7232704403,
-        "ps_percentile":0.0524109015,
-        "fb_percentile_1300":0.1111111111,
-        "sb_percentile_1300":0.0083857442
+        "ps_percentile":0.0524109015
     },
     {
         "date":1716998400000,
@@ -8599,9 +7645,7 @@
         "pb_percentile":0.0836820084,
         "pe_percentile":0.8723849372,
         "dyr_percentile":0.6317991632,
-        "ps_percentile":0.1192468619,
-        "fb_percentile_1300":0.1757322176,
-        "sb_percentile_1300":0.0230125523
+        "ps_percentile":0.1192468619
     },
     {
         "date":1717084800000,
@@ -8617,9 +7661,7 @@
         "pb_percentile":0.0668058455,
         "pe_percentile":0.866388309,
         "dyr_percentile":0.6617954071,
-        "ps_percentile":0.1002087683,
-        "fb_percentile_1300":0.1670146138,
-        "sb_percentile_1300":0.0208768267
+        "ps_percentile":0.1002087683
     },
     {
         "date":1717344000000,
@@ -8635,9 +7677,7 @@
         "pb_percentile":0.1041666667,
         "pe_percentile":0.8854166667,
         "dyr_percentile":0.5875,
-        "ps_percentile":0.1458333333,
-        "fb_percentile_1300":0.1645833333,
-        "sb_percentile_1300":0.03125
+        "ps_percentile":0.1458333333
     },
     {
         "date":1717430400000,
@@ -8653,9 +7693,7 @@
         "pb_percentile":0.1122661123,
         "pe_percentile":0.8877338877,
         "dyr_percentile":0.5696465696,
-        "ps_percentile":0.1538461538,
-        "fb_percentile_1300":0.1642411642,
-        "sb_percentile_1300":0.0353430353
+        "ps_percentile":0.1538461538
     },
     {
         "date":1717516800000,
@@ -8671,9 +7709,7 @@
         "pb_percentile":0.1307053942,
         "pe_percentile":0.8962655602,
         "dyr_percentile":0.5248962656,
-        "ps_percentile":0.1825726141,
-        "fb_percentile_1300":0.1618257261,
-        "sb_percentile_1300":0.0394190871
+        "ps_percentile":0.1825726141
     },
     {
         "date":1717603200000,
@@ -8689,9 +7725,7 @@
         "pb_percentile":0.1428571429,
         "pe_percentile":0.8985507246,
         "dyr_percentile":0.5051759834,
-        "ps_percentile":0.1842650104,
-        "fb_percentile_1300":0.1884057971,
-        "sb_percentile_1300":0.0393374741
+        "ps_percentile":0.1842650104
     },
     {
         "date":1717689600000,
@@ -8707,9 +7741,7 @@
         "pb_percentile":0.1466942149,
         "pe_percentile":0.9049586777,
         "dyr_percentile":0.5,
-        "ps_percentile":0.194214876,
-        "fb_percentile_1300":0.2107438017,
-        "sb_percentile_1300":0.0061983471
+        "ps_percentile":0.194214876
     },
     {
         "date":1718035200000,
@@ -8725,9 +7757,7 @@
         "pb_percentile":0.2144329897,
         "pe_percentile":0.9628865979,
         "dyr_percentile":0.3546391753,
-        "ps_percentile":0.3567010309,
-        "fb_percentile_1300":0.2268041237,
-        "sb_percentile_1300":0.0226804124
+        "ps_percentile":0.3567010309
     },
     {
         "date":1718121600000,
@@ -8743,9 +7773,7 @@
         "pb_percentile":0.1934156379,
         "pe_percentile":0.9567901235,
         "dyr_percentile":0.378600823,
-        "ps_percentile":0.316872428,
-        "fb_percentile_1300":0.2386831276,
-        "sb_percentile_1300":0.0308641975
+        "ps_percentile":0.316872428
     },
     {
         "date":1718208000000,
@@ -8761,9 +7789,7 @@
         "pb_percentile":0.2012320329,
         "pe_percentile":0.9568788501,
         "dyr_percentile":0.363449692,
-        "ps_percentile":0.3326488706,
-        "fb_percentile_1300":0.2484599589,
-        "sb_percentile_1300":0.0513347023
+        "ps_percentile":0.3326488706
     },
     {
         "date":1718294400000,
@@ -8779,9 +7805,7 @@
         "pb_percentile":0.1844262295,
         "pe_percentile":0.9405737705,
         "dyr_percentile":0.3975409836,
-        "ps_percentile":0.2807377049,
-        "fb_percentile_1300":0.2479508197,
-        "sb_percentile_1300":0.0081967213
+        "ps_percentile":0.2807377049
     },
     {
         "date":1718553600000,
@@ -8797,9 +7821,7 @@
         "pb_percentile":0.2208588957,
         "pe_percentile":0.9734151329,
         "dyr_percentile":0.2862985685,
-        "ps_percentile":0.4969325153,
-        "fb_percentile_1300":0.2515337423,
-        "sb_percentile_1300":0.0020449898
+        "ps_percentile":0.4969325153
     },
     {
         "date":1718640000000,
@@ -8815,9 +7837,7 @@
         "pb_percentile":0.2306122449,
         "pe_percentile":0.9755102041,
         "dyr_percentile":0.2857142857,
-        "ps_percentile":0.5142857143,
-        "fb_percentile_1300":0.2387755102,
-        "sb_percentile_1300":0.0020408163
+        "ps_percentile":0.5142857143
     },
     {
         "date":1718726400000,
@@ -8833,9 +7853,7 @@
         "pb_percentile":0.2138492872,
         "pe_percentile":0.9694501018,
         "dyr_percentile":0.2932790224,
-        "ps_percentile":0.4745417515,
-        "fb_percentile_1300":0.2382892057,
-        "sb_percentile_1300":0.0040733198
+        "ps_percentile":0.4745417515
     },
     {
         "date":1718812800000,
@@ -8851,9 +7869,7 @@
         "pb_percentile":0.2520325203,
         "pe_percentile":0.9796747967,
         "dyr_percentile":0.2723577236,
-        "ps_percentile":0.5386178862,
-        "fb_percentile_1300":0.2317073171,
-        "sb_percentile_1300":0.0081300813
+        "ps_percentile":0.5386178862
     },
     {
         "date":1718899200000,
@@ -8869,9 +7885,7 @@
         "pb_percentile":0.261663286,
         "pe_percentile":0.9817444219,
         "dyr_percentile":0.2697768763,
-        "ps_percentile":0.5557809331,
-        "fb_percentile_1300":0.2170385396,
-        "sb_percentile_1300":0.0081135903
+        "ps_percentile":0.5557809331
     },
     {
         "date":1719158400000,
@@ -8887,9 +7901,7 @@
         "pb_percentile":0.1821862348,
         "pe_percentile":0.9473684211,
         "dyr_percentile":0.3259109312,
-        "ps_percentile":0.3684210526,
-        "fb_percentile_1300":0.1983805668,
-        "sb_percentile_1300":0.004048583
+        "ps_percentile":0.3684210526
     },
     {
         "date":1719244800000,
@@ -8905,9 +7917,7 @@
         "pb_percentile":0.103030303,
         "pe_percentile":0.8767676768,
         "dyr_percentile":0.4282828283,
-        "ps_percentile":0.2121212121,
-        "fb_percentile_1300":0.1353535354,
-        "sb_percentile_1300":0.002020202
+        "ps_percentile":0.2121212121
     },
     {
         "date":1719331200000,
@@ -8923,9 +7933,7 @@
         "pb_percentile":0.1471774194,
         "pe_percentile":0.9193548387,
         "dyr_percentile":0.3689516129,
-        "ps_percentile":0.2762096774,
-        "fb_percentile_1300":0.1491935484,
-        "sb_percentile_1300":0.0040322581
+        "ps_percentile":0.2762096774
     },
     {
         "date":1719417600000,
@@ -8941,9 +7949,7 @@
         "pb_percentile":0.1146881288,
         "pe_percentile":0.8792756539,
         "dyr_percentile":0.4285714286,
-        "ps_percentile":0.2173038229,
-        "fb_percentile_1300":0.1086519115,
-        "sb_percentile_1300":0.0040241449
+        "ps_percentile":0.2173038229
     },
     {
         "date":1719504000000,
@@ -8959,9 +7965,7 @@
         "pb_percentile":0.1204819277,
         "pe_percentile":0.8855421687,
         "dyr_percentile":0.421686747,
-        "ps_percentile":0.218875502,
-        "fb_percentile_1300":0.0983935743,
-        "sb_percentile_1300":0.0060240964
+        "ps_percentile":0.218875502
     },
     {
         "date":1719763200000,
@@ -8977,9 +7981,7 @@
         "pb_percentile":0.126252505,
         "pe_percentile":0.8877755511,
         "dyr_percentile":0.4188376754,
-        "ps_percentile":0.2244488978,
-        "fb_percentile_1300":0.1002004008,
-        "sb_percentile_1300":0.0080160321
+        "ps_percentile":0.2244488978
     },
     {
         "date":1719849600000,
@@ -8995,9 +7997,7 @@
         "pb_percentile":0.092,
         "pe_percentile":0.86,
         "dyr_percentile":0.468,
-        "ps_percentile":0.178,
-        "fb_percentile_1300":0.096,
-        "sb_percentile_1300":0.004
+        "ps_percentile":0.178
     },
     {
         "date":1719936000000,
@@ -9013,9 +8013,7 @@
         "pb_percentile":0.1337325349,
         "pe_percentile":0.8962075848,
         "dyr_percentile":0.4051896208,
-        "ps_percentile":0.2355289421,
-        "fb_percentile_1300":0.0698602794,
-        "sb_percentile_1300":0.0119760479
+        "ps_percentile":0.2355289421
     },
     {
         "date":1720022400000,
@@ -9031,9 +8029,7 @@
         "pb_percentile":0.0956175299,
         "pe_percentile":0.8605577689,
         "dyr_percentile":0.4641434263,
-        "ps_percentile":0.1792828685,
-        "fb_percentile_1300":0.0657370518,
-        "sb_percentile_1300":0.0019920319
+        "ps_percentile":0.1792828685
     },
     {
         "date":1720108800000,
@@ -9049,16 +8045,14 @@
         "pb_percentile":0.1013916501,
         "pe_percentile":0.8648111332,
         "dyr_percentile":0.4393638171,
-        "ps_percentile":0.2007952286,
-        "fb_percentile_1300":0.0536779324,
-        "sb_percentile_1300":0.0019880716
+        "ps_percentile":0.2007952286
     },
     {
         "date":1720368000000,
         "pe_ttm.mcw":71.7827672894,
         "ps_ttm.mcw":7.4963980092,
         "pb.mcw":3.8602825878,
-        "dyr.mcw":0.0023541412,
+        "dyr.mcw":0.0023540477,
         "mc":1340379568615.2705078125,
         "cpc":0.0010567984,
         "sb":969324832.9199997187,
@@ -9067,16 +8061,14 @@
         "pb_percentile":0.1071428571,
         "pe_percentile":0.8670634921,
         "dyr_percentile":0.4345238095,
-        "ps_percentile":0.2063492063,
-        "fb_percentile_1300":0.0853174603,
-        "sb_percentile_1300":0.0099206349
+        "ps_percentile":0.2063492063
     },
     {
         "date":1720454400000,
         "pe_ttm.mcw":74.0997987844,
         "ps_ttm.mcw":7.7383695985,
         "pb.mcw":3.9849946642,
-        "dyr.mcw":0.0022805294,
+        "dyr.mcw":0.0022804388,
         "mc":1383644850703.6997070312,
         "cpc":0.0328126209,
         "sb":994812161.2100002766,
@@ -9085,16 +8077,14 @@
         "pb_percentile":0.1841584158,
         "pe_percentile":0.9346534653,
         "dyr_percentile":0.3425742574,
-        "ps_percentile":0.3504950495,
-        "fb_percentile_1300":0.1386138614,
-        "sb_percentile_1300":0.0217821782
+        "ps_percentile":0.3504950495
     },
     {
         "date":1720540800000,
         "pe_ttm.mcw":73.6948780494,
         "ps_ttm.mcw":7.6960830288,
         "pb.mcw":3.9632185326,
-        "dyr.mcw":0.0022930599,
+        "dyr.mcw":0.0022929688,
         "mc":1376083878890.6799316406,
         "cpc":-0.0067188312,
         "sb":997732239.7100000381,
@@ -9103,16 +8093,14 @@
         "pb_percentile":0.1758893281,
         "pe_percentile":0.9229249012,
         "dyr_percentile":0.3537549407,
-        "ps_percentile":0.3201581028,
-        "fb_percentile_1300":0.1541501976,
-        "sb_percentile_1300":0.023715415
+        "ps_percentile":0.3201581028
     },
     {
         "date":1720627200000,
         "pe_ttm.mcw":73.9545620334,
         "ps_ttm.mcw":7.7232022745,
         "pb.mcw":3.977184013,
-        "dyr.mcw":0.0022850081,
+        "dyr.mcw":0.0022849173,
         "mc":1380932885407.1596679688,
         "cpc":0.000980266,
         "sb":1026501307.2000002861,
@@ -9121,16 +8109,14 @@
         "pb_percentile":0.1794871795,
         "pe_percentile":0.932938856,
         "dyr_percentile":0.3431952663,
-        "ps_percentile":0.3392504931,
-        "fb_percentile_1300":0.1834319527,
-        "sb_percentile_1300":0.0276134122
+        "ps_percentile":0.3392504931
     },
     {
         "date":1720713600000,
         "pe_ttm.mcw":74.7486772482,
         "ps_ttm.mcw":7.8061330939,
         "pb.mcw":4.0206122165,
-        "dyr.mcw":0.0022607326,
+        "dyr.mcw":0.0022606428,
         "mc":1395761177061.1103515625,
         "cpc":0.0160677095,
         "sb":998905449.0900000334,
@@ -9139,16 +8125,14 @@
         "pb_percentile":0.2047244094,
         "pe_percentile":0.9507874016,
         "dyr_percentile":0.3169291339,
-        "ps_percentile":0.3858267717,
-        "fb_percentile_1300":0.1299212598,
-        "sb_percentile_1300":0.0255905512
+        "ps_percentile":0.3858267717
     },
     {
         "date":1720972800000,
         "pe_ttm.mcw":75.3955622606,
         "ps_ttm.mcw":7.8736884098,
         "pb.mcw":4.0554071304,
-        "dyr.mcw":0.0022413358,
+        "dyr.mcw":0.0022412467,
         "mc":1407840280258.2600097656,
         "cpc":0.010536599,
         "sb":961851008.6099996567,
@@ -9157,16 +8141,14 @@
         "pb_percentile":0.2200392927,
         "pe_percentile":0.9587426326,
         "dyr_percentile":0.304518664,
-        "ps_percentile":0.4361493124,
-        "fb_percentile_1300":0.0923379175,
-        "sb_percentile_1300":0.0019646365
+        "ps_percentile":0.4361493124
     },
     {
         "date":1721059200000,
         "pe_ttm.mcw":77.1296625077,
         "ps_ttm.mcw":8.054783485,
         "pb.mcw":4.1491871033,
-        "dyr.mcw":0.002190944,
+        "dyr.mcw":0.0021908569,
         "mc":1440220649933.3498535156,
         "cpc":0.0235896285,
         "sb":970439007.370000124,
@@ -9175,16 +8157,14 @@
         "pb_percentile":0.3078431373,
         "pe_percentile":0.9823529412,
         "dyr_percentile":0.2607843137,
-        "ps_percentile":0.5784313725,
-        "fb_percentile_1300":0.0725490196,
-        "sb_percentile_1300":0.0137254902
+        "ps_percentile":0.5784313725
     },
     {
         "date":1721145600000,
         "pe_ttm.mcw":76.685488619,
         "ps_ttm.mcw":8.0083976409,
         "pb.mcw":4.1256210309,
-        "dyr.mcw":0.0022036343,
+        "dyr.mcw":0.0022035467,
         "mc":1431926714943.7802734375,
         "cpc":0.0020828239,
         "sb":910895552.8100001812,
@@ -9193,16 +8173,14 @@
         "pb_percentile":0.2798434442,
         "pe_percentile":0.9706457926,
         "dyr_percentile":0.2700587084,
-        "ps_percentile":0.5479452055,
-        "fb_percentile_1300":0.0352250489,
-        "sb_percentile_1300":0.0019569472
+        "ps_percentile":0.5479452055
     },
     {
         "date":1721232000000,
         "pe_ttm.mcw":77.3844757701,
         "ps_ttm.mcw":8.0813940728,
         "pb.mcw":4.1632260086,
-        "dyr.mcw":0.0021837296,
+        "dyr.mcw":0.0021836428,
         "mc":1444978706827.5698242188,
         "cpc":0.016594298,
         "sb":917198831.9899997711,
@@ -9211,27 +8189,23 @@
         "pb_percentile":0.328125,
         "pe_percentile":0.984375,
         "dyr_percentile":0.25390625,
-        "ps_percentile":0.58984375,
-        "fb_percentile_1300":0.056640625,
-        "sb_percentile_1300":0.00390625
+        "ps_percentile":0.58984375
     },
     {
         "date":1721318400000,
         "pe_ttm.mcw":79.1854303858,
         "ps_ttm.mcw":8.2694708649,
         "pb.mcw":4.263621739,
-        "dyr.mcw":0.002134064,
+        "dyr.mcw":0.0021339791,
         "mc":1478607429459.0500488281,
         "cpc":0.0119321568,
-        "sb":null,
-        "fb":null,
+        "sb":908627503.8800001144,
+        "fb":21033177525.0,
         "stockCode":931865,
         "pb_percentile":0.3859649123,
         "pe_percentile":0.9961013645,
         "dyr_percentile":0.1929824561,
-        "ps_percentile":0.6744639376,
-        "fb_percentile_1300":null,
-        "sb_percentile_1300":null
+        "ps_percentile":0.6744639376
     },
     {
         "date":1721577600000,
@@ -9247,8 +8221,6 @@
         "pb_percentile":0.3852140078,
         "pe_percentile":0.9941634241,
         "dyr_percentile":0.1964980545,
-        "ps_percentile":0.6692607004,
-        "fb_percentile_1300":null,
-        "sb_percentile_1300":null
+        "ps_percentile":0.6692607004
     }
 ]

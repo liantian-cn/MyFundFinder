@@ -10,12 +10,14 @@ import pandas
 def float_to_percentile(value):
     if value is None:
         return "--"
-    return f"{value*100:.2f}%"
+    return f"{value * 100:.2f}%"
+
 
 def float_to_2f(value):
     if value is None:
         return "--"
     return f"{value:.2f}"
+
 
 class Index():
 
@@ -63,21 +65,21 @@ class Index():
             self.to_r_display = float_to_percentile(self.to_r)
 
             self.mc = df['mc'].iloc[-1]
-            self.mc_display = f"{self.mc/100000000:.2f}"
+            self.mc_display = f"{self.mc / 100000000:.2f}"
 
-            if 'fb' in df.columns:
-                self.fb_percentile = df['fb_percentile_1300'].iloc[-2]
-            else:
-                self.fb_percentile = None
-
-            self.fb_display = float_to_percentile(self.fb_percentile)
-
-            if 'sb' in df.columns:
-                self.sb_percentile = df['sb_percentile_1300'].iloc[-2]
-            else:
-                self.sb_percentile = None
-
-            self.sb_display = float_to_percentile(self.sb_percentile)
+            # if 'fb' in df.columns:
+            #     self.fb_percentile = df['fb_percentile_1300'].iloc[-2]
+            # else:
+            #     self.fb_percentile = None
+            #
+            # self.fb_display = float_to_percentile(self.fb_percentile)
+            #
+            # if 'sb' in df.columns:
+            #     self.sb_percentile = df['sb_percentile_1300'].iloc[-2]
+            # else:
+            #     self.sb_percentile = None
+            #
+            # self.sb_display = float_to_percentile(self.sb_percentile)
 
             self.total_days = df.shape[0]
 
@@ -105,7 +107,7 @@ def main():
 
     # 排序
 
-    sorted_list = sorted(indexes, key=lambda x: x.pb_percentile * x.pe_percentile)
+    sorted_list = sorted(indexes, key=lambda x: x.pb_percentile * x.pe_percentile * (1/x.dyr))
 
     # 渲染模板
     output = template.render(indexes=sorted_list)
