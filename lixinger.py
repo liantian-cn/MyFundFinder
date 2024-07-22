@@ -21,6 +21,9 @@ def get_token():
     """
     获取token
     """
+    token = os.getenv("LIXINGER_TOKEN")
+    if token is not None:
+        return token
     token_cfg = pathlib.Path(__file__).parent.joinpath("token.cfg")
     if not token_cfg.exists():
         token_cfg.touch()
