@@ -1,12 +1,14 @@
 name: Daily Job
 
-on: push
+on: workflow_dispatch
 
 
 jobs:
   my_job:
     name: deploy to staging
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Checkout
       uses: actions/checkout@master
@@ -24,6 +26,11 @@ jobs:
       run: python3 daily_update.py
       env:
         LIXINGER_TOKEN: ${{ secrets.LIXINGER_TOKEN }}
+
+    - name: Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
