@@ -1,7 +1,28 @@
 name: Daily Job
 
 on:
-
+  schedule:
+  - cron: "0 12 * * 1-5"
 
 
 jobs:
+  my_job:
+    name: deploy to staging
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' 
+        cache: 'pip'
+        
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run Daily Update
+      run: python3 daily_update.py
+      env:
+        LIXINGER_TOKEN: ${{ secrets.LIXINGER_TOKEN }}
