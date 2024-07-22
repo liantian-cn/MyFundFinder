@@ -1,0 +1,22 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "009225",
+            "name": "天弘中证中美互联网指数型发起式证券投资基金(QDII)A类",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "天弘中证中美互联网A"
+        },
+        {
+            "name": "天弘中证中美互联网指数型发起式证券投资基金(QDII)A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009226",
+            "shortName": "天弘中证中美互联网C",
+            "exchange": "jj"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004854",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指汽车指数型发起式证券投资基金A类",
+            "shortName": "广发中证全指汽车指数A"
+        },
+        {
+            "stockCode": "004855",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指汽车指数型发起式证券投资基金A类",
+            "shortName": "广发中证全指汽车指数C"
+        },
+        {
+            "stockCode": "159512",
+            "shortName": "广发中证全指汽车ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "广发中证全指汽车交易型开放式指数证券投资基金"
+        }
+    ]
+}

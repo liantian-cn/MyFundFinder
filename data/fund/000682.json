@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "021474",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华安上证科创板新一代信息技术ETF发起式联接A",
+            "name": "华安上证科创板新一代信息技术交易型开放式指数证券投资基金发起式联接基金A类"
+        },
+        {
+            "stockCode": "588100",
+            "shortName": "嘉实上证科创板新一代信息技术ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "嘉实上证科创板新一代信息技术交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588260",
+            "shortName": "华安上证科创板新一代信息技术ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华安上证科创板新一代信息技术交易型开放式指数证券投资基金"
+        }
+    ]
+}

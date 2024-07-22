@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "020513",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "富国深证50ETF发起式联接A",
+            "name": "富国深证50交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "富国深证50交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020514",
+            "shortName": "富国深证50ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020517",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "易方达深证50ETF联接发起式A",
+            "name": "易方达深证50交易型开放式指数证券投资基金发起式联接基金A类"
+        },
+        {
+            "name": "易方达深证50交易型开放式指数证券投资基金发起式联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020518",
+            "shortName": "易方达深证50ETF联接发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "159150",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "易方达深证50ETF",
+            "name": "易方达深证50交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159350",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "富国深证50ETF",
+            "name": "富国深证50交易型开放式指数证券投资基金"
+        }
+    ]
+}

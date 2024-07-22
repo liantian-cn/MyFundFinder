@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "013129",
+            "shortName": "汇添富中证沪港深消费龙头指数发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "汇添富中证沪港深消费龙头指数A"
+        },
+        {
+            "name": "汇添富中证沪港深消费龙头指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013130",
+            "shortName": "汇添富中证沪港深消费龙头指数发起C"
+        },
+        {
+            "stockCode": "517550",
+            "shortName": "招商中证沪港深消费龙头ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "招商中证沪港深消费龙头交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "517760",
+            "shortName": "浦银安盛中证沪港深消费龙头ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "浦银安盛中证沪港深消费龙头交易型开放式指数证券投资基金"
+        }
+    ]
+}

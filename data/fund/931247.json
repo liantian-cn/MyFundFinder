@@ -1,0 +1,22 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "021314",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "博时中证信息技术应用创新产业指数发起式A",
+            "name": "博时中证信息技术应用创新产业指数型发起式证券投资基金A"
+        },
+        {
+            "stockCode": "562030",
+            "shortName": "华宝中证信息技术应用创新产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华宝中证信息技术应用创新产业交易型开放式指数证券投资基金"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "001180",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发医药卫生联接A类",
+            "shortName": "广发医药卫生联接A"
+        },
+        {
+            "stockCode": "002978",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发医药卫生联接A类",
+            "shortName": "广发医药卫生联接C"
+        },
+        {
+            "stockCode": "005112",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "银华中证全指医药卫生指数增强型发起式证券投资基金",
+            "shortName": "银华中证全指医药卫生指数增强发起式"
+        },
+        {
+            "stockCode": "159938",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "广发中证全指医药卫生交易型开放式指数证券投资基金",
+            "shortName": "广发中证全指医药卫生ETF"
+        }
+    ]
+}

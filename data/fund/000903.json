@@ -1,0 +1,262 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "005691",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证100指数证券投资基金",
+            "shortName": "南方中证100指数C"
+        },
+        {
+            "stockCode": "007135",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证100交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "广发中证100ETF联接A"
+        },
+        {
+            "stockCode": "007136",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证100交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "广发中证100ETF联接C"
+        },
+        {
+            "stockCode": "007405",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证100交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "华宝中证100ETF联接C"
+        },
+        {
+            "stockCode": "007580",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "宝盈中证100指数增强型证券投资基金A",
+            "shortName": "宝盈中证100指数增强C"
+        },
+        {
+            "name": "海富通中证100指数证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010224",
+            "shortName": "海富通中证100指数C",
+            "exchange": "jj"
+        },
+        {
+            "name": "诺安中证100指数证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010351",
+            "shortName": "诺安中证100指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017862",
+            "shortName": "华夏中证100ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证100交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "华夏中证100交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017863",
+            "shortName": "华夏中证100ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020100",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "易方达中证100ETF联接发起式A",
+            "name": "易方达中证100交易型开放式指数证券投资基金发起式联接基金A类"
+        },
+        {
+            "name": "易方达中证100交易型开放式指数证券投资基金发起式联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020101",
+            "shortName": "易方达中证100ETF联接发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "163808",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "中银中证100指数增强型证券投资基金",
+            "shortName": "中银中证100指数增强"
+        },
+        {
+            "stockCode": "202211",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证100指数证券投资基金",
+            "shortName": "南方中证100指数A"
+        },
+        {
+            "stockCode": "213010",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "宝盈中证100指数增强型证券投资基金A",
+            "shortName": "宝盈中证100指数增强A"
+        },
+        {
+            "stockCode": "240014",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证100交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "华宝中证100ETF联接A"
+        },
+        {
+            "stockCode": "320010",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "诺安中证100指数证券投资基金A",
+            "shortName": "诺安中证100指数A"
+        },
+        {
+            "stockCode": "410008",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华富中证100指数证券投资基金",
+            "shortName": "华富中证100指数"
+        },
+        {
+            "stockCode": "519100",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长盛中证100指数证券投资基金",
+            "shortName": "长盛中证100指数"
+        },
+        {
+            "stockCode": "512910",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "广发中证100交易型开放式指数证券投资基金",
+            "shortName": "广发中证100ETF"
+        },
+        {
+            "stockCode": "515670",
+            "name": "中银中证100交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "中银100"
+        },
+        {
+            "stockCode": "561180",
+            "shortName": "富国中证100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "富国中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561200",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "中证100ETF工银",
+            "name": "工银瑞信中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "562000",
+            "shortName": "华宝中证100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华宝中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159627",
+            "shortName": "华夏中证100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "华夏中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159630",
+            "shortName": "汇添富中证100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "汇添富中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159631",
+            "shortName": "招商中证100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "招商中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159661",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "嘉实中证100ETF",
+            "name": "嘉实中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159686",
+            "shortName": "易方达中证100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "易方达中证100交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159923",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "大成中证100交易型开放式指数证券投资基金",
+            "shortName": "大成中证100ETF"
+        },
+        {
+            "stockCode": "162307",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "海富通中证100指数证券投资基金(LOF)A",
+            "shortName": "海富通中证100指数A"
+        },
+        {
+            "stockCode": "162509",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "国联安中证 100 指数证券投资基金(LOF)",
+            "shortName": "国联安中证100指数（LOF）"
+        },
+        {
+            "stockCode": "164508",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富兰克林国海中证100指数增强型证券投资基金(LOF)",
+            "shortName": "国富中证100指数增强（LOF）"
+        }
+    ]
+}

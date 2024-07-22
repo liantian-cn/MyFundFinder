@@ -1,0 +1,78 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012326",
+            "shortName": "天弘中证全指医疗保健设备与服务ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "天弘中证全指医疗保健设备与服务交易型开放式指数证券投资基金发起式联接基金A类"
+        },
+        {
+            "name": "天弘中证全指医疗保健设备与服务交易型开放式指数证券投资基金发起式联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012327",
+            "shortName": "天弘中证全指医疗保健设备与服务ETF发起式联接C"
+        },
+        {
+            "stockCode": "019452",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "南方中证全指医疗保健设备与服务ETF发起联接A",
+            "name": "南方中证全指医疗保健设备与服务ETF联接A"
+        },
+        {
+            "name": "南方中证全指医疗保健设备与服务ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019453",
+            "shortName": "南方中证全指医疗保健设备与服务ETF发起联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "516610",
+            "shortName": "医服ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "大成中证全指医疗保健设备与服务交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "516790",
+            "shortName": "保健ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华泰柏瑞中证全指医疗保健设备与服务交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159873",
+            "shortName": "天弘中证全指医疗保健设备与服务ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "天弘中证全指医疗保健设备与服务交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159877",
+            "shortName": "南方中证全指医疗保健设备与服务ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "南方中证全指医疗保健设备与服务交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159891",
+            "shortName": "建信中证全指医疗保健设备与服务ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "建信中证全指医疗保健设备与服务交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        }
+    ]
+}

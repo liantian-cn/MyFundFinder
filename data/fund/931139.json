@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008975",
+            "name": "富国中证消费50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "富国中证消费50ETF联接A"
+        },
+        {
+            "name": "富国中证消费50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008976",
+            "shortName": "富国中证消费50ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "009116",
+            "name": "东兴中证消费50指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "东兴中证消费50A"
+        },
+        {
+            "name": "东兴中证消费50指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009117",
+            "shortName": "东兴中证消费50C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515650",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "富国中证消费50交易型开放式指数证券投资基金",
+            "shortName": "富国中证消费50ETF"
+        },
+        {
+            "stockCode": "159670",
+            "shortName": "国联安消费50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "国联安中证消费50交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159798",
+            "shortName": "易方达中证消费50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "易方达中证消费50交易型开放式指数证券投资基金"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "013873",
+            "shortName": "平安中证医药及医疗器械创新指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "平安中证医药及医疗器械创新指数型发起式证券投资基金A"
+        },
+        {
+            "name": "平安中证医药及医疗器械创新指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "013874",
+            "shortName": "平安中证医药及医疗器械创新指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "516820",
+            "shortName": "平安中证医疗创新ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "平安中证医药及医疗器械创新交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "560600",
+            "shortName": "方正富邦中证医药及医疗器械创新ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "方正富邦中证医药及医疗器械创新交易型开放式指数证券投资基金"
+        }
+    ]
+}

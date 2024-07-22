@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "006809",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "泰康港股通中证香港银行投资指数A",
+            "shortName": "泰康香港银行指数A"
+        },
+        {
+            "stockCode": "006810",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "泰康港股通中证香港银行投资指数A",
+            "shortName": "泰康香港银行指数C"
+        },
+        {
+            "name": "鹏华港股通中证香港银行投资指数证券投资基金（LOF）",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010365",
+            "shortName": "鹏华香港银行指数C（LOF）",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "501025",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "鹏华港股通中证香港银行投资指数证券投资基金（LOF）",
+            "shortName": "鹏华香港银行指数A（LOF）"
+        }
+    ]
+}

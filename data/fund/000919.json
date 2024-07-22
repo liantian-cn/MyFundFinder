@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007800",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "申万菱信沪深300价值指数证券投资基金A",
+            "shortName": "申万菱信沪深300价值指数C"
+        },
+        {
+            "stockCode": "013074",
+            "shortName": "银河沪深300价值指数C",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "银河沪深300价值指数证券投资基金"
+        },
+        {
+            "stockCode": "310398",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "申万菱信沪深300价值指数证券投资基金A",
+            "shortName": "申万菱信沪深300价值指数A"
+        },
+        {
+            "stockCode": "519671",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "银河沪深300价值指数证券投资基金",
+            "shortName": "银河沪深300价值指数A"
+        },
+        {
+            "stockCode": "560330",
+            "shortName": "申万菱信沪深300价值ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "申万菱信沪深300价值交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "562320",
+            "shortName": "300价值A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "银华沪深300价值交易型开放式指数证券投资基金"
+        }
+    ]
+}

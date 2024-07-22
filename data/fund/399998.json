@@ -1,0 +1,70 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "areaCode": "cn",
+            "stockCode": "008279",
+            "exchange": "jj",
+            "name": "国泰中证煤炭ETF联接A",
+            "shortName": "国泰中证煤炭ETF联接A",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008280",
+            "exchange": "jj",
+            "name": "国泰中证煤炭ETF联接A",
+            "shortName": "国泰中证煤炭ETF联接C",
+            "market": "a"
+        },
+        {
+            "name": "富国中证煤炭指数(LOF)",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013275",
+            "shortName": "富国中证煤炭指数C"
+        },
+        {
+            "name": "国联中证煤炭指数型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016814",
+            "shortName": "国联煤炭C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515223",
+            "name": "国泰中证煤炭交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "shortName": "国泰中证煤炭ETF",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515220",
+            "exchange": "sh",
+            "name": "国泰中证煤炭交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "国泰中证煤炭ETF"
+        },
+        {
+            "stockCode": "161032",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富国中证煤炭指数(LOF)",
+            "shortName": "富国中证煤炭指数A"
+        },
+        {
+            "stockCode": "168204",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "国联中证煤炭指数型证券投资基金A",
+            "shortName": "国联煤炭A"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008928",
+            "name": "宏利中证主要消费红利指数型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "宏利消费红利指数A"
+        },
+        {
+            "name": "宏利中证主要消费红利指数型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008929",
+            "shortName": "宏利消费红利指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "501089",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "方正富邦中证主要消费红利指数增强型证券投资基金(LOF)",
+            "shortName": "方正富邦消费红利指数增强（LOF）",
+            "exchange": "sh"
+        }
+    ]
+}

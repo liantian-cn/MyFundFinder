@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "鹏华中证酒指数型证券投资基金（LOF）",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012043",
+            "shortName": "鹏华酒C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "512690",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "鹏华中证酒交易型开放式指数证券投资基金",
+            "shortName": "酒ETF"
+        },
+        {
+            "stockCode": "160632",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "鹏华中证酒指数型证券投资基金（LOF）",
+            "shortName": "鹏华酒A"
+        }
+    ]
+}

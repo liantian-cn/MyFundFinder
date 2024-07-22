@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007799",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "申万菱信中小企业100指数证券投资基金(LOF)A类份额",
+            "shortName": "申万菱信中小企业100指数(LOF)C"
+        },
+        {
+            "name": "易方达中小板指数证券投资基金(LOF)",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012872",
+            "shortName": "易方达中小企业100指数（LOF）C"
+        },
+        {
+            "stockCode": "410010",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华富中小企业100指数增强",
+            "shortName": "华富中小企业100指数增强型"
+        },
+        {
+            "stockCode": "159902",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "中小企业100交易型开放式指数基金",
+            "shortName": "华夏中小企业100ETF"
+        },
+        {
+            "stockCode": "161118",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "易方达中小板指数证券投资基金(LOF)",
+            "shortName": "易方达中小企业100指数（LOF）A"
+        },
+        {
+            "stockCode": "163111",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "申万菱信中小企业100指数证券投资基金(LOF)A类份额",
+            "shortName": "申万菱信中小企业100指数(LOF)A"
+        }
+    ]
+}

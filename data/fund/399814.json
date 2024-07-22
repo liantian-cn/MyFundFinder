@@ -1,0 +1,46 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "001027",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "前海开源中证大农业指数增强型证券投资基金A",
+            "shortName": "前海开源中证大农业指数增强A"
+        },
+        {
+            "name": "前海开源中证大农业指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015484",
+            "shortName": "前海开源中证大农业指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019279",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "嘉实中证大农业ETF发起联接A",
+            "name": "嘉实中证大农业交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "嘉实中证大农业交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019280",
+            "shortName": "嘉实中证大农业ETF发起联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "516550",
+            "shortName": "嘉实中证大农业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "嘉实中证大农业交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        }
+    ]
+}

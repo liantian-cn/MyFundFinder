@@ -1,0 +1,46 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007737",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "诺德中证研发创新100指数型证券投资基金",
+            "shortName": "诺德研发创新100"
+        },
+        {
+            "stockCode": "007983",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "申万菱信中证研发创新100交易型开放式指数证券投资基金联接基金",
+            "shortName": "申万菱信中证研发创新100交易型开放式指数联接A"
+        },
+        {
+            "stockCode": "007984",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "申万菱信中证研发创新100交易型开放式指数证券投资基金联接基金",
+            "shortName": "申万菱信中证研发创新100交易型开放式指数联接C"
+        },
+        {
+            "stockCode": "515200",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "申万菱信中证研发创新100交易型开放式指数证券投资基金",
+            "shortName": "申万菱信中证研发创新100交易型开放式指数"
+        },
+        {
+            "stockCode": "159987",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "银华中证研发创新100交易型开放式指数证券投资基金",
+            "shortName": "创新ETF",
+            "exchange": "sz"
+        }
+    ]
+}

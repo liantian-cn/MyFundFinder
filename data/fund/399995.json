@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "005223",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证基建工程指数型发起式证券投资基金",
+            "shortName": "广发中证基建工程ETF联接A"
+        },
+        {
+            "stockCode": "005224",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证基建工程指数型发起式证券投资基金",
+            "shortName": "广发中证基建工程ETF联接C"
+        },
+        {
+            "name": "中信保诚中证基建工程指数型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013082",
+            "shortName": "中信保诚中证基建工程指数(LOF)C"
+        },
+        {
+            "stockCode": "020323",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "博时中证基建工程指数发起式A",
+            "name": "博时中证基建工程指数型发起式证券投资基金A"
+        },
+        {
+            "name": "博时中证基建工程指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020324",
+            "shortName": "博时中证基建工程指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "516970",
+            "shortName": "广发中证基建工程ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发中证基建工程交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "165525",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "中信保诚中证基建工程指数型证券投资基金(LOF)A",
+            "shortName": "中信保诚中证基建工程指数(LOF)A"
+        }
+    ]
+}

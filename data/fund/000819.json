@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004432",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证申万有色金属交易型指数发起式联接基金A类",
+            "shortName": "南方中证申万有色金属ETF发起联接A"
+        },
+        {
+            "stockCode": "004433",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证申万有色金属交易型指数发起式联接基金A类",
+            "shortName": "南方中证申万有色金属ETF发起联接C"
+        },
+        {
+            "name": "南方中证申万有色金属交易型指数发起式联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010990",
+            "shortName": "南方中证申万有色金属ETF发起联接E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "512400",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "南方中证申万有色金属交易型开放式指数证券投资基金",
+            "shortName": "南方中证申万有色金属ETF"
+        }
+    ]
+}

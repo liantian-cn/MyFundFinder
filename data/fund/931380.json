@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012717",
+            "shortName": "易方达中证科技50联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证科技50交易型开放式指数证券投资基金联接基金A类基金份额"
+        },
+        {
+            "name": "易方达中证科技50交易型开放式指数证券投资基金联接基金A类基金份额",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012718",
+            "shortName": "易方达中证科技50联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "159807",
+            "name": "易方达中证科技50交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "易方达中证科技50ETF"
+        }
+    ]
+}

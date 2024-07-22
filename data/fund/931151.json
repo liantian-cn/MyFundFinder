@@ -1,0 +1,334 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "011102",
+            "shortName": "天弘中证光伏A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "天弘中证光伏产业指数型发起式证券投资基金A类",
+            "exchange": "jj"
+        },
+        {
+            "name": "天弘中证光伏产业指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "011103",
+            "shortName": "天弘中证光伏C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "011966",
+            "shortName": "招商中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "招商中证光伏产业指数A",
+            "exchange": "jj"
+        },
+        {
+            "name": "招商中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "011967",
+            "shortName": "招商中证光伏产业指数C"
+        },
+        {
+            "stockCode": "012364",
+            "shortName": "广发中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "广发中证光伏产业指数型发起式证券投资基金A类"
+        },
+        {
+            "name": "广发中证光伏产业指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012365",
+            "shortName": "广发中证光伏产业指数C"
+        },
+        {
+            "stockCode": "012679",
+            "shortName": "华泰柏瑞光伏ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰柏瑞中证光伏产业ETF联接A"
+        },
+        {
+            "name": "华泰柏瑞中证光伏产业ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012680",
+            "shortName": "华泰柏瑞光伏ETF联接C"
+        },
+        {
+            "stockCode": "012722",
+            "shortName": "平安中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "平安中证光伏产业指数A"
+        },
+        {
+            "name": "平安中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012723",
+            "shortName": "平安中证光伏产业指数C"
+        },
+        {
+            "stockCode": "012885",
+            "shortName": "华夏中证光伏产业指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证光伏产业指数发起式证券投资基金"
+        },
+        {
+            "name": "华夏中证光伏产业指数发起式证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012886",
+            "shortName": "华夏中证光伏产业指数发起式C"
+        },
+        {
+            "stockCode": "012928",
+            "shortName": "银华中证光伏产业ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "银华中证光伏产业交易型开放式指数证券投资基金发起式联接基金"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012929",
+            "shortName": "银华中证光伏产业ETF发起式联接C",
+            "exchange": "jj",
+            "name": "银华中证光伏产业交易型开放式指数证券投资基金发起式联接基金"
+        },
+        {
+            "stockCode": "013105",
+            "shortName": "华安中证光伏产业ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华安中证光伏产业指数A"
+        },
+        {
+            "name": "华安中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013106",
+            "shortName": "华安中证光伏产业ETF发起式联接C"
+        },
+        {
+            "stockCode": "013601",
+            "shortName": "国泰中证光伏产业ETF发起联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰中证光伏产业交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "国泰中证光伏产业交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013602",
+            "shortName": "国泰中证光伏产业ETF发起联接C"
+        },
+        {
+            "stockCode": "013816",
+            "shortName": "汇添富中证光伏产业指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "汇添富中证光伏产业指数增强A"
+        },
+        {
+            "name": "汇添富中证光伏产业指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013817",
+            "shortName": "汇添富中证光伏产业指数增强发起式C"
+        },
+        {
+            "stockCode": "014604",
+            "shortName": "嘉实中证光伏产业指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "嘉实中证光伏产业指数型发起式证券投资基金A"
+        },
+        {
+            "name": "嘉实中证光伏产业指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014605",
+            "shortName": "嘉实中证光伏产业指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015993",
+            "shortName": "博时中证光伏产业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "博时中证光伏产业指数证券投资基金A"
+        },
+        {
+            "name": "博时中证光伏产业指数证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015994",
+            "shortName": "博时中证光伏产业指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017116",
+            "shortName": "浦银安盛中证光伏产业ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "浦银安盛中证光伏产业交易型开放式指数证券投资基金联接基金A类"
+        },
+        {
+            "name": "浦银安盛中证光伏产业交易型开放式指数证券投资基金联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017117",
+            "shortName": "浦银安盛中证光伏产业ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017646",
+            "shortName": "易方达中证光伏产业指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证光伏产业指数发起式证券投资基金A"
+        },
+        {
+            "name": "易方达中证光伏产业指数发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017647",
+            "shortName": "易方达中证光伏产业指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018502",
+            "shortName": "东财中证光伏指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "西藏东财中证光伏产业指数型发起式证券投资基金A类"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018503",
+            "shortName": "东财中证光伏指数发起式C",
+            "exchange": "jj",
+            "name": "西藏东财中证光伏产业指数型发起式证券投资基金A类"
+        },
+        {
+            "stockCode": "019531",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "南方中证光伏产业指数发起A",
+            "name": "南方中证光伏产业指数发起式证券投资基金A"
+        },
+        {
+            "name": "南方中证光伏产业指数发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019532",
+            "shortName": "南方中证光伏产业指数发起C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515790",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华泰柏瑞中证光伏产业交易型开放式指数证券投资基金",
+            "shortName": "光伏ETF",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "516180",
+            "shortName": "平安中证光伏产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "平安中证光伏产业交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "516290",
+            "shortName": "汇添富中证光伏产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "汇添富中证光伏产业交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "516880",
+            "shortName": "光伏50",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "银华中证光伏产业交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "159609",
+            "shortName": "浦银安盛中证光伏产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "浦银安盛中证光伏产业交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159618",
+            "shortName": "华安中证光伏产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "华安中证光伏产业交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159857",
+            "shortName": "天弘中证光伏产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "天弘中证光伏产业交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159863",
+            "shortName": "光伏产业",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "鹏华中证光伏产业交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159864",
+            "shortName": "国泰中证光伏产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "国泰中证光伏产业交易型开放式指数证券投资基金"
+        }
+    ]
+}

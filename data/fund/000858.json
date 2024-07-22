@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "002900",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证500信息技术指数交易型开放式指数基金发起式联接基金",
+            "shortName": "南方中证500信息ETF发起联接A"
+        },
+        {
+            "stockCode": "004347",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证500信息技术指数交易型开放式指数基金发起式联接基金",
+            "shortName": "南方中证500信息ETF发起联接C"
+        },
+        {
+            "stockCode": "512330",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "中证500信息技术指数交易型开放式指数证券投资基金",
+            "shortName": "南方中证500信息技术ETF"
+        }
+    ]
+}

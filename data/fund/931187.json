@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008399",
+            "name": "华泰柏瑞中证科技100ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华泰柏瑞中证科技100ETF联接A"
+        },
+        {
+            "name": "华泰柏瑞中证科技100ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008400",
+            "shortName": "华泰柏瑞中证科技100ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "010202",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "天弘中证科技100指数增强型发起式证券投资基金A类",
+            "exchange": "jj",
+            "shortName": "天弘中证科技100指数增强A"
+        },
+        {
+            "name": "天弘中证科技100指数增强型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010203",
+            "shortName": "天弘中证科技100指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515580",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华泰柏瑞中证科技100交易型开放式指数证券投资基金",
+            "shortName": "华泰柏瑞中证科技100ETF"
+        },
+        {
+            "stockCode": "159853",
+            "shortName": "南方中证科技100ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "南方中证科技100交易型开放式指数证券投资基金"
+        }
+    ]
+}

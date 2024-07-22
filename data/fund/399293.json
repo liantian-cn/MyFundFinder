@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012554",
+            "shortName": "西部利得创业板大盘ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "西部利得创业板大盘交易型开放式指数证券投资基金联接基金A"
+        },
+        {
+            "name": "西部利得创业板大盘交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012555",
+            "shortName": "西部利得创业板大盘ETF联接C"
+        },
+        {
+            "stockCode": "159814",
+            "name": "西部利得创业板大盘交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "shortName": "西部利得创业板大盘ETF",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159991",
+            "name": "招商创业板大盘交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "招商创业板大盘ETF"
+        }
+    ]
+}

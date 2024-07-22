@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012854",
+            "shortName": "英大中证ESG120策略指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "英大中证ESG120策略指数证券投资基金A类"
+        },
+        {
+            "name": "英大中证ESG120策略指数证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012855",
+            "shortName": "英大中证ESG120策略指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "516720",
+            "shortName": "浦银安盛中证ESG 120策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "浦银安盛中证ESG120策略交易型开放式指数证券投资基金"
+        }
+    ]
+}

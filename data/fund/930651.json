@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "001629",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘中证计算机主题交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘中证计算机主题ETF联接A"
+        },
+        {
+            "stockCode": "001630",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘中证计算机主题交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘中证计算机主题ETF联接C"
+        },
+        {
+            "name": "国泰中证计算机主题交易型开放式指数证券投资基金联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010210",
+            "shortName": "国泰中证计算机主题ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "160224",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰中证计算机主题交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "国泰中证计算机主题ETF联接A"
+        },
+        {
+            "stockCode": "512720",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国泰中证计算机主题交易型开放式指数证券投资基金",
+            "shortName": "国泰中证计算机主题ETF"
+        },
+        {
+            "stockCode": "159998",
+            "name": "天弘中证计算机主题交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "天弘中证计算机主题ETF"
+        }
+    ]
+}

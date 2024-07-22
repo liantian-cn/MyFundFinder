@@ -1,0 +1,78 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "000248",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇添富中证主要消费交易型开放式指数证券投资基金联接基金A",
+            "shortName": "汇添富中证主要消费ETF联接A"
+        },
+        {
+            "stockCode": "009179",
+            "name": "嘉实中证主要消费ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "嘉实中证主要消费ETF联接A"
+        },
+        {
+            "name": "嘉实中证主要消费ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009180",
+            "shortName": "嘉实中证主要消费ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "name": "汇添富中证主要消费交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012857",
+            "shortName": "汇添富中证主要消费ETF联接C"
+        },
+        {
+            "stockCode": "512600",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "嘉实中证主要消费交易型开放式指数证券投资基金",
+            "shortName": "嘉实中证主要消费ETF"
+        },
+        {
+            "stockCode": "560680",
+            "shortName": "广发中证主要消费ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发中证主要消费交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159672",
+            "shortName": "博时主要消费ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "博时中证主要消费交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159689",
+            "shortName": "南方中证主要消费ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "南方中证主要消费交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159928",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "中证主要消费交易型开放式指数证券投资基金",
+            "shortName": "汇添富中证主要消费ETF"
+        }
+    ]
+}

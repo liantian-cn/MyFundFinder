@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012761",
+            "shortName": "华泰柏瑞红利ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰柏瑞上证红利ETF联接A"
+        },
+        {
+            "name": "华泰柏瑞上证红利ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012762",
+            "shortName": "华泰柏瑞红利ETF联接C"
+        },
+        {
+            "stockCode": "510880",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "上证红利交易型开放式指数证券投资基金",
+            "shortName": "华泰柏瑞上证红利ETF"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "中信保诚中证信息安全指数型证券投资基金(LOF)A类",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013083",
+            "shortName": "中信保诚中证信息安全指数（LOF）C"
+        },
+        {
+            "stockCode": "165523",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "中信保诚中证信息安全指数型证券投资基金(LOF)A类",
+            "shortName": "中信保诚中证信息安全指数（LOF）A"
+        },
+        {
+            "stockCode": "562920",
+            "shortName": "易方达中证信息安全主题ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "易方达中证信息安全主题交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159613",
+            "shortName": "嘉实中证信息安全主题ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "嘉实中证信息安全主题交易型开放式指数证券投资基金"
+        }
+    ]
+}

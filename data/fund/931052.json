@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "006748",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "富国中证价值交易型开放式指数证券投资基金联接基金",
+            "shortName": "富国中证价值ETF联接A"
+        },
+        {
+            "stockCode": "007191",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "富国中证价值交易型开放式指数证券投资基金联接基金",
+            "shortName": "富国中证价值ETF联接C"
+        },
+        {
+            "stockCode": "512040",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "富国中证价值交易型开放式指数证券投资基金",
+            "shortName": "富国中证价值ETF"
+        }
+    ]
+}

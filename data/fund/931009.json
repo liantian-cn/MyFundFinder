@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004856",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指建筑材料指数型发起式证券投资基金A类",
+            "shortName": "广发中证全指建筑材料指数A"
+        },
+        {
+            "stockCode": "004857",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指建筑材料指数型发起式证券投资基金A类",
+            "shortName": "广发中证全指建筑材料指数C"
+        },
+        {
+            "stockCode": "013019",
+            "shortName": "国泰中证全指建筑材料ETF发起联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰中证全指建筑材料ETF联接A"
+        },
+        {
+            "name": "国泰中证全指建筑材料ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013020",
+            "shortName": "国泰中证全指建筑材料ETF发起联接C"
+        },
+        {
+            "stockCode": "516750",
+            "shortName": "富国中证全指建筑材料ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "富国中证全指建筑材料交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159745",
+            "shortName": "国泰中证全指建筑材料ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "国泰中证全指建筑材料交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159787",
+            "shortName": "易方达中证全指建筑材料ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "易方达中证全指建筑材料交易型开放式指数证券投资基金"
+        }
+    ]
+}

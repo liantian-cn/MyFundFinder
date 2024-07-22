@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "019702",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "易方达上证科创板成长ETF联接发起式A",
+            "name": "易方达上证科创板成长交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "易方达上证科创板成长交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019703",
+            "shortName": "易方达上证科创板成长ETF联接发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019785",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "广发上证科创板成长ETF发起式联接A",
+            "name": "广发上证科创板成长交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "广发上证科创板成长交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019786",
+            "shortName": "广发上证科创板成长ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "588020",
+            "shortName": "易方达上证科创板成长ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "易方达上证科创板成长交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588110",
+            "shortName": "广发上证科创板成长ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发上证科创板成长交易型开放式指数证券投资基金"
+        }
+    ]
+}

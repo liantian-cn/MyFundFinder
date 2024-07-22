@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "160725",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "嘉实中证锐联基本面50指数证券投资基金(LOF)",
+            "shortName": "嘉实基本面50指数(LOF)C"
+        },
+        {
+            "stockCode": "512750",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "嘉实中证锐联基本面50交易型开放式指数证券投资基金",
+            "shortName": "嘉实基本面50ETF"
+        },
+        {
+            "stockCode": "160716",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "嘉实中证锐联基本面50指数证券投资基金(LOF)",
+            "shortName": "嘉实基本面50指数(LOF)A"
+        }
+    ]
+}

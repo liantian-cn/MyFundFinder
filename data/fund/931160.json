@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007817",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰中证全指通信设备交易型开放式指数证券投资基金发起式联接基金A",
+            "shortName": "国泰中证全指通信设备ETF联接A"
+        },
+        {
+            "stockCode": "007818",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰中证全指通信设备交易型开放式指数证券投资基金发起式联接基金A",
+            "shortName": "国泰中证全指通信设备ETF联接C"
+        },
+        {
+            "stockCode": "020691",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "博时中证全指通信设备指数发起式A",
+            "name": "博时中证全指通信设备指数型发起式证券投资基金A"
+        },
+        {
+            "name": "博时中证全指通信设备指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020692",
+            "shortName": "博时中证全指通信设备指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020899",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "天弘中证全指通信设备指数发起A",
+            "name": "天弘中证全指通信设备指数型发起式证券投资基金A类"
+        },
+        {
+            "name": "天弘中证全指通信设备指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020900",
+            "shortName": "天弘中证全指通信设备指数发起C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515880",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国泰中证全指通信设备交易型开放式指数证券投资基金",
+            "shortName": "国泰中证全指通信设备ETF"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "003318",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "景顺长城中证500行业中性低波动指数型证券投资基金A",
+            "shortName": "景顺长城中证500行业中性低波动指数A"
+        },
+        {
+            "name": "景顺长城中证500行业中性低波动指数型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019359",
+            "shortName": "景顺长城中证500行业中性低波动指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "512260",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华安中证500行业中性低波动交易型开放式指数证券投资基金",
+            "shortName": "华安中证500低波ETF"
+        }
+    ]
+}

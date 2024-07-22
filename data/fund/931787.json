@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "019670",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "广发中证香港创新药ETF发起式联接（QDII）A",
+            "name": "广发中证香港创新药ETF发起式联接(QDII)A"
+        },
+        {
+            "name": "广发中证香港创新药ETF发起式联接(QDII)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019671",
+            "shortName": "广发中证香港创新药ETF发起式联接（QDII）C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "513120",
+            "shortName": "广发中证香港创新药（QDII-ETF）",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发中证香港创新药交易型开放式指数证券投资基金(QDII)"
+        }
+    ]
+}

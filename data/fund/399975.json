@@ -1,0 +1,350 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004069",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证全指证券公司交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "南方中证全指证券公司ETF联接A"
+        },
+        {
+            "stockCode": "004070",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证全指证券公司交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "南方中证全指证券公司ETF联接C"
+        },
+        {
+            "stockCode": "006098",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证全指证券公司交易型开放式指数投资基金联接基金A",
+            "shortName": "华宝券商ETF联接"
+        },
+        {
+            "stockCode": "007531",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证全指证券公司交易型开放式指数投资基金联接基金A",
+            "shortName": "华宝券商ETF联接C"
+        },
+        {
+            "stockCode": "007992",
+            "name": "华夏中证全指证券公司交易型开放式指数证券投资基金发起式联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华夏中证全指证券公司ETF联接A"
+        },
+        {
+            "name": "华夏中证全指证券公司交易型开放式指数证券投资基金发起式联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "007993",
+            "shortName": "华夏中证全指证券公司ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008590",
+            "exchange": "jj",
+            "name": "天弘中证全指证券公司交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "天弘中证全指证券公司ETF发起式联接A",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008591",
+            "exchange": "jj",
+            "name": "天弘中证全指证券公司交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "天弘中证全指证券公司ETF发起式联接C",
+            "market": "a"
+        },
+        {
+            "name": "鹏华中证全指证券公司指数型证券投资基金(LOF)",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012044",
+            "shortName": "鹏华券商C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "012362",
+            "shortName": "国泰中证全指证券公司ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰中证全指证券公司ETF联接A"
+        },
+        {
+            "name": "国泰中证全指证券公司ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012363",
+            "shortName": "国泰中证全指证券公司ETF联接C"
+        },
+        {
+            "stockCode": "012590",
+            "shortName": "易方达中证全指证券公司ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证全指证券公司交易型开放式指数证券投资基金联接基金A"
+        },
+        {
+            "stockCode": "012645",
+            "shortName": "建信中证全指证券公司ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "建信中证全指证券公司ETF联接A"
+        },
+        {
+            "name": "建信中证全指证券公司ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012646",
+            "shortName": "建信中证全指证券公司ETF发起式联接C"
+        },
+        {
+            "name": "易方达中证全指证券公司交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012700",
+            "shortName": "易方达中证全指证券公司ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "name": "易方达中证全指证券公司指数证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012874",
+            "shortName": "易方达中证全指证券公司指数（LOF）C"
+        },
+        {
+            "name": "富国中证全指证券公司指数(LOF)",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013276",
+            "shortName": "富国中证全指证券公司指数C"
+        },
+        {
+            "name": "招商中证全指证券公司指数分级证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013597",
+            "shortName": "招商中证全指证券公司指数C"
+        },
+        {
+            "name": "华安证券分级",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014984",
+            "shortName": "华安中证全指证券公司ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016842",
+            "shortName": "嘉实中证全指证券公司指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "嘉实中证全指证券公司指数型发起式证券投资基金A类"
+        },
+        {
+            "name": "嘉实中证全指证券公司指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016843",
+            "shortName": "嘉实中证全指证券公司指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "name": "博时中证全指证券公司指数证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018686",
+            "shortName": "博时证券公司指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "160419",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华安证券分级",
+            "shortName": "华安中证全指证券公司ETF联接A"
+        },
+        {
+            "stockCode": "160516",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博时中证全指证券公司指数证券投资基金A",
+            "shortName": "博时证券公司指数A"
+        },
+        {
+            "stockCode": "501047",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富中证全指证券公司指数型发起式证券投资基金(LOF)A",
+            "shortName": "汇添富中证全指证券公司ETF联接（LOF）A"
+        },
+        {
+            "stockCode": "501048",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富中证全指证券公司指数型发起式证券投资基金(LOF)A",
+            "shortName": "汇添富中证全指证券公司ETF联接（LOF）C"
+        },
+        {
+            "stockCode": "502010",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "易方达中证全指证券公司指数证券投资基金(LOF)A",
+            "shortName": "易方达中证全指证券公司指数（LOF）A"
+        },
+        {
+            "stockCode": "502053",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "长盛中证全指证券公司指数证券投资基金(LOF)A类",
+            "shortName": "长盛中证证券公司指数（LOF)A"
+        },
+        {
+            "stockCode": "512000",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华宝中证全指证券公司交易型开放式指数证券投资基金",
+            "shortName": "华宝中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "512570",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "易方达中证全指证券公司交易型开放式指数证券投资基金",
+            "shortName": "易方达中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "512880",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国泰中证全指证券公司交易型开放式指数证券投资基金",
+            "shortName": "国泰中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "512900",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "南方中证全指证券公司交易型开放式指数证券投资基金",
+            "shortName": "南方中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "515010",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华夏中证全指证券公司交易型开放式指数证券投资基金",
+            "shortName": "华夏中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "515560",
+            "name": "建信中证全指证券公司交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "建信中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "515850",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "富国中证全指证券公司交易型开放式指数证券投资基金",
+            "shortName": "富国中证全指证券公司ETF"
+        },
+        {
+            "stockCode": "516200",
+            "shortName": "华安中证全指证券公司ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华安中证全指证券公司交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "560090",
+            "shortName": "汇添富中证全指证券公司ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "汇添富中证全指证券公司交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159841",
+            "shortName": "天弘中证全指证券公司ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "天弘中证全指证券公司交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159842",
+            "shortName": "券商ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "银华中证全指证券公司交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159848",
+            "shortName": "国联安证券ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "国联安中证全指证券公司交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "160633",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "鹏华中证全指证券公司指数型证券投资基金(LOF)",
+            "shortName": "鹏华券商A"
+        },
+        {
+            "stockCode": "161027",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富国中证全指证券公司指数(LOF)",
+            "shortName": "富国中证全指证券公司指数A"
+        },
+        {
+            "stockCode": "161720",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "招商中证全指证券公司指数分级证券投资基金",
+            "shortName": "招商中证全指证券公司指数A"
+        }
+    ]
+}

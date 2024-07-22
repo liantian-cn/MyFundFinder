@@ -1,0 +1,862 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "003646",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "创金合信中证1000指数增强型发起式证券投资基金A",
+            "shortName": "创金合信中证1000增强A"
+        },
+        {
+            "stockCode": "003647",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "创金合信中证1000指数增强型发起式证券投资基金A",
+            "shortName": "创金合信中证1000增强C"
+        },
+        {
+            "stockCode": "004194",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "招商中证1000指数增强型证券投资基金A",
+            "shortName": "招商中证1000指数增强A"
+        },
+        {
+            "stockCode": "004195",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "招商中证1000指数增强型证券投资基金A",
+            "shortName": "招商中证1000指数增强C"
+        },
+        {
+            "stockCode": "005313",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "万家中证1000指数增强型发起式证券投资基金A",
+            "shortName": "万家中证1000指数增强A"
+        },
+        {
+            "stockCode": "005314",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "万家中证1000指数增强型发起式证券投资基金A",
+            "shortName": "万家中证1000指数增强C"
+        },
+        {
+            "stockCode": "006165",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信中证1000指数增强A",
+            "shortName": "建信中证1000指数增强A"
+        },
+        {
+            "stockCode": "006166",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信中证1000指数增强A",
+            "shortName": "建信中证1000指数增强C"
+        },
+        {
+            "stockCode": "006486",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证1000交易型开放式指数证券投资基金联接基金A",
+            "shortName": "广发中证1000ETF联接A"
+        },
+        {
+            "stockCode": "006487",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证1000交易型开放式指数证券投资基金联接基金A",
+            "shortName": "广发中证1000ETF联接C"
+        },
+        {
+            "stockCode": "011860",
+            "shortName": "南方中证1000ETF发起联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "南方中证1000交易型开放式指数证券投资基金A"
+        },
+        {
+            "name": "南方中证1000交易型开放式指数证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "011861",
+            "shortName": "南方中证1000ETF发起联接C"
+        },
+        {
+            "name": "富国中证1000指数增强型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013331",
+            "shortName": "富国中证1000指数增强（LOF）C"
+        },
+        {
+            "name": "建信中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013442",
+            "shortName": "建信中证1000指数增强发起E"
+        },
+        {
+            "stockCode": "013922",
+            "shortName": "华夏中证1000ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证1000交易型开放式指数证券投资基金发起式联接基金"
+        },
+        {
+            "name": "华夏中证1000交易型开放式指数证券投资基金发起式联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "013923",
+            "shortName": "华夏中证1000ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "014125",
+            "shortName": "华夏中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "华夏中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "014126",
+            "shortName": "华夏中证1000指数增强C"
+        },
+        {
+            "stockCode": "014201",
+            "shortName": "天弘中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "天弘中证1000指数增强型证券投资基金A类"
+        },
+        {
+            "name": "天弘中证1000指数增强型证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014202",
+            "shortName": "天弘中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "014831",
+            "shortName": "兴银中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "兴银中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "兴银中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014832",
+            "shortName": "兴银中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015148",
+            "shortName": "华安中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华安中证1000指数增强A"
+        },
+        {
+            "name": "华安中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015149",
+            "shortName": "华安中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015466",
+            "shortName": "太平中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "太平中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "太平中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015467",
+            "shortName": "太平中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015495",
+            "shortName": "景顺长城中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "景顺长城中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "景顺长城中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015496",
+            "shortName": "景顺长城中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015784",
+            "shortName": "中信建投中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "中信建投中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "中信建投中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015785",
+            "shortName": "中信建投中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015867",
+            "shortName": "国泰君安中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰君安中证1000指数增强A"
+        },
+        {
+            "name": "国泰君安中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015868",
+            "shortName": "国泰君安中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "华宝中证1000指数",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016033",
+            "shortName": "华宝中证1000指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016630",
+            "shortName": "易方达中证1000ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证1000交易型开放式指数证券投资基金联接基金A类基金份额"
+        },
+        {
+            "name": "易方达中证1000交易型开放式指数证券投资基金联接基金A类基金份额",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016631",
+            "shortName": "易方达中证1000ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016633",
+            "shortName": "富国中证1000ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "富国中证1000交易型开放式指数证券投资基金联接A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016634",
+            "shortName": "富国中证1000ETF联接C",
+            "exchange": "jj",
+            "name": "富国中证1000交易型开放式指数证券投资基金联接A"
+        },
+        {
+            "name": "南方中证1000交易型开放式指数证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016643",
+            "shortName": "南方中证1000ETF发起联接E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016776",
+            "shortName": "嘉实中证1000指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "嘉实中证1000指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "嘉实中证1000指数增强型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016777",
+            "shortName": "嘉实中证1000指数增强发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016785",
+            "shortName": "鹏华中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "鹏华中证1000指数增强A"
+        },
+        {
+            "name": "鹏华中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016786",
+            "shortName": "鹏华中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016936",
+            "shortName": "博时中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "博时中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "博时中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016937",
+            "shortName": "博时中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016942",
+            "shortName": "工银中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "工银瑞信中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "工银瑞信中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016943",
+            "shortName": "工银中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016962",
+            "shortName": "国联安中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国联安中证1000指数增强型证券投资基金A类份额"
+        },
+        {
+            "name": "国联安中证1000指数增强型证券投资基金A类份额",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016963",
+            "shortName": "国联安中证 1000 指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017067",
+            "shortName": "申万菱信中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "申万菱信中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "申万菱信中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017068",
+            "shortName": "申万菱信中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017094",
+            "shortName": "易方达中证1000量化增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证1000指数量化增强型证券投资基金A类基金份额"
+        },
+        {
+            "name": "易方达中证1000指数量化增强型证券投资基金A类基金份额",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017095",
+            "shortName": "易方达中证1000量化增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017161",
+            "shortName": "汇添富中证1000ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "汇添富中证1000交易型开放式指数证券投资基金联接基金A"
+        },
+        {
+            "name": "汇添富中证1000交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017162",
+            "shortName": "汇添富中证1000ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017190",
+            "shortName": "鑫元中证1000指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "鑫元中证1000指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "鑫元中证1000指数增强型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017191",
+            "shortName": "鑫元中证1000指数增强发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017323",
+            "shortName": "农银中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "农银汇理中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "农银汇理中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017324",
+            "shortName": "农银中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017505",
+            "shortName": "明亚中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "明亚中证1000指数增强型证券投资基金A类"
+        },
+        {
+            "name": "明亚中证1000指数增强型证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017506",
+            "shortName": "明亚中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017644",
+            "shortName": "博道中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "博道中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "博道中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017645",
+            "shortName": "博道中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017733",
+            "shortName": "中金中证1000指数增强发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "中金中证1000指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "中金中证1000指数增强型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017734",
+            "shortName": "中金中证1000指数增强发起C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017846",
+            "shortName": "国金中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国金中证1000指数增强型证券投资基金A"
+        },
+        {
+            "stockCode": "017847",
+            "shortName": "国金中证1000指数增强C",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国金中证1000指数增强型证券投资基金A"
+        },
+        {
+            "stockCode": "017919",
+            "shortName": "中欧中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "中欧中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "中欧中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017920",
+            "shortName": "中欧中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017953",
+            "shortName": "汇添富中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "汇添富中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "汇添富中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017954",
+            "shortName": "汇添富中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018013",
+            "shortName": "长信中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "长信中证1000指数增强A"
+        },
+        {
+            "name": "长信中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018014",
+            "shortName": "长信中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018062",
+            "shortName": "华泰紫金中证1000指数增强发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰紫金中证1000指数增强型发起式证券投资基金A类"
+        },
+        {
+            "name": "华泰紫金中证1000指数增强型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018063",
+            "shortName": "华泰紫金中证1000指数增强发起C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018157",
+            "shortName": "西部利得中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "西部利得中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "西部利得中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018158",
+            "shortName": "西部利得中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018233",
+            "shortName": "浙商中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "浙商中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "浙商中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018234",
+            "shortName": "浙商中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018661",
+            "shortName": "大成中证1000指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "大成中证1000指数增强型发起式证券投资基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018662",
+            "shortName": "大成中证1000指数增强发起式C",
+            "exchange": "jj",
+            "name": "大成中证1000指数增强型发起式证券投资基金A"
+        },
+        {
+            "stockCode": "019185",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "泰康中证1000指数增强发起A",
+            "name": "泰康中证1000指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "泰康中证1000指数增强型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019186",
+            "shortName": "泰康中证1000指数增强发起C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019240",
+            "shortName": "华泰柏瑞中证1000指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰柏瑞中证1000指数增强型证券投资基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019241",
+            "shortName": "华泰柏瑞中证1000指数增强C",
+            "exchange": "jj",
+            "name": "华泰柏瑞中证1000指数增强型证券投资基金A"
+        },
+        {
+            "stockCode": "019270",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "财通中证1000指数增强A",
+            "name": "财通中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "财通中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019271",
+            "shortName": "财通中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019402",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "财通资管中证1000指数增强A",
+            "name": "财通资管中证1000指数增强型证券投资基金A类"
+        },
+        {
+            "name": "财通资管中证1000指数增强型证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019403",
+            "shortName": "财通资管中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019555",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "中银中证1000指数增强A",
+            "name": "中银中证1000指数增强型证券投资基金A"
+        },
+        {
+            "name": "中银中证1000指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019556",
+            "shortName": "中银中证1000指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "162413",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证1000指数",
+            "shortName": "华宝中证1000指数"
+        },
+        {
+            "stockCode": "512100",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "南方中证1000交易型开放式指数证券投资基金",
+            "shortName": "南方中证1000ETF"
+        },
+        {
+            "stockCode": "516300",
+            "shortName": "中证1000",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华泰柏瑞中证1000交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "560010",
+            "shortName": "广发中证1000ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发中证1000交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "560110",
+            "shortName": "汇添富中证1000ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "汇添富中证1000交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "560590",
+            "shortName": "1000ETF增强",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "鹏华中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561280",
+            "shortName": "中证1000ETF增强",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "工银瑞信中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561590",
+            "shortName": "1000增强",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华泰柏瑞中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561780",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "博时中证1000增强ETF",
+            "name": "博时中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159629",
+            "shortName": "富国中证1000ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "富国中证1000交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159633",
+            "shortName": "易方达中证1000ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "易方达中证1000交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159677",
+            "shortName": "1000增强ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "银华中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159679",
+            "shortName": "国泰中证1000增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "国泰中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159680",
+            "shortName": "招商中证1000增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "招商中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159685",
+            "shortName": "天弘中证1000增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "天弘中证1000增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159845",
+            "shortName": "华夏中证1000ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华夏中证1000交易型开放式指数证券投资基金",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "161039",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富国中证1000指数增强型证券投资基金(LOF)A",
+            "shortName": "富国中证1000指数增强（LOF）A"
+        }
+    ]
+}

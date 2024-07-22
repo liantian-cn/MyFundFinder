@@ -1,0 +1,78 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "019167",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "易方达中证物联网主题ETF联接发起式A",
+            "name": "易方达中证物联网主题交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "易方达中证物联网主题交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019168",
+            "shortName": "易方达中证物联网主题ETF联接发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019975",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华夏中证物联网主题ETF发起式联接A",
+            "name": "华夏中证物联网主题交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "华夏中证物联网主题交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019976",
+            "shortName": "华夏中证物联网主题ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "516260",
+            "shortName": "华夏中证物联网主题ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华夏中证物联网主题交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "516330",
+            "shortName": "物联网",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华泰柏瑞中证物联网主题交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "159701",
+            "shortName": "招商中证物联网主题ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "招商中证物联网主题交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159895",
+            "shortName": "易方达中证物联网主题ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "易方达中证物联网主题交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159896",
+            "shortName": "南方中证物联网主题ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "南方中证物联网主题交易型开放式指数证券投资基金"
+        }
+    ]
+}

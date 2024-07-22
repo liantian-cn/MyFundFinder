@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "000950",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "易方达沪深300非银行金融交易型开放式指数证券投资基金联接基金A",
+            "shortName": "易方达沪深300非银联接A"
+        },
+        {
+            "stockCode": "007882",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "易方达沪深300非银行金融交易型开放式指数证券投资基金联接基金A",
+            "shortName": "易方达沪深300非银联接C"
+        },
+        {
+            "stockCode": "512070",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "易方达沪深300非银行金融交易型开放式指数证券投资基金",
+            "shortName": "易方达沪深300非银ETF"
+        }
+    ]
+}

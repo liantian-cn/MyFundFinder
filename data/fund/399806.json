@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "交银施罗德中证环境治理指数型证券投资基金（LOF）",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013413",
+            "shortName": "交银中证环境治理指数(LOF)C"
+        },
+        {
+            "stockCode": "164908",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "交银施罗德中证环境治理指数型证券投资基金（LOF）",
+            "shortName": "交银中证环境治理指数(LOF)A"
+        },
+        {
+            "stockCode": "501030",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富中证环境治理指数型证券投资基金(LOF)A",
+            "shortName": "汇添富中证环境治理指数（LOF）A"
+        },
+        {
+            "stockCode": "501031",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富中证环境治理指数型证券投资基金(LOF)A",
+            "shortName": "汇添富中证环境治理指数（LOF）C"
+        }
+    ]
+}

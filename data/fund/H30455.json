@@ -1,0 +1,94 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012275",
+            "shortName": "富国中证沪港深500ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "富国中证沪港深500ETF联接A"
+        },
+        {
+            "name": "富国中证沪港深500ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012276",
+            "shortName": "富国中证沪港深500ETF联接C"
+        },
+        {
+            "stockCode": "017557",
+            "shortName": "华夏中证沪港深500ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证沪港深500交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017558",
+            "shortName": "华夏中证沪港深500ETF发起式联接C",
+            "exchange": "jj",
+            "name": "华夏中证沪港深500交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "stockCode": "020113",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "易方达中证沪港深500ETF联接发起式A",
+            "name": "易方达中证沪港深500交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "易方达中证沪港深500交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020114",
+            "shortName": "易方达中证沪港深500ETF联接发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "517000",
+            "shortName": "沪港深",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "银华中证沪港深500交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "517010",
+            "shortName": "易方达中证沪港深500ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "易方达中证沪港深500交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "517080",
+            "shortName": "汇添富中证沪港深500ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "汇添富中证沪港深500交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "517100",
+            "shortName": "富国中证沪港深500ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "富国中证沪港深500交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "517170",
+            "shortName": "华夏中证沪港深500ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华夏中证沪港深500交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        }
+    ]
+}

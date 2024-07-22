@@ -1,0 +1,78 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007076",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇添富中证医药卫生交易型开放式指数证券投资基金联接基金A",
+            "shortName": "汇添富中证医药ETF联接A"
+        },
+        {
+            "stockCode": "007077",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇添富中证医药卫生交易型开放式指数证券投资基金联接基金A",
+            "shortName": "汇添富中证医药ETF联接C"
+        },
+        {
+            "stockCode": "008551",
+            "name": "西藏东财中证医药卫生指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "东财医药A"
+        },
+        {
+            "name": "西藏东财中证医药卫生指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008552",
+            "shortName": "东财医药C",
+            "exchange": "jj"
+        },
+        {
+            "name": "鹏华中证医药卫生(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010366",
+            "shortName": "鹏华中证医药指数C（LOF）",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "014205",
+            "shortName": "长城中证医药卫生指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "长城中证医药卫生指数增强型证券投资基金A"
+        },
+        {
+            "name": "长城中证医药卫生指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014206",
+            "shortName": "长城中证医药卫生指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "159929",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "中证医药卫生交易型开放式指数证券投资基金",
+            "shortName": "汇添富中证医药卫生ETF"
+        },
+        {
+            "stockCode": "160635",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "鹏华中证医药卫生(LOF)A",
+            "shortName": "鹏华中证医药指数A（LOF）"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "018134",
+            "shortName": "富国中证大数据产业ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "富国中证大数据产业交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018135",
+            "shortName": "富国中证大数据产业ETF发起式联接C",
+            "exchange": "jj",
+            "name": "富国中证大数据产业交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "stockCode": "020335",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华夏中证大数据产业ETF发起式联接A",
+            "name": "华夏中证大数据产业交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "华夏中证大数据产业交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020336",
+            "shortName": "华夏中证大数据产业ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515400",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "富国中证大数据产业交易型开放式指数证券投资基金",
+            "shortName": "富国中证大数据产业ETF",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "516000",
+            "shortName": "华夏中证大数据产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华夏中证大数据产业交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "516700",
+            "shortName": "华宝大数据ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华宝中证大数据产业交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        }
+    ]
+}

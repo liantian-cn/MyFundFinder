@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004642",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证全指房地产交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "南方中证房地产ETF发起联接A"
+        },
+        {
+            "stockCode": "004643",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方中证全指房地产交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "南方中证房地产ETF发起联接C"
+        },
+        {
+            "stockCode": "008088",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "华夏中证全指房地产交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "华夏中证全指房地产ETF联接A",
+            "market": "a"
+        },
+        {
+            "stockCode": "008089",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "华夏中证全指房地产交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "华夏中证全指房地产ETF联接C",
+            "market": "a"
+        },
+        {
+            "name": "南方中证全指房地产交易型开放式指数证券投资基金发起式联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010989",
+            "shortName": "南方中证房地产ETF发起联接E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "512200",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "南方中证全指房地产交易型开放式指数证券投资基金",
+            "shortName": "南方中证全指房地产ETF"
+        },
+        {
+            "stockCode": "515060",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华夏中证全指房地产交易型开放式指数证券投资基金",
+            "shortName": "华夏中证全指房地产ETF"
+        }
+    ]
+}

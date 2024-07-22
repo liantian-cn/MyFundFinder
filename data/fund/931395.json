@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012663",
+            "shortName": "国寿安保沪港深300ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国寿安保中证沪港深300ETF联接A"
+        },
+        {
+            "name": "国寿安保中证沪港深300ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012664",
+            "shortName": "国寿安保沪港深300ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020102",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "易方达中证沪港深300ETF联接发起式A",
+            "name": "易方达中证沪港深300交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "易方达中证沪港深300交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020103",
+            "shortName": "易方达中证沪港深300ETF联接发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "517030",
+            "shortName": "易方达中证沪港深300ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "易方达中证沪港深300交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "517300",
+            "shortName": "国寿安保中证沪港深300ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "国寿安保中证沪港深300交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        }
+    ]
+}

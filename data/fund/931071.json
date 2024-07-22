@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008020",
+            "name": "华富中证人工智能产业ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华富人工智能ETF联接A"
+        },
+        {
+            "name": "华富中证人工智能产业ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008021",
+            "shortName": "华富人工智能ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515980",
+            "exchange": "sh",
+            "name": "华富中证人工智能产业交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "华富中证人工智能产业ETF"
+        }
+    ]
+}

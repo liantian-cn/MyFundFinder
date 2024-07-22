@@ -1,0 +1,62 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008281",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "国泰CES半导体芯片行业交易型开放式指数证券投资基金发起式联接基金A",
+            "shortName": "国泰CES半导体芯片行业ETF联接A",
+            "market": "a"
+        },
+        {
+            "stockCode": "008282",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "国泰CES半导体芯片行业交易型开放式指数证券投资基金发起式联接基金A",
+            "shortName": "国泰CES半导体芯片行业ETF联接C",
+            "market": "a"
+        },
+        {
+            "stockCode": "012837",
+            "shortName": "华安CES半导体芯片行业指数发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华安CES半导体芯片行业指数A"
+        },
+        {
+            "name": "华安CES半导体芯片行业指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012838",
+            "shortName": "华安CES半导体芯片行业指数发起C"
+        },
+        {
+            "stockCode": "014418",
+            "shortName": "西部利得CES芯片指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "西部利得CES半导体芯片行业指数增强型证券投资基金A"
+        },
+        {
+            "name": "西部利得CES半导体芯片行业指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "014419",
+            "shortName": "西部利得CES芯片指数增强C"
+        },
+        {
+            "stockCode": "512760",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国泰CES半导体芯片行业交易型开放式指数证券投资基金",
+            "shortName": "国泰CES半导体芯片行业ETF"
+        }
+    ]
+}

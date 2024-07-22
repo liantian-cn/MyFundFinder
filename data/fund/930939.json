@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007593",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "鹏扬中证500质量成长指数A",
+            "shortName": "鹏扬中证500质量成长ETF联接A"
+        },
+        {
+            "stockCode": "007594",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "鹏扬中证500质量成长指数A",
+            "shortName": "鹏扬中证500质量成长ETF联接C"
+        },
+        {
+            "stockCode": "019320",
+            "shortName": "易方达中证500质量成长ETF联接发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证500质量成长交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019321",
+            "shortName": "易方达中证500质量成长ETF联接发起式C",
+            "exchange": "jj",
+            "name": "易方达中证500质量成长交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "stockCode": "560500",
+            "shortName": "鹏扬中证500质量成长ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "鹏扬中证500质量成长交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159606",
+            "shortName": "易方达中证500质量成长ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "易方达中证500质量成长交易型开放式指数证券投资基金"
+        }
+    ]
+}

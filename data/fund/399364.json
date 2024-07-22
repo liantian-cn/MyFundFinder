@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "010771",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "天弘国证消费100指数增强型发起式证券投资基金A类",
+            "shortName": "天弘国证消费100指数增强A",
+            "exchange": "jj"
+        },
+        {
+            "name": "天弘国证消费100指数增强型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010772",
+            "shortName": "天弘国证消费100指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "013926",
+            "shortName": "易米国证消费100指数增强发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易米国证消费100指数增强A"
+        },
+        {
+            "name": "易米国证消费100指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013927",
+            "shortName": "易米国证消费100指数增强发起C"
+        }
+    ]
+}

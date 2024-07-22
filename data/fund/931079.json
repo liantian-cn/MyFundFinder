@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008086",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证5G通信主题交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "华夏中证5G通信主题ETF联接A"
+        },
+        {
+            "stockCode": "008087",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证5G通信主题交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "华夏中证5G通信主题ETF联接C"
+        },
+        {
+            "stockCode": "008889",
+            "name": "银华中证5G通信主题ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "银华中证5G通信主题ETF联接A"
+        },
+        {
+            "name": "银华中证5G通信主题ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010524",
+            "shortName": "银华中证5G通信主题ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515050",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华夏中证5G通信主题交易型开放式指数证券投资基金",
+            "shortName": "华夏中证5G通信主题ETF"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "159994",
+            "exchange": "sz",
+            "name": "银华中证5G通信主题交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "5GETF"
+        }
+    ]
+}

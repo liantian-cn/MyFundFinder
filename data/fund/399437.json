@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "015859",
+            "shortName": "宝盈国证证券龙头指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "宝盈国证证券龙头指数型发起式证券投资基金A"
+        },
+        {
+            "name": "宝盈国证证券龙头指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015860",
+            "shortName": "宝盈国证证券龙头指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "159993",
+            "exchange": "sz",
+            "name": "鹏华国证证券龙头交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "龙头券商"
+        }
+    ]
+}

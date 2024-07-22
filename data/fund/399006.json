@@ -1,0 +1,582 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "001592",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘创业板交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘创业板ETF联接基金A"
+        },
+        {
+            "stockCode": "001593",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘创业板交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘创业板ETF联接基金C"
+        },
+        {
+            "stockCode": "001879",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长城创业板指数增强型证券投资基金",
+            "shortName": "长城创业板指数增强发起式A"
+        },
+        {
+            "stockCode": "002656",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方创业板交易型开放式指数证券投资基金联接基金",
+            "shortName": "南方创业板ETF联接A"
+        },
+        {
+            "stockCode": "003069",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "光大保德信创业板量化优选股票型证券投资基金A类",
+            "shortName": "光大保德信创业板股票A"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "003070",
+            "exchange": "jj",
+            "name": "光大保德信创业板量化优选股票型证券投资基金A类",
+            "shortName": "光大保德信创业板股票C",
+            "market": "a"
+        },
+        {
+            "stockCode": "003147",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "大成动态量化配置策略混合A",
+            "shortName": "大成动态量化配置策略混合A"
+        },
+        {
+            "stockCode": "003765",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发创业板交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "广发创业板ETF发起式联接A"
+        },
+        {
+            "stockCode": "003766",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发创业板交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "广发创业板ETF发起式联接C"
+        },
+        {
+            "stockCode": "004343",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方创业板交易型开放式指数证券投资基金联接基金",
+            "shortName": "南方创业板ETF联接C"
+        },
+        {
+            "stockCode": "004744",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "腾安易方达创业板ETF联接A",
+            "shortName": "易方达创业板ETF联接C"
+        },
+        {
+            "stockCode": "004870",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "融通创业板指数增强型证券投资基金",
+            "shortName": "融通创业板指数C"
+        },
+        {
+            "stockCode": "005390",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信创业板交易型开放式指数证券投资基金联接基金",
+            "shortName": "工银创业板ETF联接A"
+        },
+        {
+            "stockCode": "005391",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信创业板交易型开放式指数证券投资基金联接基金",
+            "shortName": "工银创业板ETF联接C"
+        },
+        {
+            "stockCode": "005873",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信创业板ETF联接A",
+            "shortName": "建信创业板ETF联接A"
+        },
+        {
+            "stockCode": "005874",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信创业板ETF联接A",
+            "shortName": "建信创业板ETF联接C"
+        },
+        {
+            "stockCode": "006248",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华夏创业板交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "华夏创业板ETF联接A"
+        },
+        {
+            "stockCode": "006249",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华夏创业板交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "华夏创业板ETF联接C"
+        },
+        {
+            "stockCode": "006733",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博时创业板交易型开放式指数证券投资基金联接基金A",
+            "shortName": "博时创业板ETF联接C"
+        },
+        {
+            "stockCode": "006928",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长城创业板指数增强型证券投资基金",
+            "shortName": "长城创业板指数增强发起式C"
+        },
+        {
+            "stockCode": "007234",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博时优势企业灵活配置混合型证券投资基金(LOF)A",
+            "shortName": "博时优势企业灵活配置混合C"
+        },
+        {
+            "stockCode": "007664",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "永赢创业板指数型发起式证券投资基金",
+            "shortName": "永赢创业板A"
+        },
+        {
+            "stockCode": "007665",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "永赢创业板指数型发起式证券投资基金",
+            "shortName": "永赢创业板C"
+        },
+        {
+            "stockCode": "009012",
+            "name": "平安创业板交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "平安创业板ETF联接A"
+        },
+        {
+            "name": "平安创业板交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009013",
+            "shortName": "平安创业板ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "009046",
+            "name": "西藏东财创业板指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "东财创业板A"
+        },
+        {
+            "name": "西藏东财创业板指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009047",
+            "shortName": "东财创业板C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "009981",
+            "shortName": "万家创业板指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "万家创业板指数增强型证券投资基金A",
+            "exchange": "jj"
+        },
+        {
+            "name": "万家创业板指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009982",
+            "shortName": "万家创业板指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "南方创业板交易型开放式指数证券投资基金联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010183",
+            "shortName": "南方创业板ETF联接E",
+            "exchange": "jj"
+        },
+        {
+            "name": "诺安创业板指数增强型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010356",
+            "shortName": "诺安创业板指数增强（LOF）C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "010785",
+            "shortName": "博时创业板指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "博时创业板指数A",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "012116",
+            "shortName": "中银证券创业板ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "中银证券创业板交易型开放式指数证券投资基金发起式联接基金A",
+            "exchange": "jj"
+        },
+        {
+            "name": "中银证券创业板交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012117",
+            "shortName": "中银证券创业板ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "012179",
+            "shortName": "浦银安盛创业板ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "浦银安盛创业板交易型开放式指数证券投资基金联接基金A类"
+        },
+        {
+            "name": "浦银安盛创业板交易型开放式指数证券投资基金联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012180",
+            "shortName": "浦银安盛创业板ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "012900",
+            "shortName": "招商创业板指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "招商创业板指数增强A"
+        },
+        {
+            "name": "招商创业板指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012901",
+            "shortName": "招商创业板指数增强C"
+        },
+        {
+            "name": "富国创业板交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013277",
+            "shortName": "富国创业板ETF联接C"
+        },
+        {
+            "name": "建信创业板ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013443",
+            "shortName": "建信创业板ETF发起联接E"
+        },
+        {
+            "name": "国泰创业板指数证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015600",
+            "shortName": "国泰创业板指数（LOF）C",
+            "exchange": "jj"
+        },
+        {
+            "name": "鹏华创业板指数型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015673",
+            "shortName": "鹏华创业板指数(LOF)C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015794",
+            "shortName": "天弘创业板指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "天弘创业板指数增强型证券投资基金A类"
+        },
+        {
+            "name": "天弘创业板指数增强型证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015795",
+            "shortName": "天弘创业板指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018370",
+            "shortName": "华夏创业板指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏创业板指数增强型证券投资基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018371",
+            "shortName": "华夏创业板指数增强C",
+            "exchange": "jj",
+            "name": "华夏创业板指数增强型证券投资基金A"
+        },
+        {
+            "name": "广发创业板交易型开放式指数证券投资基金发起式联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019817",
+            "shortName": "广发创业板ETF发起式联接E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020870",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华夏创业板指数发起式A",
+            "name": "华夏创业板指数发起式证券投资基金A"
+        },
+        {
+            "name": "华夏创业板指数发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020871",
+            "shortName": "华夏创业板指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "name": "华夏创业板指数发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020872",
+            "shortName": "华夏创业板指数发起式E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "050021",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博时创业板交易型开放式指数证券投资基金联接基金A",
+            "shortName": "博时创业板ETF联接A"
+        },
+        {
+            "stockCode": "110026",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "腾安易方达创业板ETF联接A",
+            "shortName": "易方达创业板ETF联接A"
+        },
+        {
+            "stockCode": "161613",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "融通创业板指数增强型证券投资基金",
+            "shortName": "融通创业板指数A/B"
+        },
+        {
+            "stockCode": "163209",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "诺安创业板指数增强型证券投资基金(LOF)A",
+            "shortName": "诺安创业板指数增强（LOF）A"
+        },
+        {
+            "stockCode": "159675",
+            "shortName": "嘉实创业板增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "嘉实创业板增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159676",
+            "shortName": "富国创业板增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "富国创业板增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159808",
+            "name": "融通创业板交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "融通创业板ETF"
+        },
+        {
+            "stockCode": "159810",
+            "name": "浦银安盛创业板交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "浦银安盛创业板ETF"
+        },
+        {
+            "stockCode": "159821",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "中银证券创业板交易型开放式指数证券投资基金",
+            "shortName": "中银证券创业板ETF",
+            "exchange": "sz"
+        },
+        {
+            "stockCode": "159908",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "博时创业板交易型开放式指数证券投资基金",
+            "shortName": "博时创业板ETF"
+        },
+        {
+            "stockCode": "159915",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "易方达创业板交易型开放式指数证券投资基金",
+            "shortName": "易方达创业板ETF"
+        },
+        {
+            "stockCode": "159948",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "南方创业板交易型开放式指数证券投资基金",
+            "shortName": "南方创业板ETF"
+        },
+        {
+            "stockCode": "159952",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "广发创业板交易型开放式指数证券投资基金",
+            "shortName": "广发创业板ETF"
+        },
+        {
+            "stockCode": "159956",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "建信创业板交易型开放式指数证券投资基金",
+            "shortName": "建信创业板ETF"
+        },
+        {
+            "stockCode": "159957",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "华夏创业板交易型开放式指数证券投资基金",
+            "shortName": "华夏创业板ETF"
+        },
+        {
+            "stockCode": "159958",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "工银瑞信创业板交易型开放式指数证券投资基金",
+            "shortName": "创业板ETF工银"
+        },
+        {
+            "stockCode": "159964",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "平安创业板交易型开放式指数证券投资基金",
+            "shortName": "平安创业板ETF"
+        },
+        {
+            "stockCode": "159971",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富国创业板交易型开放式指数证券投资基金",
+            "shortName": "富国创业板ETF"
+        },
+        {
+            "stockCode": "159977",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "天弘创业板交易型开放式指数证券投资基金",
+            "shortName": "天弘创业板ETF"
+        },
+        {
+            "stockCode": "160223",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "国泰创业板指数证券投资基金(LOF)A",
+            "shortName": "国泰创业板指数（LOF）A"
+        },
+        {
+            "stockCode": "160637",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "鹏华创业板指数型证券投资基金(LOF)A",
+            "shortName": "鹏华创业板指数(LOF)A"
+        },
+        {
+            "stockCode": "161022",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富国创业板交易型开放式指数证券投资基金联接基金A",
+            "shortName": "富国创业板ETF联接A"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "006327",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "易方达中证海外中国互联网50ETF联(QDII)A(人民币份额)",
+            "shortName": "易方达中证海外中国互联网50ETF联接（QDII）A",
+            "market": "a"
+        },
+        {
+            "stockCode": "006328",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "易方达中证海外中国互联网50ETF联(QDII)A(人民币份额)",
+            "shortName": "易方达中证海外中国互联网50ETF联接（QDII）C",
+            "market": "a"
+        },
+        {
+            "stockCode": "513050",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "name": "易方达中证海外中国互联网50交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "易方达中证海外中国互联网50（QDII-ETF）"
+        }
+    ]
+}

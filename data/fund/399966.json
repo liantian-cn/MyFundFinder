@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "鹏华中证800证券保险指数型证券投资基金(LOF)",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015693",
+            "shortName": "鹏华中证800证券保险指数(LOF)C",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515630",
+            "exchange": "sh",
+            "market": "a",
+            "name": "鹏华中证800证券保险交易型开放式指数证券投资基金",
+            "shortName": "保险证券"
+        },
+        {
+            "stockCode": "160625",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "鹏华中证800证券保险指数型证券投资基金(LOF)",
+            "shortName": "鹏华中证800证券保险指数(LOF)A"
+        }
+    ]
+}

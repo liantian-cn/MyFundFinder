@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "国联安上证大宗商品股票交易型开放式指数证券投资基金联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015577",
+            "shortName": "国联安上证商品ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "257060",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国联安上证大宗商品股票交易型开放式指数证券投资基金联接基金",
+            "shortName": "国联安大宗商品联接A"
+        },
+        {
+            "stockCode": "510170",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "上证大宗商品股票交易型开放式指数证券投资基金",
+            "shortName": "国联安上证商品ETF"
+        }
+    ]
+}

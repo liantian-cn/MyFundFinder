@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012550",
+            "shortName": "华宝电子ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华宝中证电子50ETF联接A"
+        },
+        {
+            "name": "华宝中证电子50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012551",
+            "shortName": "华宝电子ETF联接C"
+        },
+        {
+            "stockCode": "014632",
+            "shortName": "华安中证电子50ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华安中证电子50ETF联接A"
+        },
+        {
+            "name": "华安中证电子50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014633",
+            "shortName": "华安中证电子50ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515260",
+            "name": "华宝中证电子50交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "华宝中证电子50ETF"
+        },
+        {
+            "stockCode": "515320",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华安中证电子50交易型开放式指数证券投资基金",
+            "shortName": "华安中证电子50ETF"
+        }
+    ]
+}

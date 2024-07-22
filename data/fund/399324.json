@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "006724",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信深证红利交易型开放式指数证券投资基金联接基金",
+            "shortName": "工银深证红利ETF联接C"
+        },
+        {
+            "stockCode": "481012",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信深证红利交易型开放式指数证券投资基金联接基金",
+            "shortName": "工银深证红利ETF联接A"
+        },
+        {
+            "stockCode": "159708",
+            "shortName": "红利ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "西部利得深证红利交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159905",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "深证红利交易型开放式指数证券投资基金",
+            "shortName": "深红利ETF"
+        }
+    ]
+}

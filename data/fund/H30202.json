@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012636",
+            "shortName": "国泰中证全指软件ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰中证全指软件ETF联接A"
+        },
+        {
+            "name": "国泰中证全指软件ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012637",
+            "shortName": "国泰中证全指软件ETF联接C"
+        },
+        {
+            "stockCode": "018385",
+            "shortName": "招商中证全指软件ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "招商中证全指软件交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "招商中证全指软件交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018386",
+            "shortName": "招商中证全指软件ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515230",
+            "shortName": "国泰中证全指软件ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "国泰中证全指软件交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "159899",
+            "shortName": "招商中证全指软件ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "招商中证全指软件交易型开放式指数证券投资基金"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "华宝中证消费龙头指数证券投资基金（LOF）A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009329",
+            "shortName": "华宝消费龙头C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "011853",
+            "shortName": "招商中证消费龙头指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "招商中证消费龙头指数增强A",
+            "exchange": "jj"
+        },
+        {
+            "name": "招商中证消费龙头指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "011854",
+            "shortName": "招商中证消费龙头指数增强C"
+        },
+        {
+            "stockCode": "501090",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华宝中证消费龙头指数证券投资基金（LOF）A类",
+            "shortName": "消费龙头LOF"
+        },
+        {
+            "stockCode": "516130",
+            "shortName": "华宝消费龙头ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华宝中证消费龙头交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159520",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "消费龙头ETF",
+            "name": "工银瑞信中证消费龙头交易型开放式指数证券投资基金"
+        }
+    ]
+}

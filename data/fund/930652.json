@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "001617",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘中证电子交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘中证电子ETF联接A"
+        },
+        {
+            "stockCode": "001618",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘中证电子交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘中证电子ETF联接C"
+        },
+        {
+            "stockCode": "159997",
+            "name": "天弘中证电子交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "天弘中证电子ETF"
+        }
+    ]
+}

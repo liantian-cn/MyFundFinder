@@ -1,0 +1,22 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "161211",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国投瑞银沪深300金融地产交易型开放式指数证券投资基金联接基金",
+            "shortName": "国投金融地产ETF联接"
+        },
+        {
+            "stockCode": "159933",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "国投瑞银沪深300金融地产交易型开放式指数证券投资基金",
+            "shortName": "国投瑞银金融地产ETF"
+        }
+    ]
+}

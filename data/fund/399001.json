@@ -1,0 +1,70 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004345",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方深证成份交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "南方深证成份ETF联接C"
+        },
+        {
+            "stockCode": "004875",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "融通深证成份指数证券投资基金",
+            "shortName": "融通深证成份指数C"
+        },
+        {
+            "name": "申万菱信深证成份指数型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015177",
+            "shortName": "申万菱信深证成份指数C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "161612",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "融通深证成份指数证券投资基金",
+            "shortName": "融通深证成份指数A/B"
+        },
+        {
+            "stockCode": "202017",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方深证成份交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "南方深证成份ETF联接A"
+        },
+        {
+            "stockCode": "159903",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "深证成份交易型开放式指数证券投资基金",
+            "shortName": "南方深证成份ETF"
+        },
+        {
+            "stockCode": "159943",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "大成深证成份交易型开放式指数证券投资基金",
+            "shortName": "深证ETF"
+        },
+        {
+            "stockCode": "163109",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "申万菱信深证成份指数型证券投资基金(LOF)A",
+            "shortName": "申万菱信深证成份指数A"
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "011608",
+            "shortName": "易方达上证科创50联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "易方达上证科创板50成份ETF联接A",
+            "exchange": "jj"
+        },
+        {
+            "name": "易方达上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "011609",
+            "shortName": "易方达上证科创50联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "011610",
+            "shortName": "科创板ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华泰柏瑞上证科创板50成份ETF联接A",
+            "exchange": "jj"
+        },
+        {
+            "name": "华泰柏瑞上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "011611",
+            "shortName": "科创板ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "011612",
+            "shortName": "华夏上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华夏上证科创板50成份交易型开放式指数证券投资基金发起式联接基金A",
+            "exchange": "jj"
+        },
+        {
+            "name": "华夏上证科创板50成份交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "011613",
+            "shortName": "华夏上证科创板50成份ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "011614",
+            "shortName": "工银科创ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "工银瑞信上证科创板50成份ETF联接A",
+            "exchange": "jj"
+        },
+        {
+            "name": "工银瑞信上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "011615",
+            "shortName": "工银科创ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "013810",
+            "shortName": "广发科创50ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "广发上证科创板50成份ETF联接A"
+        },
+        {
+            "name": "广发上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013811",
+            "shortName": "广发科创50ETF发起式联接C"
+        },
+        {
+            "stockCode": "013893",
+            "shortName": "国联安上证科创50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国联安上证科创板50成份ETF联接A"
+        },
+        {
+            "name": "国联安上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "013894",
+            "shortName": "国联安上证科创50ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017188",
+            "shortName": "嘉实上证科创板50指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "嘉实上证科创板50成份指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "嘉实上证科创板50成份指数增强型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017189",
+            "shortName": "嘉实上证科创板50指数增强发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018145",
+            "shortName": "博时上证科创板50成份指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "博时上证科创板50成份指数型发起式证券投资基金A"
+        },
+        {
+            "name": "博时上证科创板50成份指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018146",
+            "shortName": "博时上证科创板50成份指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018177",
+            "shortName": "华夏上证科创板50成份指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏上证科创板50成份指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "华夏上证科创板50成份指数增强型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018178",
+            "shortName": "华夏上证科创板50成份指数增强发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019385",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "东财上证科创50指数发起式A",
+            "name": "西藏东财上证科创板50成份指数型发起式证券投资基金A类"
+        },
+        {
+            "name": "西藏东财上证科创板50成份指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019386",
+            "shortName": "东财上证科创50指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "019767",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "景顺长城上证科创板50成份指数增强A",
+            "name": "景顺长城上证科创板50成份指数增强型证券投资基金A类"
+        },
+        {
+            "stockCode": "020714",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华安上证科创板50成份ETF发起式联接A",
+            "name": "华安上证科创板50成份交易型开放式指数证券投资基金发起式联接基金A类"
+        },
+        {
+            "name": "华安上证科创板50成份交易型开放式指数证券投资基金发起式联接基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020715",
+            "shortName": "华安上证科创板50成份ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "name": "工银瑞信上证科创板50成份ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020750",
+            "shortName": "工银科创ETF链接E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020873",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "天弘上证科创板50成份指数发起A",
+            "name": "天弘上证科创板50成份指数型发起式证券投资基金A类"
+        },
+        {
+            "name": "天弘上证科创板50成份指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020874",
+            "shortName": "天弘上证科创板50成份指数发起C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "588000",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华夏上证科创板50成份交易型开放式指数证券投资基金",
+            "shortName": "华夏上证科创板50成份ETF",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "588050",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "工银瑞信上证科创板50成份交易型开放式指数证券投资基金",
+            "shortName": "科创ETF",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "588060",
+            "shortName": "广发科创50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发上证科创板50成份交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588080",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "易方达上证科创板50成份交易型开放式指数证券投资基金",
+            "exchange": "sh",
+            "shortName": "易方达上证科创板50ETF"
+        },
+        {
+            "stockCode": "588090",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华泰柏瑞上证科创板50成份交易型开放式指数证券投资基金",
+            "shortName": "科创板ETF",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "588150",
+            "shortName": "南方上证科创板50成份ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "南方上证科创板50成份交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588180",
+            "shortName": "国联安科创ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "国联安上证科创板50成份交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588280",
+            "shortName": "华安上证科创板50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华安上证科创板50成份交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588370",
+            "shortName": "南方上证科创板50成份增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "南方上证科创板50成份增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "588460",
+            "shortName": "科创50增强ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "鹏华上证科创板50成份增强策略交易型开放式指数证券投资基金"
+        }
+    ]
+}

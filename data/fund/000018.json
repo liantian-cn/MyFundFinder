@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "国泰上证180金融交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014994",
+            "shortName": "国泰上证180金融ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020021",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰上证180金融交易型开放式指数证券投资基金联接基金A",
+            "shortName": "国泰上证180金融ETF联接A"
+        },
+        {
+            "stockCode": "510230",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "上证180金融交易型开放式指数证券投资基金",
+            "shortName": "国泰上证180金融ETF"
+        }
+    ]
+}

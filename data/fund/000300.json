@@ -1,0 +1,1542 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "000051",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华夏沪深300交易型开放式指数证券投资基金联接基金",
+            "shortName": "华夏沪深300ETF联接A"
+        },
+        {
+            "stockCode": "000172",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华泰柏瑞量化增强混合型证券投资基金A类",
+            "shortName": "华泰柏瑞量化增强混合A"
+        },
+        {
+            "stockCode": "000176",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "嘉实沪深300指数研究增强型证券投资基金A",
+            "shortName": "嘉实沪深300指数研究增强A"
+        },
+        {
+            "stockCode": "000311",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "景顺长城沪深300指数增强型证券投资基金A",
+            "shortName": "景顺长城沪深300指数增强A"
+        },
+        {
+            "stockCode": "000312",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华安沪深300量化增强证券投资基金A类",
+            "shortName": "华安沪深300增强A"
+        },
+        {
+            "stockCode": "000313",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华安沪深300量化增强证券投资基金A类",
+            "shortName": "华安沪深300增强C"
+        },
+        {
+            "stockCode": "000512",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰沪深300指数增强A",
+            "shortName": "国泰沪深300指数增强A"
+        },
+        {
+            "stockCode": "000613",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国寿安保沪深300交易型开放式指数证券投资基金联接基金A",
+            "shortName": "国寿安保沪深300ETF联接A"
+        },
+        {
+            "stockCode": "000656",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "前海开源沪深300指数型证券投资基金A",
+            "shortName": "前海开源沪深300指数A"
+        },
+        {
+            "stockCode": "000961",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘沪深300ETF联接A"
+        },
+        {
+            "stockCode": "001015",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华夏沪深300指数增强型证券投资基金",
+            "shortName": "华夏沪深300指数增强A"
+        },
+        {
+            "stockCode": "001016",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华夏沪深300指数增强型证券投资基金",
+            "shortName": "华夏沪深300指数增强C"
+        },
+        {
+            "stockCode": "002063",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰沪深300指数增强A",
+            "shortName": "国泰沪深300指数增强C"
+        },
+        {
+            "stockCode": "002310",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "创金合信沪深300指数增强型发起式证券投资基金A",
+            "shortName": "创金合信沪深300增强A"
+        },
+        {
+            "stockCode": "002315",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "创金合信沪深300指数增强型发起式证券投资基金A",
+            "shortName": "创金合信沪深300增强C"
+        },
+        {
+            "stockCode": "002385",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博时裕富沪深300指数证券投资基金",
+            "shortName": "博时沪深300指数C"
+        },
+        {
+            "stockCode": "002670",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "万家沪深300指数增强型证券投资基金A",
+            "shortName": "万家沪深300指数增强A"
+        },
+        {
+            "stockCode": "002671",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "万家沪深300指数增强型证券投资基金A",
+            "shortName": "万家沪深300指数增强C"
+        },
+        {
+            "stockCode": "002987",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "广发沪深300ETF联接C"
+        },
+        {
+            "stockCode": "003015",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "中金沪深300指数增强型发起式证券投资基金",
+            "shortName": "中金沪深300A"
+        },
+        {
+            "stockCode": "003548",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "宏利沪深300指数增强型证券投资基金A",
+            "shortName": "宏利沪深300指数C"
+        },
+        {
+            "stockCode": "003579",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "中金沪深300指数增强型发起式证券投资基金",
+            "shortName": "中金沪深300C"
+        },
+        {
+            "stockCode": "003876",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝沪深300指数增强型发起式证券投资基金A类",
+            "shortName": "华宝沪深300增强A"
+        },
+        {
+            "stockCode": "003884",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇安沪深300指数增强型证券投资基金",
+            "shortName": "汇安沪深300增强A"
+        },
+        {
+            "stockCode": "003885",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇安沪深300指数增强型证券投资基金",
+            "shortName": "汇安沪深300增强C"
+        },
+        {
+            "stockCode": "003957",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "安信量化精选沪深300指数增强A",
+            "shortName": "安信量化沪深300增强A"
+        },
+        {
+            "stockCode": "003958",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "安信量化精选沪深300指数增强A",
+            "shortName": "安信量化沪深300增强C"
+        },
+        {
+            "stockCode": "004190",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "招商沪深300指数增强型证券投资基金",
+            "shortName": "招商沪深300指数增强A"
+        },
+        {
+            "stockCode": "004191",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "招商沪深300指数增强型证券投资基金",
+            "shortName": "招商沪深300指数增强C"
+        },
+        {
+            "stockCode": "004342",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "南方沪深300ETF联接C"
+        },
+        {
+            "stockCode": "004512",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "海富通沪深300指数增强C",
+            "shortName": "海富通沪深300增强C"
+        },
+        {
+            "stockCode": "004513",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "海富通沪深300指数增强C",
+            "shortName": "海富通沪深300增强A"
+        },
+        {
+            "stockCode": "004788",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "富荣沪深300指数增强A",
+            "shortName": "富荣沪深300指数增强A"
+        },
+        {
+            "stockCode": "004789",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "富荣沪深300指数增强A",
+            "shortName": "富荣沪深300指数增强C"
+        },
+        {
+            "stockCode": "004881",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "中银沪深300指数增强型证券投资基金A",
+            "shortName": "中银沪深300指数增强A"
+        },
+        {
+            "stockCode": "005102",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信沪深300交易型开放式指数证券投资基金联接基金",
+            "shortName": "工银沪深300ETF联接A"
+        },
+        {
+            "stockCode": "005103",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信沪深300交易型开放式指数证券投资基金联接基金",
+            "shortName": "工银沪深300ETF联接C"
+        },
+        {
+            "stockCode": "005113",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "平安沪深300指数量化增强A",
+            "shortName": "平安沪深300指数量化增强A"
+        },
+        {
+            "stockCode": "005114",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "平安沪深300指数量化增强A",
+            "shortName": "平安沪深300指数量化增强C"
+        },
+        {
+            "stockCode": "005137",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长信沪深300指数增强A",
+            "shortName": "长信沪深300指数A"
+        },
+        {
+            "stockCode": "005152",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "农银汇理沪深300指数证券投资基金A类",
+            "shortName": "农银沪深300指数C"
+        },
+        {
+            "stockCode": "005248",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "新华沪深300指数增强型证券投资基金",
+            "shortName": "新华沪深300指数增强A",
+            "market": "a"
+        },
+        {
+            "stockCode": "005530",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇添富沪深300指数增强型证券投资基金A",
+            "shortName": "汇添富沪深300指数增强A"
+        },
+        {
+            "stockCode": "005639",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "平安沪深300交易型开放式指数证券投资基金联接基金A",
+            "shortName": "平安300ETF联接A"
+        },
+        {
+            "stockCode": "005640",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "平安沪深300交易型开放式指数证券投资基金联接基金A",
+            "shortName": "平安300ETF联接C"
+        },
+        {
+            "stockCode": "005658",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华夏沪深300交易型开放式指数证券投资基金联接基金",
+            "shortName": "华夏沪深300ETF联接C"
+        },
+        {
+            "stockCode": "005850",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "财通沪深300指数增强型证券投资基金",
+            "shortName": "财通沪深300指数增强"
+        },
+        {
+            "stockCode": "005867",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰沪深300指数证券投资基金（A类）",
+            "shortName": "国泰沪深300指数C"
+        },
+        {
+            "stockCode": "005870",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "鹏华沪深300指数增强型证券投资基金",
+            "shortName": "鹏华沪深300指数增强A"
+        },
+        {
+            "stockCode": "005918",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "天弘沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "天弘沪深300ETF联接C"
+        },
+        {
+            "stockCode": "006020",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发沪深300指数增强型发起式证券投资基金A类",
+            "shortName": "广发沪深300指数增强A"
+        },
+        {
+            "stockCode": "006021",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发沪深300指数增强型发起式证券投资基金A类",
+            "shortName": "广发沪深300指数增强C"
+        },
+        {
+            "stockCode": "006131",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华泰柏瑞沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "华泰柏瑞沪深300ETF联接C"
+        },
+        {
+            "stockCode": "006600",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "人保沪深300指数型证券投资基金A",
+            "shortName": "人保沪深300A"
+        },
+        {
+            "stockCode": "006912",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长城久泰沪深300指数型证券投资基金A",
+            "shortName": "长城久泰沪深300指数C"
+        },
+        {
+            "stockCode": "006937",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信沪深300指数证券投资基金",
+            "shortName": "工银沪深300指数C"
+        },
+        {
+            "stockCode": "006939",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "鹏华沪深300交易型开放式指数证券投资基金联接基金(LOF)A",
+            "shortName": "鹏华沪深300ETF联接(LOF)C"
+        },
+        {
+            "stockCode": "007044",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博道沪深300指数增强A",
+            "shortName": "博道沪深300增强A"
+        },
+        {
+            "stockCode": "007045",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博道沪深300指数增强A",
+            "shortName": "博道沪深300增强C"
+        },
+        {
+            "stockCode": "007096",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "大成沪深300指数证券投资基金",
+            "shortName": "大成沪深300指数C"
+        },
+        {
+            "stockCode": "007143",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国投瑞银沪深300指数量化增强型证券投资基金",
+            "shortName": "国投瑞银沪深300指数量化增强A"
+        },
+        {
+            "stockCode": "007144",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国投瑞银沪深300指数量化增强型证券投资基金",
+            "shortName": "国投瑞银沪深300指数量化增强C"
+        },
+        {
+            "stockCode": "007230",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "兴全沪深300指数增强型证券投资基金A",
+            "shortName": "兴全沪深300指数C"
+        },
+        {
+            "stockCode": "007275",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "银河沪深300指数增强型发起式证券投资基金",
+            "shortName": "银河沪深300指数增强A"
+        },
+        {
+            "stockCode": "007276",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "银河沪深300指数增强型发起式证券投资基金",
+            "shortName": "银河沪深300指数增强C"
+        },
+        {
+            "stockCode": "007339",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "易方达沪深300交易型开放式指数发起式证券投资基金联接基金A",
+            "shortName": "易方达沪深300ETF发起式联接C"
+        },
+        {
+            "stockCode": "007404",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝沪深300指数增强型发起式证券投资基金A类",
+            "shortName": "华宝沪深300增强C"
+        },
+        {
+            "stockCode": "007448",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长信沪深300指数增强A",
+            "shortName": "长信沪深300指数C"
+        },
+        {
+            "stockCode": "007538",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "永赢沪深300指数型发起式证券投资基金",
+            "shortName": "永赢沪深300A"
+        },
+        {
+            "stockCode": "007539",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "永赢沪深300指数型发起式证券投资基金",
+            "shortName": "永赢沪深300C"
+        },
+        {
+            "stockCode": "007804",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "申万菱信沪深300指数增强A",
+            "shortName": "申万菱信沪深300指数增强C"
+        },
+        {
+            "stockCode": "008184",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "新华沪深300指数增强型证券投资基金",
+            "shortName": "新华沪深300指数增强C",
+            "market": "a"
+        },
+        {
+            "stockCode": "008238",
+            "name": "中泰沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "中泰沪深300指数增强A"
+        },
+        {
+            "name": "中泰沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008239",
+            "shortName": "中泰沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "008291",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "民生加银沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "民生加银沪深300ETF联接A",
+            "market": "a"
+        },
+        {
+            "stockCode": "008292",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "name": "民生加银沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "民生加银沪深300ETF联接C",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008390",
+            "exchange": "jj",
+            "name": "国联安沪深300ETF联接A",
+            "shortName": "国联安沪深300ETF联接A",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008391",
+            "exchange": "jj",
+            "name": "国联安沪深300ETF联接A",
+            "shortName": "国联安沪深300ETF联接C",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008592",
+            "exchange": "jj",
+            "name": "天弘沪深300指数增强型发起式证券投资基金A类",
+            "shortName": "天弘沪深300指数增强A",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008593",
+            "exchange": "jj",
+            "name": "天弘沪深300指数增强型发起式证券投资基金A类",
+            "shortName": "天弘沪深300指数增强C",
+            "market": "a"
+        },
+        {
+            "stockCode": "008776",
+            "name": "华安沪深300ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华安沪深300ETF联接A"
+        },
+        {
+            "name": "华安沪深300ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008777",
+            "shortName": "华安沪深300ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "008926",
+            "name": "泰康沪深300ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "泰康沪深300ETF联接A"
+        },
+        {
+            "name": "泰康沪深300ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008927",
+            "shortName": "泰康沪深300ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "009059",
+            "name": "南方沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "南方沪深300指数增强A"
+        },
+        {
+            "name": "南方沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009060",
+            "shortName": "南方沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "建信沪深300指数增强(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009208",
+            "shortName": "建信沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "华泰柏瑞量化增强混合型证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010234",
+            "shortName": "华泰柏瑞量化增强混合C",
+            "exchange": "jj"
+        },
+        {
+            "name": "中银沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010311",
+            "shortName": "中银沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "诺安沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010352",
+            "shortName": "诺安沪深300增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "汇添富沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010556",
+            "shortName": "汇添富沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "010736",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "易方达沪深300指数精选增强A",
+            "shortName": "易方达沪深300精选增强A",
+            "exchange": "jj"
+        },
+        {
+            "name": "易方达沪深300指数精选增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010737",
+            "shortName": "易方达沪深300精选增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "010854",
+            "shortName": "汇添富沪深300基本面增强指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "汇添富沪深300基本面增强指数A",
+            "exchange": "jj"
+        },
+        {
+            "name": "汇添富沪深300基本面增强指数A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010855",
+            "shortName": "汇添富沪深300基本面增强指数型证券投资基金C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "010872",
+            "shortName": "博时沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "博时沪深300指数增强发起式证券投资基金",
+            "exchange": "jj"
+        },
+        {
+            "name": "博时沪深300指数增强发起式证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010873",
+            "shortName": "博时沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "010908",
+            "shortName": "大成沪深300增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "大成沪深300指数增强A",
+            "exchange": "jj"
+        },
+        {
+            "name": "大成沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "010909",
+            "shortName": "大成沪深300增强发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "011545",
+            "shortName": "长江沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "长江沪深300指数增强A",
+            "exchange": "jj"
+        },
+        {
+            "name": "长江沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "011546",
+            "shortName": "长江沪深300指数增强C"
+        },
+        {
+            "stockCode": "012206",
+            "shortName": "中泰沪深300量化优选增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "中泰沪深300指数量化优选增强A"
+        },
+        {
+            "name": "中泰沪深300指数量化优选增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012207",
+            "shortName": "中泰沪深300量化优选增强C"
+        },
+        {
+            "stockCode": "012911",
+            "shortName": "同泰沪深300量化增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "同泰沪深300指数量化增强A"
+        },
+        {
+            "name": "同泰沪深300指数量化增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012912",
+            "shortName": "同泰沪深300量化增强C"
+        },
+        {
+            "name": "中信保诚沪深300指数型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013120",
+            "shortName": "中信保诚沪深300指数（LOF）C"
+        },
+        {
+            "name": "富国沪深300增强证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013291",
+            "shortName": "富国沪深300指数增强C"
+        },
+        {
+            "name": "浙商沪深300指数增强型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014372",
+            "shortName": "浙商沪深300指数增强(LOF)C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015061",
+            "shortName": "中信建投沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "中信建投沪深300指数增强型证券投资基金"
+        },
+        {
+            "name": "中信建投沪深300指数增强型证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015062",
+            "shortName": "中信建投沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015278",
+            "shortName": "东财沪深300指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "西藏东财沪深300指数型发起式证券投资基金A类"
+        },
+        {
+            "name": "西藏东财沪深300指数型发起式证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015279",
+            "shortName": "东财沪深300指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015387",
+            "shortName": "中欧沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "中欧沪深300指数增强型证券投资基金A"
+        },
+        {
+            "name": "中欧沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015388",
+            "shortName": "中欧沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "前海开源沪深300指数型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015671",
+            "shortName": "前海开源沪深300指数C",
+            "exchange": "jj"
+        },
+        {
+            "name": "景顺长城沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015679",
+            "shortName": "景顺长城沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015906",
+            "shortName": "兴业沪深300ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "兴业沪深300ETF联接A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015907",
+            "shortName": "兴业沪深300ETF发起式联接C",
+            "exchange": "jj",
+            "name": "兴业沪深300ETF联接A"
+        },
+        {
+            "stockCode": "016103",
+            "shortName": "申万菱信沪深300优选指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "申万菱信沪深300优选指数增强发起式证券投资基金A"
+        },
+        {
+            "name": "申万菱信沪深300优选指数增强发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016104",
+            "shortName": "申万菱信沪深300优选指数增强发起式C",
+            "exchange": "jj"
+        },
+        {
+            "name": "嘉实沪深300指数研究增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016134",
+            "shortName": "嘉实沪深300指数研究增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016204",
+            "shortName": "东方沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "东方沪深300指数增强型证券投资基金A"
+        },
+        {
+            "name": "东方沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016205",
+            "shortName": "东方沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "鹏华沪深300指数增强型证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016690",
+            "shortName": "鹏华沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "016867",
+            "shortName": "华泰紫金沪深300指数增强发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰紫金沪深300指数增强型发起式证券投资基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "016868",
+            "shortName": "华泰紫金沪深300指数增强发起C",
+            "exchange": "jj",
+            "name": "华泰紫金沪深300指数增强型发起式证券投资基金A"
+        },
+        {
+            "stockCode": "017445",
+            "shortName": "摩根沪深300指数增强发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "摩根沪深300指数增强A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017446",
+            "shortName": "摩根沪深300指数增强发起式C",
+            "exchange": "jj",
+            "name": "摩根沪深300指数增强A"
+        },
+        {
+            "name": "国金沪深300指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017925",
+            "shortName": "国金300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018257",
+            "shortName": "国泰君安沪深300指数增强发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰君安沪深300指数增强型发起式证券投资基金A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018258",
+            "shortName": "国泰君安沪深300指数增强发起C",
+            "exchange": "jj",
+            "name": "国泰君安沪深300指数增强型发起式证券投资基金A"
+        },
+        {
+            "name": "浦银安盛沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019210",
+            "shortName": "浦银安盛沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "中欧沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019656",
+            "shortName": "中欧沪深300指数增强E",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020011",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国泰沪深300指数证券投资基金（A类）",
+            "shortName": "国泰沪深300指数A"
+        },
+        {
+            "stockCode": "020160",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "中信保诚沪深300指数增强A",
+            "name": "中信保诚中信保诚沪深300指数增强型证券投资基金A"
+        },
+        {
+            "name": "中信保诚中信保诚沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020161",
+            "shortName": "中信保诚沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "020220",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "国联安沪深300指数增强A",
+            "name": "国联安沪深300指数增强型证券投资基金A"
+        },
+        {
+            "name": "国联安沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020221",
+            "shortName": "国联安沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "name": "富兰克林国海沪深300指数增强型证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020352",
+            "shortName": "国富沪深300指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "050002",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "博时裕富沪深300指数证券投资基金",
+            "shortName": "博时沪深300指数A"
+        },
+        {
+            "stockCode": "100038",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "富国沪深300增强证券投资基金",
+            "shortName": "富国沪深300指数增强A/B"
+        },
+        {
+            "stockCode": "110020",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "易方达沪深300交易型开放式指数发起式证券投资基金联接基金A",
+            "shortName": "易方达沪深300ETF发起式联接A"
+        },
+        {
+            "stockCode": "110030",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "易方达沪深300量化增强证券投资基金",
+            "shortName": "易方达沪深300量化增强"
+        },
+        {
+            "stockCode": "160724",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "嘉实沪深300交易型开放式指数证券投资基金联接基金(LOF)",
+            "shortName": "嘉实沪深300ETF联接(LOF)C"
+        },
+        {
+            "stockCode": "162213",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "宏利沪深300指数增强型证券投资基金A",
+            "shortName": "宏利沪深300指数A"
+        },
+        {
+            "stockCode": "165310",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信沪深300指数增强(LOF)A",
+            "shortName": "建信沪深300指数增强（LOF）A"
+        },
+        {
+            "stockCode": "166802",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "浙商沪深300指数增强型证券投资基金(LOF)A",
+            "shortName": "浙商沪深300指数增强(LOF)A"
+        },
+        {
+            "stockCode": "167601",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国金沪深300指数增强A",
+            "shortName": "国金300指数增强A"
+        },
+        {
+            "stockCode": "200002",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "长城久泰沪深300指数型证券投资基金A",
+            "shortName": "长城久泰沪深300指数A"
+        },
+        {
+            "stockCode": "202015",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "南方沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "南方沪深300ETF联接A"
+        },
+        {
+            "stockCode": "270010",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "广发沪深300ETF联接A"
+        },
+        {
+            "stockCode": "310318",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "申万菱信沪深300指数增强A",
+            "shortName": "申万菱信沪深300指数增强A"
+        },
+        {
+            "stockCode": "320014",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "诺安沪深300指数增强型证券投资基金A",
+            "shortName": "诺安沪深300增强A"
+        },
+        {
+            "stockCode": "450008",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "富兰克林国海沪深300指数增强型证券投资基金A",
+            "shortName": "国富沪深300指数增强A"
+        },
+        {
+            "stockCode": "460300",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华泰柏瑞沪深300交易型开放式指数证券投资基金联接基金A类",
+            "shortName": "华泰柏瑞沪深300ETF联接A"
+        },
+        {
+            "stockCode": "481009",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "工银瑞信沪深300指数证券投资基金",
+            "shortName": "工银沪深300指数A"
+        },
+        {
+            "stockCode": "519116",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "浦银安盛沪深300指数增强型证券投资基金A",
+            "shortName": "浦银安盛沪深300指数增强A"
+        },
+        {
+            "stockCode": "519300",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "大成沪深300指数证券投资基金",
+            "shortName": "大成沪深300指数A"
+        },
+        {
+            "stockCode": "660008",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "农银汇理沪深300指数证券投资基金A类",
+            "shortName": "农银沪深300指数A"
+        },
+        {
+            "stockCode": "673100",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "西部利得沪深300指数增强A",
+            "shortName": "西部利得沪深300指数A"
+        },
+        {
+            "stockCode": "673101",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "西部利得沪深300指数增强A",
+            "shortName": "西部利得沪深300指数C"
+        },
+        {
+            "stockCode": "501043",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富沪深300指数型发起式证券投资基金(LOF)A",
+            "shortName": "汇添富沪深300指数（LOF）A"
+        },
+        {
+            "stockCode": "501045",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富沪深300指数型发起式证券投资基金(LOF)A",
+            "shortName": "汇添富沪深300指数（LOF）C"
+        },
+        {
+            "stockCode": "510300",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华泰柏瑞沪深300交易型开放式指数证券投资基金",
+            "shortName": "华泰柏瑞沪深300ETF"
+        },
+        {
+            "stockCode": "510310",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "易方达沪深300交易型开放式指数发起式证券投资基金",
+            "shortName": "易方达沪深300ETF发起式"
+        },
+        {
+            "stockCode": "510330",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华夏沪深300交易型开放式指数证券投资基金",
+            "shortName": "华夏沪深300ETF"
+        },
+        {
+            "stockCode": "510350",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "工银瑞信沪深300交易型开放式指数证券投资基金",
+            "shortName": "工银沪深300ETF"
+        },
+        {
+            "stockCode": "510360",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "广发沪深300交易型开放式指数证券投资基金",
+            "shortName": "广发沪深300ETF"
+        },
+        {
+            "stockCode": "510370",
+            "name": "兴业沪深300交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "300指数ETF（证券简称：兴业300；扩位证券简称：300指数ETF）"
+        },
+        {
+            "stockCode": "510380",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国寿安保沪深300交易型开放式指数证券投资基金",
+            "shortName": "国寿安保沪深300ETF"
+        },
+        {
+            "stockCode": "510390",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "平安沪深300交易型开放式指数证券投资基金",
+            "shortName": "平安沪深300ETF"
+        },
+        {
+            "stockCode": "515130",
+            "name": "博时沪深300交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "博时沪深300ETF"
+        },
+        {
+            "stockCode": "515310",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "汇添富沪深300交易型开放式指数证券投资基金",
+            "shortName": "添富沪深300ETF"
+        },
+        {
+            "stockCode": "515330",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "name": "天弘沪深300交易型开放式指数证券投资基金",
+            "shortName": "天弘沪深300ETF",
+            "market": "a"
+        },
+        {
+            "stockCode": "515350",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "民生加银沪深300交易型开放式指数证券投资基金",
+            "shortName": "民生加银沪深300ETF"
+        },
+        {
+            "stockCode": "515360",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "方正富邦沪深300交易型开放式指数证券投资基金",
+            "shortName": "方正富邦沪深300ETF"
+        },
+        {
+            "stockCode": "515380",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "name": "泰康沪深300交易型开放式指数证券投资基金",
+            "shortName": "泰康300",
+            "market": "a"
+        },
+        {
+            "stockCode": "515390",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华安沪深300交易型开放式指数证券投资基金",
+            "shortName": "华安沪深300ETF"
+        },
+        {
+            "stockCode": "515660",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国联安沪深300交易型开放式指数证券投资基金",
+            "shortName": "国联安沪深300ETF"
+        },
+        {
+            "stockCode": "561000",
+            "shortName": "华安沪深300增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华安沪深300增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561300",
+            "shortName": "国泰沪深300增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "国泰沪深300增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561990",
+            "shortName": "招商沪深300增强策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "招商沪深300增强策略交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159673",
+            "shortName": "沪深300ETF鹏华",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "鹏华沪深300交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159919",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "嘉实沪深300交易型开放式指数证券投资基金",
+            "shortName": "嘉实沪深300ETF"
+        },
+        {
+            "stockCode": "159925",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "南方沪深300交易型开放式指数证券投资基金",
+            "shortName": "南方沪深300ETF"
+        },
+        {
+            "stockCode": "160615",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "鹏华沪深300交易型开放式指数证券投资基金联接基金(LOF)A",
+            "shortName": "鹏华沪深300ETF联接(LOF)A"
+        },
+        {
+            "stockCode": "160706",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "嘉实沪深300交易型开放式指数证券投资基金联接基金(LOF)",
+            "shortName": "嘉实沪深300ETF联接(LOF)A"
+        },
+        {
+            "stockCode": "160807",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "长盛沪深300指数证券投资基金(LOF)A",
+            "shortName": "长盛沪深300指数(LOF)A"
+        },
+        {
+            "stockCode": "161811",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "银华沪深300指数(LOF)",
+            "shortName": "银华沪深300指数"
+        },
+        {
+            "stockCode": "163407",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "兴全沪深300指数增强型证券投资基金A",
+            "shortName": "兴全沪深300指数（LOF）A"
+        },
+        {
+            "stockCode": "165309",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "建信沪深300指数证券投资基金(LOF)",
+            "shortName": "建信沪深300指数（LOF）"
+        },
+        {
+            "stockCode": "165515",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "中信保诚沪深300指数型证券投资基金(LOF)A",
+            "shortName": "中信保诚沪深300指数（LOF）A"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "富国中证移动互联网指数型证券投资基金A类",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "014173",
+            "shortName": "富国中证移动互联网指数C"
+        },
+        {
+            "name": "鹏华中证移动互联网指数型证券投资基金(LOF)A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015676",
+            "shortName": "鹏华中证移动互联网指数(LOF)C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "160636",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "鹏华中证移动互联网指数型证券投资基金(LOF)A",
+            "shortName": "鹏华中证移动互联网指数(LOF)A"
+        },
+        {
+            "stockCode": "161025",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "富国中证移动互联网指数型证券投资基金A类",
+            "shortName": "富国中证移动互联网指数A"
+        }
+    ]
+}

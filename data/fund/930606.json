@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "areaCode": "cn",
+            "stockCode": "008189",
+            "exchange": "jj",
+            "name": "国泰中证钢铁ETF联接A",
+            "shortName": "国泰中证钢铁ETF联接A",
+            "market": "a"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "008190",
+            "exchange": "jj",
+            "name": "国泰中证钢铁ETF联接A",
+            "shortName": "国泰中证钢铁ETF联接C",
+            "market": "a"
+        },
+        {
+            "stockCode": "013802",
+            "shortName": "财通资管中证钢铁指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "财通资管中证钢铁指数型发起式证券投资基金A"
+        },
+        {
+            "name": "财通资管中证钢铁指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "013803",
+            "shortName": "财通资管中证钢铁指数发起式C"
+        },
+        {
+            "stockCode": "515213",
+            "name": "国泰中证钢铁交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "shortName": "国泰中证钢铁ETF",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515210",
+            "exchange": "sh",
+            "name": "国泰中证钢铁交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "国泰中证钢铁ETF"
+        }
+    ]
+}

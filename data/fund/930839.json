@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "004532",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "民生加银中证港股通高股息精选指数证券投资基金A",
+            "shortName": "民生加银港股通高股息A"
+        },
+        {
+            "stockCode": "004533",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "民生加银中证港股通高股息精选指数证券投资基金A",
+            "shortName": "民生加银中证港股通指数C"
+        },
+        {
+            "stockCode": "159691",
+            "shortName": "港股红利ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "工银瑞信中证港股通高股息精选交易型开放式指数证券投资基金"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012801",
+            "shortName": "富国中证医药50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "富国中证医药50交易型开放式指数证券投资基金联接基金A"
+        },
+        {
+            "name": "富国中证医药50交易型开放式指数证券投资基金联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "012802",
+            "shortName": "富国中证医药50ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "015497",
+            "shortName": "华泰紫金中证医药50指数发起A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰紫金中证医药50指数型发起式证券投资基金A"
+        },
+        {
+            "name": "华泰紫金中证医药50指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "015498",
+            "shortName": "华泰紫金中证医药50指数发起C",
+            "exchange": "jj"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515950",
+            "exchange": "sh",
+            "market": "a",
+            "name": "富国中证医药50交易型开放式指数证券投资基金",
+            "shortName": "富国中证医药50ETF"
+        },
+        {
+            "stockCode": "159838",
+            "shortName": "博时医药50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "博时中证医药50交易型开放式指数证券投资基金"
+        }
+    ]
+}

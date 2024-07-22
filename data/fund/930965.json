@@ -1,0 +1,70 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "018557",
+            "shortName": "易方达中证港股通医药卫生综合ETF联接发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "易方达中证港股通医药卫生综合ETF联接A"
+        },
+        {
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018558",
+            "shortName": "易方达中证港股通医药卫生综合ETF联接发起式C",
+            "exchange": "jj",
+            "name": "易方达中证港股通医药卫生综合ETF联接A"
+        },
+        {
+            "stockCode": "019598",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "平安中证港股医药ETF联接A",
+            "name": "平安中证港股通医药卫生综合ETF联接A"
+        },
+        {
+            "name": "平安中证港股通医药卫生综合ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019599",
+            "shortName": "平安中证港股医药ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "513200",
+            "shortName": "易方达中证港股通医药卫生综合ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "易方达中证港股通医药卫生综合交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "513700",
+            "shortName": "香港医药",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "鹏华中证港股通医药卫生综合交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159718",
+            "shortName": "平安中证港股医药ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "平安中证港股通医药卫生综合交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159776",
+            "shortName": "港股通医药ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "银华中证港股通医药卫生综合交易型开放式指数证券投资基金"
+        }
+    ]
+}

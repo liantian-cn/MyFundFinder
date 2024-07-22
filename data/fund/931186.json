@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008749",
+            "name": "富国中证科技50策略ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "富国中证科技50策略ETF联接A"
+        },
+        {
+            "name": "富国中证科技50策略ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008750",
+            "shortName": "富国中证科技50策略ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515750",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "富国中证科技50策略交易型开放式指数证券投资基金",
+            "shortName": "富国中证科技50策略ETF"
+        }
+    ]
+}

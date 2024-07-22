@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007671",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信中证红利潜力指数证券投资基金A",
+            "shortName": "建信中证红利潜力指数A"
+        },
+        {
+            "stockCode": "007672",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "建信中证红利潜力指数证券投资基金A",
+            "shortName": "建信中证红利潜力指数C"
+        },
+        {
+            "stockCode": "008149",
+            "name": "山西证券中证红利潜力交易型开放式指数证券投资基金联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "山西证券中证红利潜力ETF联接  "
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515570",
+            "exchange": "sh",
+            "name": "山西证券中证红利潜力交易型开放式指数证券投资基金",
+            "market": "a",
+            "shortName": "山西证券中证红利潜力ETF"
+        }
+    ]
+}

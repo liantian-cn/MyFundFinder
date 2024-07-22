@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012698",
+            "shortName": "平安中证新能车ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "平安中证新能源汽车产业ETF联接A"
+        },
+        {
+            "name": "平安中证新能源汽车产业ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012699",
+            "shortName": "平安中证新能源汽车ETF发起联接C"
+        },
+        {
+            "stockCode": "501057",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富中证新能源汽车产业指数型发起式证券投资基金(LOF)A",
+            "shortName": "汇添富中证新能源汽车产业指数（LOF）A"
+        },
+        {
+            "stockCode": "501058",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "汇添富中证新能源汽车产业指数型发起式证券投资基金(LOF)A",
+            "shortName": "汇添富中证新能源汽车产业指数（LOF）C"
+        },
+        {
+            "areaCode": "cn",
+            "stockCode": "515700",
+            "exchange": "sh",
+            "market": "a",
+            "name": "平安中证新能源汽车产业交易型开放式指数证券投资基金",
+            "shortName": "平安中证新能源汽车产业ETF"
+        },
+        {
+            "stockCode": "516390",
+            "shortName": "汇添富中证新能源汽车产业ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "汇添富中证新能源汽车产业交易型开放式指数证券投资基金"
+        }
+    ]
+}

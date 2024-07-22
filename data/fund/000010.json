@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "name": "华安上证180交易型开放式指数证券投资基金联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014979",
+            "shortName": "华安上证180ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "040180",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华安上证180交易型开放式指数证券投资基金联接基金",
+            "shortName": "华安上证180ETF联接A"
+        },
+        {
+            "stockCode": "519180",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "万家180指数证券投资基金",
+            "shortName": "万家180指数"
+        },
+        {
+            "stockCode": "510180",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "上证180交易型开放式指数证券投资基金",
+            "shortName": "华安上证180ETF"
+        }
+    ]
+}

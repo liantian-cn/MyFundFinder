@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "009726",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "招商中证500等权重指数增强A",
+            "shortName": "招商中证500等权重指数增强A",
+            "exchange": "jj"
+        },
+        {
+            "name": "招商中证500等权重指数增强A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "009727",
+            "shortName": "招商中证500等权重指数增强C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515590",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "前海开源中证500等权重交易型开放式指数证券投资基金",
+            "shortName": "前海开源中证500等权ETF"
+        }
+    ]
+}

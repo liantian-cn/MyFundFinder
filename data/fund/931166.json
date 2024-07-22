@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "008154",
+            "shortName": "嘉实医药健康100ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "嘉实中证医药健康100策略ETF联接A",
+            "exchange": "jj"
+        },
+        {
+            "name": "嘉实中证医药健康100策略ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008155",
+            "shortName": "嘉实医药健康100ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "515960",
+            "name": "嘉实中证医药健康100策略交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "嘉实医药健康100ETF"
+        }
+    ]
+}

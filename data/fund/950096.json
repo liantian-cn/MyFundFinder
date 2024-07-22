@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "003194",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "汇添富中证上海国企交易型开放式指数证券投资基金联接基金",
+            "shortName": "汇添富中证上海国企ETF联接A"
+        },
+        {
+            "name": "汇添富中证上海国企交易型开放式指数证券投资基金联接基金",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018061",
+            "shortName": "汇添富中证上海国企ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "510810",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "中证上海国企交易型开放式指数证券投资基金",
+            "shortName": "中证上海国企ETF"
+        }
+    ]
+}

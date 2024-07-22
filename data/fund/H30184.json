@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007300",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国联安中证全指半导体产品与设备交易型开放式指数证券",
+            "shortName": "国联安中证全指半导体产品与设备ETF联接A"
+        },
+        {
+            "stockCode": "007301",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "国联安中证全指半导体产品与设备交易型开放式指数证券",
+            "shortName": "国联安中证全指半导体产品与设备ETF联接C"
+        },
+        {
+            "stockCode": "512480",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "国联安中证全指半导体产品与设备交易型开放式指数证券投资基金",
+            "shortName": "国联安半导体ETF"
+        }
+    ]
+}

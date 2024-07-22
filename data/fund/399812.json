@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "000968",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证养老产业指数型发起式证券投资基金A类",
+            "shortName": "广发养老指数A"
+        },
+        {
+            "stockCode": "002982",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证养老产业指数型发起式证券投资基金A类",
+            "shortName": "广发养老指数C"
+        },
+        {
+            "stockCode": "516560",
+            "shortName": "华宝养老ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "华宝中证养老产业交易型开放式指数证券投资基金"
+        }
+    ]
+}

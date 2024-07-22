@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "007873",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证科技龙头交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "华宝科技ETF联接A"
+        },
+        {
+            "stockCode": "007874",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "华宝中证科技龙头交易型开放式指数证券投资基金发起式联接基金A类",
+            "shortName": "华宝科技ETF联接C"
+        },
+        {
+            "stockCode": "012882",
+            "shortName": "工银科技龙头ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "工银瑞信中证科技龙头ETF联接A"
+        },
+        {
+            "name": "工银瑞信中证科技龙头ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012883",
+            "shortName": "工银科技龙头ETF发起式联接C"
+        },
+        {
+            "stockCode": "515000",
+            "areaCode": "cn",
+            "exchange": "sh",
+            "market": "a",
+            "name": "华宝中证科技龙头交易型开放式指数证券投资基金",
+            "shortName": "华宝中证科技龙头ETF"
+        },
+        {
+            "stockCode": "516050",
+            "shortName": "科技龙头ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "工银瑞信中证科技龙头交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        }
+    ]
+}

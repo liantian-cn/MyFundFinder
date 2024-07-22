@@ -1,0 +1,78 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "012151",
+            "shortName": "港股通50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华泰柏瑞中证港股通50ETF联接A"
+        },
+        {
+            "name": "华泰柏瑞中证港股通50ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "stockCode": "012152",
+            "shortName": "港股通50ETF联接C"
+        },
+        {
+            "stockCode": "014689",
+            "shortName": "国泰中证港股通50ETF发起联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "国泰中证港股通50交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "国泰中证港股通50交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "014690",
+            "shortName": "国泰中证港股通50ETF发起联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018721",
+            "shortName": "华夏中证港股通50ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "华夏中证港股通50交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "华夏中证港股通50交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018722",
+            "shortName": "华夏中证港股通50ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "513550",
+            "shortName": "港股通50",
+            "areaCode": "cn",
+            "market": "a",
+            "name": "华泰柏瑞中证港股通50交易型开放式指数证券投资基金",
+            "exchange": "sh"
+        },
+        {
+            "stockCode": "159711",
+            "shortName": "华夏中证港股通50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "华夏中证港股通50交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159712",
+            "shortName": "国泰中证港股通50ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "国泰中证港股通50交易型开放式指数证券投资基金"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "000942",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发信息技术联接A类",
+            "shortName": "广发信息技术联接A"
+        },
+        {
+            "stockCode": "002974",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发信息技术联接A类",
+            "shortName": "广发信息技术联接C"
+        },
+        {
+            "stockCode": "562560",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "华夏中证全指信息技术ETF",
+            "name": "华夏中证全指信息技术交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159939",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "广发中证全指信息技术交易型开放式指数证券投资基金",
+            "shortName": "广发中证全指信息技术ETF"
+        }
+    ]
+}

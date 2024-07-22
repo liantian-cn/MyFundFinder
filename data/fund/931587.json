@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "019001",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华夏中证智选500价值稳健策略ETF发起式联接A",
+            "name": "华夏中证智选500价值稳健策略ETF联接A"
+        },
+        {
+            "name": "华夏中证智选500价值稳健策略ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "019002",
+            "shortName": "华夏中证智选500价值稳健策略ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "159617",
+            "shortName": "华夏中证智选500价值稳健策略ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "华夏中证智选500价值稳健策略交易型开放式指数证券投资基金"
+        }
+    ]
+}

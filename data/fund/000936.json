@@ -1,0 +1,30 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "020704",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "南方中证通信服务ETF发起联接A",
+            "name": "南方中证通信服务交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "南方中证通信服务交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "020705",
+            "shortName": "南方中证通信服务ETF发起联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "159511",
+            "shortName": "南方中证通信服务ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "name": "南方中证通信服务交易型开放式指数证券投资基金"
+        }
+    ]
+}

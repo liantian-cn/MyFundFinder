@@ -1,0 +1,46 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "001133",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指可选消费交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "广发可选消费联接A"
+        },
+        {
+            "stockCode": "002977",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指可选消费交易型开放式指数证券投资基金发起式联接基金",
+            "shortName": "广发可选消费联接C"
+        },
+        {
+            "stockCode": "021365",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "华夏中证全指可选消费ETF发起式联接A",
+            "name": "华夏中证全指可选消费交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "stockCode": "562580",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "shortName": "华夏中证全指可选消费ETF",
+            "name": "华夏中证全指可选消费交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159936",
+            "areaCode": "cn",
+            "exchange": "sz",
+            "market": "a",
+            "name": "广发中证全指可选消费交易型开放式指数证券投资基金",
+            "shortName": "广发中证全指可选消费ETF"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "stockCode": "005063",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指家用电器指数型发起式证券投资基金A类",
+            "shortName": "广发中证全指家用电器ETF联接A"
+        },
+        {
+            "stockCode": "005064",
+            "areaCode": "cn",
+            "exchange": "jj",
+            "market": "a",
+            "name": "广发中证全指家用电器指数型发起式证券投资基金A类",
+            "shortName": "广发中证全指家用电器ETF联接C"
+        },
+        {
+            "stockCode": "008713",
+            "name": "国泰中证全指家用电器ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "shortName": "国泰中证全指家用电器ETF联接A"
+        },
+        {
+            "name": "国泰中证全指家用电器ETF联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "008714",
+            "shortName": "国泰中证全指家用电器ETF联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "017226",
+            "shortName": "富国中证全指家用电器ETF发起式联接A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "富国中证全指家用电器交易型开放式指数证券投资基金发起式联接基金A"
+        },
+        {
+            "name": "富国中证全指家用电器交易型开放式指数证券投资基金发起式联接基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "017227",
+            "shortName": "富国中证全指家用电器ETF发起式联接C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "018564",
+            "shortName": "嘉实中证全指家用电器指数发起式A",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "jj",
+            "name": "嘉实中证全指家用电器指数型发起式证券投资基金A"
+        },
+        {
+            "name": "嘉实中证全指家用电器指数型发起式证券投资基金A",
+            "areaCode": "cn",
+            "market": "a",
+            "stockCode": "018565",
+            "shortName": "嘉实中证全指家用电器指数发起式C",
+            "exchange": "jj"
+        },
+        {
+            "stockCode": "560880",
+            "shortName": "广发中证全指家用电器ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "广发中证全指家用电器交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "561120",
+            "shortName": "富国中证全指家用电器ETF",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sh",
+            "name": "富国中证全指家用电器交易型开放式指数证券投资基金"
+        },
+        {
+            "stockCode": "159996",
+            "name": "国泰中证全指家用电器交易型开放式指数证券投资基金",
+            "areaCode": "cn",
+            "market": "a",
+            "exchange": "sz",
+            "shortName": "国泰中证全指家用电器ETF"
+        }
+    ]
+}
