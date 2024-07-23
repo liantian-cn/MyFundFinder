@@ -107,7 +107,7 @@ def main():
 
     # 排序
 
-    sorted_list = sorted(indexes, key=lambda x: x.pb_percentile * x.pe_percentile * (1/x.dyr))
+    sorted_list = sorted(indexes, key=lambda x: x.pb_percentile * x.pe_percentile)
 
     # 渲染模板
     output = template.render(indexes=sorted_list)
