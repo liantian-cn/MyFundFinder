@@ -2,8 +2,8 @@ name: Daily Job
 
 on:
   schedule:
-    - cron: "35 8 * * 1-5"
-  # workflow_dispatch
+    - cron: "40 8 * * *"
+
 
 
 jobs:
