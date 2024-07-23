@@ -57,6 +57,9 @@ def update_data(data, stock_code):
     new_df['date'] = pd.to_datetime(new_df['date']).dt.tz_convert(None)
     with open(AMENTAL_DIR.joinpath(f"{stock_code}.json"), "r", encoding="utf-8") as f:
         old_df = pd.read_json(f, orient="records")
+
+    if new_df['date'].iloc[-1] == old_df['date'].iloc[-1]:
+        return None
     df_concat = pd.concat([old_df, new_df], ignore_index=True)
     # print(df_concat[-5:])
 
@@ -67,16 +70,19 @@ def update_data(data, stock_code):
 
     with open(AMENTAL_DIR.joinpath(f"{stock_code}.json"), 'w', encoding="utf-8") as f:
         df_calculate.to_json(f, orient="records", indent=4)
-    logging.info(f"{stock_code} 更新成功")
 
 
 def main():
     stockCodes = [file.stem for file in AMENTAL_DIR.glob('*.json')]
     d = datetime.datetime.now().strftime("%Y-%m-%d")
     data_all = fetch_all_data(d, stockCodes)
+    total = len(data_all)
+    i = 1
     for data in data_all:
         stock_code = data["stockCode"]
         update_data(data, stock_code)
+        logging.info(f"[{i}/{total}] {stock_code} 更新成功")
+        i += 1
     from html_generator import main as html_generator
     html_generator()
     logging.info("更新完成")

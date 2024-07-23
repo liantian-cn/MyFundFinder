@@ -5,6 +5,7 @@ import json
 from lixinger import *
 from jinja2 import Environment, FileSystemLoader
 import pandas
+import datetime
 
 
 def float_to_percentile(value):
@@ -110,7 +111,7 @@ def main():
     sorted_list = sorted(indexes, key=lambda x: x.pb_percentile * x.pe_percentile)
 
     # 渲染模板
-    output = template.render(indexes=sorted_list)
+    output = template.render(indexes=sorted_list,now=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
     # 将渲染后的结果写入输出文件
     with open('output/index.html', 'w', encoding="utf-8") as file:
