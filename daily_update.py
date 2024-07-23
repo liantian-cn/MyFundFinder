@@ -59,8 +59,8 @@ def update_data(data, stock_code):
     with open(AMENTAL_DIR.joinpath(f"{stock_code}.json"), "r", encoding="utf-8") as f:
         old_df = pd.read_json(f, orient="records")
 
-    if new_df['date'].iloc[-1] == old_df['date'].iloc[-1]:
-        return None
+    # if new_df['date'].iloc[-1] == old_df['date'].iloc[-1]:
+    #     return None
     df_concat = pd.concat([old_df, new_df], ignore_index=True)
     # print(df_concat[-5:])
 
