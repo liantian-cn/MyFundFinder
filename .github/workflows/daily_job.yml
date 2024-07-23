@@ -1,9 +1,9 @@
 name: Daily Job
 
 on:
-  # schedule:
-  # - cron: "0 14 * * 1-5"
-  workflow_dispatch
+  schedule:
+  - cron: "30 8 * * 1-5"
+  # workflow_dispatch
 
 
 jobs:
@@ -39,12 +39,6 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./output
     
     # - name: Deploy
     #  uses: peaceiris/actions-gh-pages@v4
