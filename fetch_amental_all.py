@@ -3,9 +3,11 @@
 
 import json
 import logging
-from datetime import datetime, timedelta, timezone
-from lixinger import *
+from datetime import datetime, timedelta
+
 import pandas as pd
+
+from lixinger import *
 
 logging.basicConfig(level=logging.INFO)
 

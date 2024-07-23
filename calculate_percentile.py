@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import json
 import logging
+
 import pandas
 
 from lixinger import *
-import pandas as pd
 
 logging.basicConfig(level=logging.INFO)
 

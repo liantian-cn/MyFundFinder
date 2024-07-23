@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*-
 import datetime
 import logging
-import json
-from lixinger import *
+
 import pandas as pd
+
 from calculate_percentile import calculate_percentile
+from lixinger import *
 
 logging.basicConfig(level=logging.INFO)
 
