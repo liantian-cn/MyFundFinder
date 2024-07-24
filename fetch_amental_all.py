@@ -55,10 +55,11 @@ def fetch_data(start_date, end_date, stock_code):
                                "pb.mcw",
                                "dyr.mcw",
                                "mc",
-                               "cpc",
+                               "cp",
+                               # "cpc",
                                "to_r",
-                               "sb",
-                               "fb"
+                               # "sb",
+                               # "fb"
                            ]
                        }
                        )
