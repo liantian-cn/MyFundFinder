@@ -60293,10 +60293,25 @@
         "mc":17495605187731.1875,
         "cp":5474.808,
         "to_r":0.0013,
-        "stockCode":"000922",
+        "stockCode":922,
         "pb_percentile":0.1726368159,
         "pe_percentile":0.3549751244,
         "dyr_percentile":0.942039801,
         "ps_percentile":0.3126865672
+    },
+    {
+        "date":1733414400000,
+        "pe_ttm.mcw":7.6466775493,
+        "ps_ttm.mcw":0.9305157306,
+        "pb.mcw":0.7580120666,
+        "dyr.mcw":0.0617837876,
+        "mc":17626898605302.12890625,
+        "cp":5549.6856,
+        "to_r":0.0015,
+        "stockCode":"000922",
+        "pb_percentile":0.1770703805,
+        "pe_percentile":0.3635911465,
+        "dyr_percentile":0.9353394678,
+        "ps_percentile":0.3220591893
     }
 ]
