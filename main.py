@@ -405,8 +405,9 @@ def html_generator():
     for index in index_data:
         # print(index["stockCode"])
         index["latest_record"] = get_latest_record(index["stockCode"])
-        if math.isnan(index["latest_record"]["pb_percentile"])  or math.isnan(index["latest_record"]["dyr"]) or math.isnan(
-                index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["Boll Position"]) :
+        if math.isnan(index["latest_record"]["pb_percentile"]) or math.isnan(
+                index["latest_record"]["dyr"]) or math.isnan(
+                index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["Boll Position"]):
             index["sorted"] = 0
         else:
             index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.1 +
@@ -451,7 +452,6 @@ def main():
     fetch_index_fundamental_all()
     calculate_index_all()
     html_generator()
-
 
 
 if __name__ == '__main__':
