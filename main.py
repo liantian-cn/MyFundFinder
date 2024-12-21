@@ -417,8 +417,6 @@ def html_generator():
                                   )
         index["inside_fund"] = list(filter(lambda x: (x["exchange"] in ["sz", "sh"]), index["tracking_fund"]))
 
-    import pprint
-    pprint.pprint(index_data[3])
     index_data.sort(key=lambda x: x['sorted'], reverse=True)
     # 创建一个Jinja2环境
     env = Environment(loader=FileSystemLoader('.'))
