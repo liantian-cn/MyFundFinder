@@ -413,7 +413,7 @@ def html_generator():
             index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.1 +
                                   convert_score(index["latest_record"]["pe_percentile"] * 100) * 0.9 +
                                   convert_score(index["latest_record"]["Boll Position"] * 100) * 1.5 +
-                                  int(index["latest_record"]["dyr"] * 1666)
+                                  int(index["latest_record"]["dyr"] * 2000)
                                   )
         index["inside_fund"] = list(filter(lambda x: (x["exchange"] in ["sz", "sh"]), index["tracking_fund"]))
 
