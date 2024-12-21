@@ -1,0 +1,53 @@
+name: Daily Job
+
+on:
+  schedule:
+    - cron:  '30 8 * * *'
+  push:
+    # only trigger on branches, not on tags
+    branches: 'main'
+
+
+jobs:
+  build:
+    name: build page
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write     
+      id-token: write   
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' 
+        cache: 'pip'
+        
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run Main
+      run: python3 main.py
+      env:
+        LIXINGER_TOKEN: ${{ secrets.LIXINGER_TOKEN }}
+
+    - name: Auto Commit
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: 'output/'
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

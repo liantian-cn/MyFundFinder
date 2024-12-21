@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>指数估值</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.net/bootstrap/4.6.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.net/datatables/1.10.21/css/dataTables.bootstrap4.min.css">
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+
+    <span class="navbar-brand mb-0 h1">指数估值</span>
+            <span class="navbar-text">
+      中国标准时间更新：{{ now }}
+    </span>
+
+</nav>
+
+<div class="container-fluid mt-3">
+    <table id="example" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+        <tr>
+            <th>日期</th>
+            <th>代码</th>
+            <th>名称</th>
+            <th>类型</th>
+            <th>收盘点位</th>
+            <th title="PE">市盈率</th>
+            <th title="PB">市净率</th>
+            <th>市盈率/位置</th>
+            <th>市净率/位置</th>
+            <th>股息率</th>
+            <th>收盘点位/位置</th>
+            <th>滚动市销率/倍</th>
+            <th>市值/亿</th>
+            <th>场内ETF</th>
+            <th>Score</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for index in index_data %}
+            <tr>
+                <td>{{ index.latest_record.date.strftime('%Y-%m-%d') }}</td>
+                <td>{{ index.stockCode }}</td>
+                <td>{{ index.name }}</td>
+                <td title="{{ index.series }}">
+                    {% if index.series == 'size' %}
+                        规模
+                    {% elif index.series == 'strategy' %}
+                        策略
+                    {% elif index.series == 'style' %}
+                        风格
+                    {% elif index.series == 'thematic' %}
+                        主题
+                    {% elif index.series == 'sector' %}
+                        行业
+                    {% else %}
+                        {{ index.series }}
+                    {% endif %}
+                </td>
+                <td>{{ "%.1f"|format(index.latest_record.cp) }}</td>
+                <td>{{ "%.1f"|format(index.latest_record.pe_ttm) }}</td>
+                <td>{{ "%.1f"|format(index.latest_record.pb) }}</td>
+                <td class="{% if index.latest_record.pe_percentile < 0.2 %}table-success {% elif index.latest_record.pe_percentile > 0.8 %}table-danger {% elif index.latest_record.pe_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.pe_percentile*100) }}%</td>
+                <td class="{% if index.latest_record.pb_percentile < 0.2 %}table-success {% elif index.latest_record.pb_percentile > 0.8 %}table-danger {% elif index.latest_record.pb_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.pb_percentile*100) }}%</td>
+                <td class="{% if index.latest_record.dyr > 0.04 %}table-success{% endif %}">{{ "%.2f"|format(index.latest_record.dyr*100) }}%</td>
+                <td class="{% if index.latest_record.Boll_Position < 0.15 %}table-success {% elif index.latest_record.Boll_Position > 0.8 %}table-danger {% elif index.latest_record.Boll_Position > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.Boll_Position*100) }}%</td>
+                <td>{{ "%.1f"|format(index.latest_record.ps_ttm) }}</td>
+                <td>{{ "%.0f"|format(index.latest_record.mc/100000000) }}</td>
+                <td title="{% for etf in index.inside_fund %}{{ etf.stockCode }},{% endfor %}">   {{ index.inside_fund|length }} 个</td>
+                <td>{{ index.sorted }}</td>
+            </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+</div>
+
+<script src="https://cdn.staticfile.net/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.net/datatables/1.10.21/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.staticfile.net/datatables/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#example').DataTable({
+            paging: false
+        });
+    });
+</script>
+</body>
+</html>
