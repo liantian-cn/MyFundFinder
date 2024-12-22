@@ -26,12 +26,14 @@
             <th>名称</th>
             <th>类型</th>
             <th>收盘点位</th>
-            <th title="PE">市盈率</th>
-            <th title="PB">市净率</th>
+            <th title="Rolling PE">市盈率</th>
+            <th title="Rolling PB">市净率</th>
+            <th title="高于4%的会被绿色标记。">股息率</th>
             <th>市销率</th>
-            <th title="当前市盈率在过去2600个交易日中的位置，低于20%为低估">市盈率/位置</th>
-            <th title="当前市净率在过去2600个交易日中的位置，低于20%为低估">市净率/位置</th>
-            <th>股息率</th>
+            <th title="当前市盈率在过去2600个交易日中的位置，越小越好，低于20%染色">市盈率RP</th>
+            <th title="当前市净率在过去2600个交易日中的位置，越小越好，低于20%染色">市净率RP</th>
+            <th title="当前股息率在过去2600个交易日中的位置，越大越好。">股息率RP</th>
+
             <th title="表示近一个月的指数变动，处于地点则数值较小。">轮动位置</th>
             <th title="4倍的标准差，代表近期的波动幅度">波动</th>
             <th>市值/亿</th>
@@ -63,11 +65,12 @@
                 <td>{{ "%.1f"|format(index.latest_record.cp) }}</td>
                 <td>{{ "%.1f"|format(index.latest_record.pe_ttm) }}</td>
                 <td>{{ "%.1f"|format(index.latest_record.pb) }}</td>
+                <td>{{ "%.2f"|format(index.latest_record.dyr*100) }}%</td>
                 <td>{{ "%.1f"|format(index.latest_record.ps_ttm) }}</td>
                 <td class="{% if index.latest_record.pe_percentile < 0.2 %}table-success {% elif index.latest_record.pe_percentile > 0.8 %}table-danger {% elif index.latest_record.pe_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.pe_percentile*100) }}%</td>
                 <td class="{% if index.latest_record.pb_percentile < 0.2 %}table-success {% elif index.latest_record.pb_percentile > 0.8 %}table-danger {% elif index.latest_record.pb_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.pb_percentile*100) }}%</td>
-                <td title ="位置{{ '%.0f'|format(index.latest_record.dyr_percentile*100) }}%" class="{% if index.latest_record.dyr > 0.04 %}table-success{% endif %}">{{ "%.2f"|format(index.latest_record.dyr*100) }}%</td>
-                <td class="{% if index.latest_record.boll_percentile < 0.15 %}table-success {% elif index.latest_record.boll_percentile > 0.8 %}table-danger {% elif index.latest_record.boll_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.boll_percentile*100) }}%</td>
+                <td class="{% if index.latest_record.dyr_percentile < 0.2 %}table-danger{% elif index.latest_record.dyr > 0.04 %}table-success{% elif index.latest_record.dyr_percentile > 0.4 %}table-warning{% endif %}">{{ "%.0f"|format(index.latest_record.dyr_percentile*100) }}%</td>
+                <td class="{% if index.latest_record.boll_percentile < 0.15 %}table-success{% elif index.latest_record.boll_percentile > 0.8 %}table-danger{% elif index.latest_record.boll_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.boll_percentile*100) }}%</td>
                 <td>{{ "%.2f"|format(index.latest_record.STD/index.latest_record.cp*400) }}%</td>
                 <td>{{ "%.0f"|format(index.latest_record.mc/100000000) }}</td>
                 <td title="{% for etf in index.inside_fund %}{{ etf.stockCode }},{% endfor %}">   {{ index.inside_fund|length }} 个</td>
