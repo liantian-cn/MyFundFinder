@@ -320,11 +320,14 @@ def calculate_index(index):
         logging.info(f'\"{stock_code}\" # {index["name"]} 交易日小于2500')
 
     # 市净率(历史百分位)
-    df['pb_percentile'] = df['pb.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    # df['pb_percentile'] = df['pb.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    df['pb_percentile'] = df['pb.mcw'].rolling(window=3000, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 滚动市盈率(历史百分位)
-    df['pe_percentile'] = df['pe_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    # df['pe_percentile'] = df['pe_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    df['pe_percentile'] = df['pe_ttm.mcw'].rolling(window=3000, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 股息率(历史百分位)
     # df['dyr_percentile'] = df['dyr.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    df['dyr_percentile'] = df['dyr.mcw'].rolling(window=3000, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 滚动市销率(历史百分位)
     # df['ps_percentile'] = df['ps_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
 
@@ -406,13 +409,14 @@ def html_generator():
         # print(index["stockCode"])
         index["latest_record"] = get_latest_record(index["stockCode"])
         if math.isnan(index["latest_record"]["pb_percentile"]) or math.isnan(
-                index["latest_record"]["dyr"]) or math.isnan(
+                index["latest_record"]["dyr_percentile"]) or math.isnan(
                 index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["Boll Position"]):
             index["sorted"] = 0
         else:
-            index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.1 +
-                                  convert_score(index["latest_record"]["pe_percentile"] * 100) * 0.9 +
-                                  convert_score(index["latest_record"]["Boll Position"] * 100) * 1.5 +
+            index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.0 +
+                                  convert_score(index["latest_record"]["pe_percentile"] * 100) * 1.0 +
+                                  convert_score(index["latest_record"]["Boll Position"] * 100) * 1.0 +
+                                  int(index["latest_record"]["dyr_percentile"] * 100) * 1.0 +
                                   int(index["latest_record"]["dyr"] * 2000)
                                   )
         index["inside_fund"] = list(filter(lambda x: (x["exchange"] in ["sz", "sh"]), index["tracking_fund"]))

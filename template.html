@@ -28,14 +28,14 @@
             <th>收盘点位</th>
             <th title="PE">市盈率</th>
             <th title="PB">市净率</th>
-            <th>市盈率/位置</th>
-            <th>市净率/位置</th>
+            <th title="当前市盈率在过去2600个交易日中的位置，低于20%为低估">市盈率/位置</th>
+            <th title="当前市净率在过去2600个交易日中的位置，低于20%为低估">市净率/位置</th>
             <th>股息率</th>
-            <th>收盘点位/位置</th>
+            <th title="收盘点位表示在布林线上下轨之间的位置，低于15%为绿色">收盘点位/位置</th>
             <th>滚动市销率/倍</th>
             <th>市值/亿</th>
             <th>场内ETF</th>
-            <th>Score</th>
+            <th title="一个自定义的积分">Score</th>
         </tr>
         </thead>
         <tbody>
@@ -64,7 +64,7 @@
                 <td>{{ "%.1f"|format(index.latest_record.pb) }}</td>
                 <td class="{% if index.latest_record.pe_percentile < 0.2 %}table-success {% elif index.latest_record.pe_percentile > 0.8 %}table-danger {% elif index.latest_record.pe_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.pe_percentile*100) }}%</td>
                 <td class="{% if index.latest_record.pb_percentile < 0.2 %}table-success {% elif index.latest_record.pb_percentile > 0.8 %}table-danger {% elif index.latest_record.pb_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.pb_percentile*100) }}%</td>
-                <td class="{% if index.latest_record.dyr > 0.04 %}table-success{% endif %}">{{ "%.2f"|format(index.latest_record.dyr*100) }}%</td>
+                <td title ="位置{{ '%.0f'|format(index.latest_record.dyr_percentile*100) }}%" class="{% if index.latest_record.dyr > 0.04 %}table-success{% endif %}">{{ "%.2f"|format(index.latest_record.dyr*100) }}%</td>
                 <td class="{% if index.latest_record.Boll_Position < 0.15 %}table-success {% elif index.latest_record.Boll_Position > 0.8 %}table-danger {% elif index.latest_record.Boll_Position > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.Boll_Position*100) }}%</td>
                 <td>{{ "%.1f"|format(index.latest_record.ps_ttm) }}</td>
                 <td>{{ "%.0f"|format(index.latest_record.mc/100000000) }}</td>
