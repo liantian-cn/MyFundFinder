@@ -340,7 +340,7 @@ def calculate_index(index):
     # 布林线下轨道
     df["Lower Band"] = df['SMA'] - (2 * df['STD'])
     # 布林线位置
-    df['Boll Position'] = ((df['cp'] - df['Lower Band']) / (df['Upper Band'] - df['Lower Band']))
+    df['Boll Position'] = (df['cp'] - df['Lower Band']) / (df['Upper Band'] - df['Lower Band'])
     #
     # print(df)
 
