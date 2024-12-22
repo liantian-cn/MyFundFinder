@@ -336,11 +336,11 @@ def calculate_index(index):
     # 布林线标准差
     df['STD'] = df['cp'].rolling(window=BOLL_PERIOD).std()
     # 布林线上轨
-    df["Upper Band"] = df['SMA'] + (2 * df['STD'])
+    df["UpperBB"] = df['SMA'] + (2 * df['STD'])
     # 布林线下轨道
-    df["Lower Band"] = df['SMA'] - (2 * df['STD'])
+    df["LowerBB"] = df['SMA'] - (2 * df['STD'])
     # 布林线位置
-    df['Boll Position'] = (df['cp'] - df['Lower Band']) / (df['Upper Band'] - df['Lower Band'])
+    df['boll_percentile'] = (df['cp'] - df['LowerBB']) / (df['UpperBB'] - df['LowerBB'])
     #
     # print(df)
 
@@ -378,7 +378,6 @@ def get_latest_record(stock_code):
     result["pb"] = result["pb.mcw"]
     result["pe_ttm"] = result["pe_ttm.mcw"]
     result["ps_ttm"] = result["ps_ttm.mcw"]
-    result["Boll_Position"] = result["Boll Position"]
     return result
 
 
@@ -410,16 +409,20 @@ def html_generator():
         index["latest_record"] = get_latest_record(index["stockCode"])
         if math.isnan(index["latest_record"]["pb_percentile"]) or math.isnan(
                 index["latest_record"]["dyr_percentile"]) or math.isnan(
-                index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["Boll Position"]):
+                index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["boll_percentile"]):
             index["sorted"] = 0
         else:
             index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.0 +
                                   convert_score(index["latest_record"]["pe_percentile"] * 100) * 1.0 +
-                                  convert_score(index["latest_record"]["Boll Position"] * 100) * 1.0 +
+                                  convert_score(index["latest_record"]["boll_percentile"] * 100) * 1.0 +
                                   int(index["latest_record"]["dyr_percentile"] * 100) * 1.0 +
                                   int(index["latest_record"]["dyr"] * 2000)
                                   )
         index["inside_fund"] = list(filter(lambda x: (x["exchange"] in ["sz", "sh"]), index["tracking_fund"]))
+        # if index["stockCode"] == "000819":
+        #     import pprint
+        #     pprint.pprint(index)
+
 
     index_data.sort(key=lambda x: x['sorted'], reverse=True)
     # 创建一个Jinja2环境
