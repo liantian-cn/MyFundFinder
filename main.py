@@ -321,13 +321,16 @@ def calculate_index(index):
 
     # 市净率(历史百分位)
     # df['pb_percentile'] = df['pb.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
-    df['pb_percentile'] = df['pb.mcw'].rolling(window=3000, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    df['pb_percentile'] = df['pb.mcw'].rolling(window=3000, min_periods=1).apply(
+        lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 滚动市盈率(历史百分位)
     # df['pe_percentile'] = df['pe_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
-    df['pe_percentile'] = df['pe_ttm.mcw'].rolling(window=3000, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    df['pe_percentile'] = df['pe_ttm.mcw'].rolling(window=3000, min_periods=1).apply(
+        lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 股息率(历史百分位)
     # df['dyr_percentile'] = df['dyr.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
-    df['dyr_percentile'] = df['dyr.mcw'].rolling(window=3000, min_periods=1).apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
+    df['dyr_percentile'] = df['dyr.mcw'].rolling(window=3000, min_periods=1).apply(
+        lambda x: x.rank(method='min', pct=True).iloc[-1])
     # 滚动市销率(历史百分位)
     # df['ps_percentile'] = df['ps_ttm.mcw'].expanding().apply(lambda x: x.rank(method='min', pct=True).iloc[-1])
 
@@ -409,7 +412,7 @@ def html_generator():
         index["latest_record"] = get_latest_record(index["stockCode"])
         if math.isnan(index["latest_record"]["pb_percentile"]) or math.isnan(
                 index["latest_record"]["dyr_percentile"]) or math.isnan(
-                index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["boll_percentile"]):
+            index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["boll_percentile"]):
             index["sorted"] = 0
         else:
             index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.0 +
@@ -422,7 +425,6 @@ def html_generator():
         # if index["stockCode"] == "000819":
         #     import pprint
         #     pprint.pprint(index)
-
 
     index_data.sort(key=lambda x: x['sorted'], reverse=True)
     # 创建一个Jinja2环境
@@ -451,8 +453,8 @@ def main():
         filter_index()
         logging.info("获取指数基金信息")
         fetch_index_tracking_fund_all()
+        write_current_time_to_json()
     logging.info("写入时间戳")
-    write_current_time_to_json()
     # logging.info("获取基本面信息")
     fetch_index_fundamental_all()
     calculate_index_all()
