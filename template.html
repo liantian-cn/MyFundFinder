@@ -38,7 +38,7 @@
             <th title="4倍的标准差，代表近期的波动幅度">波动</th>
             <th>市值/亿</th>
             <th>场内ETF</th>
-            <th title="一个自定义的积分">Score</th>
+            <th title="一个自定义的积分，颜色表示在过去两年中的位置。越高越好。">Score</th>
         </tr>
         </thead>
         <tbody>
@@ -73,8 +73,8 @@
                 <td class="{% if index.latest_record.boll_percentile < 0.15 %}table-success{% elif index.latest_record.boll_percentile > 0.8 %}table-danger{% elif index.latest_record.boll_percentile > 0.6 %}table-warning {% endif %}">{{ "%.0f"|format(index.latest_record.boll_percentile*100) }}%</td>
                 <td>{{ "%.2f"|format(index.latest_record.STD/index.latest_record.cp*400) }}%</td>
                 <td>{{ "%.0f"|format(index.latest_record.mc/100000000) }}</td>
-                <td title="{% for etf in index.inside_fund %}{{ etf.stockCode }},{% endfor %}">   {{ index.inside_fund|length }} 个</td>
-                <td>{{ index.sorted }}</td>
+                <td title = "{% for etf in index.inside_fund %}{{ etf.stockCode }},{% endfor %}">   {{ index.inside_fund|length }} 个</td>
+                <td title = "{{ '%.2f'|format(index.latest_record.score_percentile*100) }}%" class="{% if index.latest_record.score_percentile > 0.9 %}table-success {% elif index.latest_record.score_percentile > 0.8 %}table-primary {% elif index.latest_record.score_percentile < 0.3 %}table-danger{% elif index.latest_record.score_percentile < 0.6 %}table-warning {% endif %}">{{ index.latest_record.score }}</td>
             </tr>
         {% endfor %}
 

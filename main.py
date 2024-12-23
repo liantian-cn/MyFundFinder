@@ -310,6 +310,38 @@ def fetch_index_tracking_fund_all():
         pickle.dump(index_data, f)
 
 
+def convert_score(score):
+    # 限制输入范围
+    if score < 0:
+        score = 0
+    elif score > 100:
+        score = 100
+
+    # 将浮点数转换为整数并计算反转值
+    return int(100 - score)
+
+
+def calculate_score(row):
+    if math.isnan(row["pb_percentile"]):
+        return 0
+    elif math.isnan(row["pe_percentile"]):
+        return 0
+    elif math.isnan(row["boll_percentile"]):
+        return 0
+    elif math.isnan(row["dyr_percentile"]):
+        return 0
+    elif math.isnan(row["dyr.mcw"]):
+        return 0
+    result = int(
+        (convert_score(row["pb_percentile"] * 100) * 1.0) +
+        (convert_score(row["pe_percentile"] * 100) * 1.0) +
+        (convert_score(row["boll_percentile"] * 100) * 1.0) +
+        (row["dyr_percentile"] * 100 * 1.0) +
+        (row["dyr.mcw"] * 2000)
+    )
+    return result
+
+
 def calculate_index(index):
     """计算一个指数的数据"""
     stock_code = index["stockCode"]
@@ -346,7 +378,9 @@ def calculate_index(index):
     df['boll_percentile'] = (df['cp'] - df['LowerBB']) / (df['UpperBB'] - df['LowerBB'])
     #
     # print(df)
-
+    df['score'] = df.apply(calculate_score, axis=1)
+    df['score_percentile'] = df['score'].rolling(window=500, min_periods=1).apply(
+        lambda x: x.rank(method='min', pct=True).iloc[-1])
     with open(DAILY_DIR.joinpath(f"{stock_code}.pickle"), 'wb') as f:
         pickle.dump(df, f)
 
@@ -384,17 +418,6 @@ def get_latest_record(stock_code):
     return result
 
 
-def convert_score(score):
-    # 限制输入范围
-    if score < 0:
-        score = 0
-    elif score > 100:
-        score = 100
-
-    # 将浮点数转换为整数并计算反转值
-    return int(100 - score)
-
-
 def get_china_standard_time():
     # 创建中国标准时间的时区
     cst = timezone(timedelta(hours=8))
@@ -410,23 +433,12 @@ def html_generator():
     for index in index_data:
         # print(index["stockCode"])
         index["latest_record"] = get_latest_record(index["stockCode"])
-        if math.isnan(index["latest_record"]["pb_percentile"]) or math.isnan(
-                index["latest_record"]["dyr_percentile"]) or math.isnan(
-            index["latest_record"]["pe_percentile"]) or math.isnan(index["latest_record"]["boll_percentile"]):
-            index["sorted"] = 0
-        else:
-            index["sorted"] = int(convert_score(index["latest_record"]["pb_percentile"] * 100) * 1.0 +
-                                  convert_score(index["latest_record"]["pe_percentile"] * 100) * 1.0 +
-                                  convert_score(index["latest_record"]["boll_percentile"] * 100) * 1.0 +
-                                  int(index["latest_record"]["dyr_percentile"] * 100) * 1.0 +
-                                  int(index["latest_record"]["dyr"] * 2000)
-                                  )
         index["inside_fund"] = list(filter(lambda x: (x["exchange"] in ["sz", "sh"]), index["tracking_fund"]))
         # if index["stockCode"] == "000819":
         #     import pprint
         #     pprint.pprint(index)
 
-    index_data.sort(key=lambda x: x['sorted'], reverse=True)
+    index_data.sort(key=lambda x: x["latest_record"]['score'], reverse=True)
     # 创建一个Jinja2环境
     env = Environment(loader=FileSystemLoader('.'))
     # 加载模板
@@ -455,7 +467,7 @@ def main():
         fetch_index_tracking_fund_all()
         write_current_time_to_json()
     logging.info("写入时间戳")
-    # logging.info("获取基本面信息")
+    logging.info("获取基本面信息")
     fetch_index_fundamental_all()
     calculate_index_all()
     html_generator()
