@@ -15,7 +15,8 @@ import pandas as pd
 from datetime import datetime, timedelta, timezone
 from jinja2 import Environment, FileSystemLoader
 
-from lixinger import *
+from lixinger import query_json
+from serverchan import sc_send
 
 BASE_DIR = pathlib.Path(__file__).parent
 DATA_DIR = BASE_DIR.joinpath("data")
@@ -471,6 +472,7 @@ def main():
     fetch_index_fundamental_all()
     calculate_index_all()
     html_generator()
+    sc_send(f"老板，指数数据已计算完毕哦~",f"完成时间：{get_china_standard_time()}")
 
 
 if __name__ == '__main__':
