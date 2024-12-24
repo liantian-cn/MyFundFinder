@@ -3,7 +3,7 @@ name: Daily Job
 on:
   schedule:
     - cron:  '0 0,9 * * *'
-  # workflow_dispatch:
+  workflow_dispatch:
 
 
 jobs:
